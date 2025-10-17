@@ -49,10 +49,6 @@ SaludDigitalB_E1/
 ```
 ##  Conclusiones del Análisis de Datos
 
-```bash
-
-
-
 1. Distribución de pacientes por servicio
 
 ![Reporte - Dist de paciente por servicio](reports/pacientes_por_servicio.png)
@@ -80,7 +76,8 @@ La edad de los pacientes se distribuye de forma amplia, con concentraciones entr
 
 Los distritos con mayores montos promedio fueron San Juan de Lurigancho y San Isidro, mientras que Miraflores y La Molina registraron montos más bajos. Esto podría reflejar diferencias en tipo de atención, capacidad de pago o cobertura de servicios.
 
-```
+
+
 ## 👨‍🏫 Autor
 
 ```bash
