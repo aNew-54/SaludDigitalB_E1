@@ -51,7 +51,7 @@ SaludDigitalB_E1/
 
 1. Distribución de pacientes por servicio
 
-![Reporte - Dist de paciente por servicio](reports/pacientes_por_servicio.png)
+![Reporte - Dist de paciente por servicio](reports/pacientes_atendidos_por_servicio.png)
 
 Los servicios con mayor demanda fueron Emergencia y Consulta General, lo que indica que la mayoría de atenciones se concentran en situaciones críticas o generales. El servicio "Sin Servicio" aparece como categoría residual, posiblemente por registros incompletos
 
@@ -65,7 +65,7 @@ La proporción entre pacientes hombres y mujeres está equilibrada, con una lige
 
 3. Distribución de edades
 
-![Reporte - Dist de edades](reports/distribucion_de_edades.png)
+![Reporte - Dist de edades](reports/distribución_de_edades.png)
 
 La edad de los pacientes se distribuye de forma amplia, con concentraciones entre los 30–40 y 60–70 años. Esto sugiere que los servicios están siendo utilizados tanto por adultos jóvenes como por adultos mayores.
 
