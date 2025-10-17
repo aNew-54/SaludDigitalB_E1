@@ -1,0 +1,3001 @@
+id_paciente,nombre,edad,sexo,distrito,servicio,fecha_atencion,monto
+P0001,Andrés Rojas,88,M,Lince,Cardiología,31/05/2024,130.93
+P0002,Gabriela Torres,54,M,San Juan de Lurigancho,Consulta General,09/10/2024,798.43
+P0003,Andrés Guerrero,86,M,San Juan de Lurigancho,Pediatría,16/12/2024,962.96
+P0004,Lucía Cruz,12,M,Surco,Odontología,20/12/2024,340.02
+P0005,NA,26,M,NA,Odontología,NA,835.66
+P0006,María Acosta,60,F,San Isidro,Odontología,03/08/2024,375.4
+P0007,Verónica Rojas,49,NA,San Isidro,Pediatría,30/11/2024,53.13
+P0008,Verónica Navarro,52,F,San Juan de Lurigancho,Pediatría,02/10/2024,347.19
+P0009,Andrés Rodríguez,19,M,Callao,Ginecología,06/07/2024,95.5
+P0010,Lorena Ramírez,47,M,Callao,Pediatría,03/09/2024,917.26
+P0011,Gabriela Cruz,85,M,Miraflores,Pediatría,NA,419.23
+P0012,Carmen Rojas,24,F,San Juan de Lurigancho,Pediatría,22/02/2024,217.62
+P0013,Diego Torres,23,NA,Callao,Ginecología,27/06/2024,378.52
+P0014,Carmen Navarro,41,NA,Lince,Emergencia,10/05/2024,216.59
+P0015,Patricia Suárez,71,F,La Molina,Consulta General,07/12/2024,690.93
+P0016,Verónica Flores,71,M,San Juan de Lurigancho,Pediatría,07/01/2024,656.24
+P0017,Miguel Rojas,27,F,Lince,Odontología,06/03/2024,811.93
+P0018,Alberto Jiménez,90,F,La Molina,Pediatría,26/07/2024,144.27
+P0019,Carmen García,17,F,La Molina,Ginecología,27/04/2024,221.61
+P0020,Raúl Romero,NA,M,San Juan de Lurigancho,Cardiología,20/10/2024,702.78
+P0021,Diego Navarro,63,NA,Lince,Cardiología,03/03/2024,243.5
+P0022,Luis Guerrero,11,M,Lince,Consulta General,28/06/2024,914.9
+P0023,Alberto López,13,M,San Juan de Lurigancho,Pediatría,05/11/2024,382.84
+P0024,Luis Ramírez,74,M,Surco,Cardiología,27/12/2024,908.16
+P0025,Pedro Sánchez,53,F,NA,Ginecología,02/07/2024,364.97
+P0026,Ricardo Robles,85,F,San Isidro,NA,10/01/2024,983.97
+P0027,María Martínez,59,F,Surco,Emergencia,21/11/2024,162.62
+P0028,Santiago Ramos,9,M,San Juan de Lurigancho,Consulta General,24/01/2024,284.47
+P0029,Andrés Rodríguez,39,F,Lince,Consulta General,13/09/2024,445.23
+P0030,Álvaro Sánchez,36,F,Lince,Emergencia,30/10/2024,540.87
+P0031,Miguel Ramos,12,M,Callao,Emergencia,30/05/2024,157.75
+P0032,Raúl Ramos,86,F,Miraflores,Cardiología,21/11/2024,927.96
+P0033,NA,85,M,Lince,Ginecología,10/09/2024,322.51
+P0034,María Romero,NA,F,Callao,Emergencia,05/08/2024,236.69
+P0035,Santiago Delgado,89,M,Lince,Odontología,28/03/2024,NA
+P0036,Carmen Alfaro,68,M,La Molina,Pediatría,29/10/2024,451.98
+P0037,Luis Acosta,23,M,Callao,Emergencia,06/08/2024,252.52
+P0038,Jorge Sánchez,11,NA,Miraflores,Cardiología,09/08/2024,882.46
+P0039,Diego Morales,82,F,Miraflores,Emergencia,15/01/2024,667.49
+P0040,Marta Pérez,28,F,Surco,Emergencia,27/09/2024,627.81
+P0041,Sofía Soto,68,M,San Juan de Lurigancho,Pediatría,14/04/2024,297.39
+P0042,Ricardo Flores,65,F,La Molina,Emergencia,16/05/2024,155.76
+P0043,Claudia Navarro,62,M,Callao,Ginecología,05/08/2024,148.42
+P0044,María Jiménez,85,F,La Molina,Cardiología,28/07/2024,893.55
+P0045,Sofía Pérez,78,F,Surco,Pediatría,29/02/2024,538.03
+P0046,Héctor Díaz,15,M,La Molina,Odontología,19/03/2024,281.75
+P0047,Roberto López,52,M,San Juan de Lurigancho,Pediatría,15/11/2024,583.76
+P0048,Álvaro Morales,33,F,San Juan de Lurigancho,Cardiología,15/07/2024,90.15
+P0049,Isabel Mendoza,58,M,San Isidro,Emergencia,30/04/2024,240.47
+P0050,Carmen Ortiz,70,M,Surco,Pediatría,14/05/2024,798.5
+P0051,Gabriela Torres,66,F,Miraflores,Cardiología,28/07/2024,334.87
+P0052,Carlos Flores,50,M,La Molina,Ginecología,29/07/2024,566.8
+P0053,Natalia Ortiz,13,M,San Isidro,Ginecología,13/10/2024,450.26
+P0054,Patricia Romero,74,F,Miraflores,Emergencia,04/08/2024,229.12
+P0055,NA,45,M,Lince,Emergencia,06/08/2024,502.56
+P0056,Gabriela Guerrero,42,M,La Molina,Pediatría,24/05/2024,891.4
+P0057,Pedro Martínez,24,F,Callao,Odontología,17/06/2024,294.22
+P0058,Elena Suárez,89,F,Miraflores,Ginecología,18/11/2024,122.25
+P0059,Sofía Torres,36,F,Callao,Consulta General,25/10/2024,299.48
+P0060,Roberto Robles,40,F,La Molina,Odontología,27/10/2024,57.84
+P0061,Álvaro Cruz,37,M,Surco,Cardiología,03/12/2024,91.12
+P0062,Alberto Acosta,52,NA,Surco,Ginecología,NA,656.92
+P0063,Gabriela Mendoza,40,NA,San Isidro,Ginecología,02/07/2024,188.12
+P0064,Miguel Campos,64,F,Miraflores,Emergencia,13/02/2024,430.05
+P0065,Elena Robles,45,M,Surco,Emergencia,17/04/2024,417.71
+P0066,Ricardo Acosta,35,M,Miraflores,Pediatría,14/12/2024,161.14
+P0067,Valeria Vega,68,F,Surco,Ginecología,06/11/2024,517.58
+P0068,Carmen Gómez,51,M,Miraflores,Emergencia,02/05/2024,184.71
+P0069,NA,35,NA,Miraflores,Odontología,02/09/2024,480.38
+P0070,Roberto Jiménez,40,M,San Juan de Lurigancho,Emergencia,07/03/2024,903.41
+P0071,Verónica Suárez,32,F,La Molina,Consulta General,08/06/2024,568.84
+P0072,Carmen López,45,F,Callao,Ginecología,24/04/2024,511.77
+P0073,Sofía Cruz,23,M,San Juan de Lurigancho,Cardiología,12/12/2024,516.65
+P0074,Javier Ramos,21,M,Miraflores,Odontología,29/01/2024,782.53
+P0075,Jorge Pérez,89,F,Lince,Cardiología,13/11/2024,NA
+P0076,Javier Acosta,38,F,Lince,Ginecología,07/11/2024,299.62
+P0077,Roberto Robles,48,F,La Molina,Ginecología,06/01/2024,NA
+P0078,Diego Acosta,51,M,Lince,Emergencia,27/04/2024,196.5
+P0079,Pedro Campos,52,F,La Molina,Emergencia,17/04/2024,302.04
+P0080,Javier Rojas,30,M,Surco,Emergencia,10/11/2024,442.34
+P0081,Raúl Acosta,54,M,La Molina,Ginecología,04/04/2024,882.47
+P0082,Ana Díaz,86,F,San Juan de Lurigancho,Ginecología,12/05/2024,175.61
+P0083,Ricardo Rojas,38,M,La Molina,Emergencia,29/08/2024,862.78
+P0084,María Gómez,48,F,Miraflores,Ginecología,18/06/2024,189.49
+P0085,Isabel Silva,NA,M,Miraflores,Consulta General,03/04/2024,524.53
+P0086,Marta Díaz,77,M,Miraflores,Emergencia,30/12/2024,835.4
+P0087,Diego López,17,M,Surco,NA,09/09/2024,279.61
+P0088,Álvaro Castro,73,M,Callao,Consulta General,04/05/2024,60.84
+P0089,Marta Pérez,72,M,Callao,NA,05/02/2024,268.33
+P0090,Valeria Mendoza,55,F,Lince,Pediatría,29/12/2024,110.77
+P0091,Marta Morales,68,M,San Isidro,Cardiología,25/07/2024,789.74
+P0092,Valeria Jiménez,79,F,San Juan de Lurigancho,Consulta General,11/07/2024,209.2
+P0093,Lucía Acosta,42,F,Surco,Ginecología,20/06/2024,960.13
+P0094,Valeria Mendoza,80,F,Miraflores,Ginecología,05/06/2024,124.18
+P0095,Lucía Gómez,20,F,Surco,Consulta General,15/09/2024,762.52
+P0096,Ricardo Suárez,60,F,Surco,Consulta General,15/09/2024,NA
+P0097,Miguel Vega,43,F,San Juan de Lurigancho,Ginecología,11/06/2024,281.28
+P0098,Claudia Romero,82,M,La Molina,Pediatría,30/05/2024,288.64
+P0099,Elena Suárez,43,M,Callao,Emergencia,03/03/2024,155.04
+P0100,Javier Martínez,61,F,Miraflores,Pediatría,23/07/2024,401.59
+P0101,Héctor Acosta,59,F,La Molina,Consulta General,16/05/2024,902.91
+P0102,Héctor Vega,71,M,Lince,Ginecología,16/02/2024,197.73
+P0103,Lorena Mendoza,48,M,Callao,Odontología,21/10/2024,967.84
+P0104,Isabel Campos,62,M,Miraflores,Cardiología,28/06/2024,488.86
+P0105,Héctor Rojas,77,M,Lince,NA,01/03/2024,233.05
+P0106,Marta Guerrero,35,F,Surco,Emergencia,08/01/2024,114.18
+P0107,Diego Torres,41,M,Callao,Ginecología,05/10/2024,857.55
+P0108,Daniela Jiménez,8,M,NA,Odontología,29/04/2024,826.81
+P0109,Gabriela Romero,52,M,San Juan de Lurigancho,Pediatría,18/06/2024,NA
+P0110,María Rodríguez,NA,M,Lince,Ginecología,03/06/2024,117.29
+P0111,Sofía Ramírez,88,F,NA,Odontología,NA,NA
+P0112,Andrés Castro,19,F,San Isidro,Cardiología,26/04/2024,320.52
+P0113,Ana Navarro,45,F,San Isidro,Consulta General,06/04/2024,220.34
+P0114,Verónica Navarro,17,M,Lince,Emergencia,NA,539.33
+P0115,Jorge Suárez,69,M,Surco,Ginecología,14/04/2024,67.34
+P0116,María Mendoza,NA,F,Surco,Consulta General,19/05/2024,898.16
+P0117,Jorge Pérez,58,F,Callao,Ginecología,12/01/2024,809.58
+P0118,Santiago Pérez,66,M,Callao,Emergencia,24/10/2024,409.99
+P0119,Lorena García,35,F,San Juan de Lurigancho,Pediatría,01/10/2024,627.33
+P0120,Alberto Navarro,13,M,San Isidro,Ginecología,06/08/2024,718.65
+P0121,Lucía Pérez,65,M,San Juan de Lurigancho,Consulta General,23/11/2024,807.53
+P0122,Carlos Cruz,58,M,Miraflores,Cardiología,08/05/2024,433.03
+P0123,Silvia Ramos,75,F,Surco,Odontología,26/01/2024,266.51
+P0124,Natalia Suárez,33,M,La Molina,Consulta General,30/04/2024,595.92
+P0125,Alberto Navarro,50,M,Surco,Pediatría,03/05/2024,420.72
+P0126,Lucía Torres,90,M,La Molina,Odontología,19/01/2024,595.14
+P0127,Luis Jiménez,62,F,San Juan de Lurigancho,Consulta General,28/01/2024,884.89
+P0128,Lucía Torres,NA,F,Lince,Pediatría,11/01/2024,78.06
+P0129,Andrés Navarro,14,M,Callao,Cardiología,30/07/2024,502.65
+P0130,Natalia Silva,49,F,San Juan de Lurigancho,Pediatría,23/04/2024,95.35
+P0131,Carlos Flores,52,M,NA,Pediatría,21/10/2024,112.15
+P0132,Marta Guerrero,34,M,San Juan de Lurigancho,Cardiología,03/02/2024,785.89
+P0133,Sofía Suárez,52,F,San Juan de Lurigancho,Emergencia,26/12/2024,171.78
+P0134,Luis Morales,67,M,La Molina,Odontología,08/08/2024,75.43
+P0135,Isabel López,24,M,Callao,Pediatría,25/03/2024,193.91
+P0136,Gabriela Romero,21,M,NA,Cardiología,22/05/2024,92.07
+P0137,Diego Campos,17,M,San Juan de Lurigancho,Emergencia,08/04/2024,516.86
+P0138,Elena Hernández,71,M,Lince,Odontología,29/03/2024,142.03
+P0139,Pedro Delgado,52,M,San Juan de Lurigancho,Emergencia,30/03/2024,265.5
+P0140,NA,32,F,NA,Odontología,01/12/2024,886.96
+P0141,Diego Cabrera,20,F,Lince,Cardiología,05/11/2024,345.61
+P0142,Silvia Castillo,34,F,San Isidro,Odontología,12/09/2024,558.66
+P0143,Raúl Castro,68,M,La Molina,Emergencia,NA,411.44
+P0144,Andrés Díaz,19,F,San Isidro,Odontología,13/09/2024,813.84
+P0145,Fernando Rojas,72,F,San Juan de Lurigancho,Ginecología,19/04/2024,338.96
+P0146,Ricardo Morales,37,M,Surco,Emergencia,08/09/2024,451.35
+P0147,Claudia Ramírez,9,F,Callao,Cardiología,23/02/2024,207.77
+P0148,Carlos Vega,63,M,Miraflores,Consulta General,02/08/2024,522.01
+P0149,Raúl Romero,NA,M,NA,Ginecología,10/02/2024,857.37
+P0150,Lucía Robles,66,F,Miraflores,Ginecología,13/05/2024,259.82
+P0151,Carmen García,42,M,Miraflores,Consulta General,09/12/2024,567.67
+P0152,Luis García,20,F,Lince,Emergencia,17/06/2024,970.35
+P0153,Claudia Mendoza,14,M,La Molina,Consulta General,14/12/2024,581.0
+P0154,Gabriela Guerrero,83,F,Lince,Ginecología,29/02/2024,394.09
+P0155,Álvaro Castro,18,F,Surco,Pediatría,12/11/2024,677.12
+P0156,Isabel Sánchez,46,NA,Miraflores,Cardiología,NA,714.67
+P0157,Elena Silva,71,F,Miraflores,Cardiología,18/10/2024,964.45
+P0158,Alberto Navarro,13,M,Lince,Pediatría,27/03/2024,661.5
+P0159,Daniela Suárez,17,NA,San Isidro,Cardiología,02/07/2024,577.89
+P0160,Claudia Guerrero,NA,F,Miraflores,Emergencia,08/08/2024,NA
+P0161,Claudia Silva,66,M,Lince,Ginecología,12/03/2024,422.57
+P0162,Sofía Sánchez,NA,F,Miraflores,Consulta General,19/05/2024,452.07
+P0163,Diego Hernández,15,M,San Juan de Lurigancho,Consulta General,19/04/2024,731.24
+P0164,NA,44,F,Lince,Consulta General,16/10/2024,314.69
+P0165,Miguel Castillo,46,M,La Molina,Ginecología,16/09/2024,672.94
+P0166,Fernando Acosta,30,F,San Juan de Lurigancho,Emergencia,10/06/2024,817.54
+P0167,Patricia Alfaro,63,F,Surco,Emergencia,22/06/2024,806.9
+P0168,Silvia Robles,48,F,La Molina,Pediatría,09/03/2024,937.07
+P0169,Verónica Hernández,87,F,Miraflores,Cardiología,24/02/2024,NA
+P0170,Silvia Campos,58,M,San Isidro,Ginecología,23/07/2024,183.18
+P0171,Álvaro Acosta,55,M,La Molina,Pediatría,09/04/2024,762.95
+P0172,Juan Sánchez,44,F,Lince,Emergencia,11/07/2024,135.21
+P0173,Isabel Campos,22,F,Miraflores,Consulta General,06/02/2024,261.4
+P0174,Diego Cruz,77,M,San Isidro,NA,02/01/2024,104.1
+P0175,Santiago Rojas,88,F,Callao,Ginecología,27/05/2024,99.27
+P0176,Ana Navarro,80,F,Miraflores,Pediatría,04/08/2024,981.69
+P0177,Lucía Silva,14,M,San Isidro,Consulta General,11/02/2024,721.52
+P0178,Gabriela Martínez,34,F,NA,Consulta General,28/06/2024,198.8
+P0179,María García,26,M,San Isidro,Consulta General,26/12/2024,94.94
+P0180,Ricardo Morales,81,F,Miraflores,Pediatría,02/08/2024,606.32
+P0181,Alberto Hernández,86,F,San Juan de Lurigancho,Consulta General,31/03/2024,378.2
+P0182,Diego Castillo,80,F,Callao,Odontología,02/01/2024,825.12
+P0183,Ricardo Vega,31,F,San Juan de Lurigancho,Ginecología,07/02/2024,980.57
+P0184,Alberto Sánchez,NA,M,NA,Cardiología,06/05/2024,600.4
+P0185,Isabel Torres,50,M,San Isidro,Cardiología,23/05/2024,NA
+P0186,Ana Castillo,25,M,Miraflores,Cardiología,23/12/2024,517.64
+P0187,Álvaro Silva,45,M,San Juan de Lurigancho,Pediatría,14/09/2024,527.52
+P0188,Valeria Suárez,64,M,La Molina,NA,12/09/2024,667.71
+P0189,Héctor Rojas,21,NA,Lince,Odontología,28/08/2024,82.59
+P0190,Raúl Suárez,51,F,Lince,Cardiología,05/01/2024,261.88
+P0191,Juan Cruz,58,F,Miraflores,Emergencia,22/06/2024,58.04
+P0192,Gabriela Delgado,11,M,La Molina,Ginecología,14/06/2024,76.44
+P0193,Lorena López,79,F,San Isidro,Cardiología,02/03/2024,563.37
+P0194,Ana Robles,81,F,Lince,Cardiología,25/05/2024,501.42
+P0195,Lucía Sánchez,74,M,San Isidro,Ginecología,30/03/2024,NA
+P0196,Ana Alfaro,21,F,La Molina,Cardiología,01/06/2024,NA
+P0197,Gabriela Rodríguez,35,M,La Molina,Emergencia,26/08/2024,727.67
+P0198,Sofía Robles,87,M,Miraflores,Cardiología,15/12/2024,156.79
+P0199,María Acosta,46,M,Lince,Pediatría,30/09/2024,201.04
+P0200,Ricardo Romero,52,M,Callao,Emergencia,02/07/2024,759.68
+P0201,Silvia Romero,78,M,Surco,Cardiología,10/12/2024,696.29
+P0202,Lorena Hernández,86,M,Miraflores,Consulta General,28/06/2024,393.1
+P0203,Sofía Suárez,20,M,Surco,Odontología,15/09/2024,392.16
+P0204,Natalia Cruz,22,M,Callao,Ginecología,28/06/2024,171.8
+P0205,Álvaro Gómez,79,F,Lince,Emergencia,25/01/2024,345.47
+P0206,Luis Hernández,12,F,Callao,Emergencia,28/10/2024,NA
+P0207,Héctor Alfaro,11,F,Callao,Cardiología,28/11/2024,65.59
+P0208,Isabel Campos,52,M,Lince,Ginecología,31/05/2024,265.21
+P0209,Isabel Castillo,66,F,San Juan de Lurigancho,Pediatría,14/10/2024,831.38
+P0210,Gabriela Cruz,75,F,Callao,Cardiología,14/10/2024,688.02
+P0211,Raúl Morales,59,NA,San Juan de Lurigancho,Cardiología,02/09/2024,651.88
+P0212,Daniela Rojas,16,F,Callao,Pediatría,12/10/2024,136.07
+P0213,Ana Castro,16,M,La Molina,Ginecología,15/09/2024,275.02
+P0214,Lucía Soto,86,F,San Juan de Lurigancho,Consulta General,14/08/2024,817.31
+P0215,Ricardo Suárez,54,F,Callao,Consulta General,06/07/2024,971.14
+P0216,Carmen Castro,61,M,Callao,Odontología,21/10/2024,121.6
+P0217,Fernando Cabrera,80,F,La Molina,Odontología,12/09/2024,357.76
+P0218,Pedro Cruz,63,F,San Juan de Lurigancho,Ginecología,19/03/2024,891.89
+P0219,María Jiménez,65,F,Surco,Consulta General,10/06/2024,261.69
+P0220,Ana Martínez,24,F,San Juan de Lurigancho,Consulta General,17/02/2024,534.18
+P0221,Miguel Silva,79,M,San Isidro,Consulta General,14/06/2024,657.78
+P0222,Álvaro Silva,16,M,Surco,Odontología,04/03/2024,782.11
+P0223,Claudia Hernández,22,F,Lince,Emergencia,11/12/2024,562.1
+P0224,Alberto Soto,8,F,Surco,Pediatría,NA,966.76
+P0225,Ricardo Castro,36,F,NA,Emergencia,02/11/2024,588.04
+P0226,Silvia Ortiz,73,M,Callao,Cardiología,30/10/2024,369.29
+P0227,Ana Ortiz,53,F,San Isidro,Ginecología,21/02/2024,999.32
+P0228,Javier Cruz,52,M,Lince,Odontología,07/03/2024,96.32
+P0229,Claudia Vega,74,M,San Isidro,Consulta General,27/04/2024,915.48
+P0230,NA,76,M,Miraflores,Ginecología,21/10/2024,618.74
+P0231,Santiago Martínez,41,F,Lince,Cardiología,03/12/2024,705.3
+P0232,Valeria Delgado,47,F,San Juan de Lurigancho,Emergencia,31/07/2024,70.79
+P0233,Lorena Sánchez,72,F,San Juan de Lurigancho,Ginecología,12/08/2024,226.6
+P0234,Natalia Martínez,36,F,Surco,Cardiología,30/08/2024,786.76
+P0235,Carmen Castro,41,M,La Molina,Odontología,28/07/2024,813.3
+P0236,Héctor Morales,37,F,San Juan de Lurigancho,Cardiología,08/06/2024,214.51
+P0237,Luis Ramos,70,M,Surco,Ginecología,14/05/2024,332.99
+P0238,Sofía Campos,75,M,La Molina,Pediatría,04/10/2024,680.79
+P0239,Gabriela Gómez,80,M,NA,Ginecología,27/10/2024,964.94
+P0240,Lorena Alfaro,19,F,Miraflores,Cardiología,08/08/2024,56.93
+P0241,Héctor García,54,F,Miraflores,Odontología,24/09/2024,386.96
+P0242,Sofía García,48,F,San Isidro,Consulta General,15/12/2024,980.64
+P0243,Diego Guerrero,76,M,San Juan de Lurigancho,NA,05/01/2024,641.2
+P0244,Lorena López,47,M,San Juan de Lurigancho,Cardiología,NA,467.52
+P0245,Ricardo Castro,78,F,San Isidro,Pediatría,21/02/2024,579.48
+P0246,Andrés Ramos,18,M,La Molina,Consulta General,24/01/2024,945.15
+P0247,NA,35,NA,NA,Ginecología,17/01/2024,394.84
+P0248,Luis Rodríguez,NA,M,San Juan de Lurigancho,Pediatría,27/11/2024,225.64
+P0249,Álvaro Gómez,48,M,Surco,NA,27/05/2024,892.88
+P0250,Raúl Navarro,50,M,Surco,Emergencia,15/08/2024,828.05
+P0251,Javier Morales,50,M,Lince,NA,28/03/2024,929.53
+P0252,Lorena Guerrero,18,M,La Molina,Pediatría,01/02/2024,501.85
+P0253,Patricia Robles,83,M,Miraflores,Emergencia,20/03/2024,818.76
+P0254,Jorge Cruz,69,M,San Juan de Lurigancho,Ginecología,31/07/2024,NA
+P0255,Isabel Morales,27,M,La Molina,Odontología,20/06/2024,987.92
+P0256,Fernando Flores,38,F,San Juan de Lurigancho,Cardiología,31/10/2024,421.2
+P0257,Marta Guerrero,73,F,Surco,NA,26/01/2024,610.67
+P0258,Marta Alfaro,44,F,Callao,Consulta General,24/11/2024,317.18
+P0259,NA,28,M,Surco,Cardiología,16/07/2024,788.64
+P0260,Ana Acosta,20,M,La Molina,Pediatría,16/12/2024,257.61
+P0261,Natalia Torres,30,F,Miraflores,Pediatría,17/11/2024,381.82
+P0262,Roberto Robles,12,M,San Isidro,Odontología,25/07/2024,910.94
+P0263,Santiago Navarro,90,F,La Molina,Emergencia,10/03/2024,784.94
+P0264,Héctor Mendoza,48,F,La Molina,Odontología,26/12/2024,560.7
+P0265,Raúl Suárez,8,M,Miraflores,Odontología,09/10/2024,501.84
+P0266,Valeria López,47,M,La Molina,Cardiología,01/10/2024,785.6
+P0267,Álvaro Mendoza,60,F,NA,Cardiología,13/11/2024,56.08
+P0268,Juan Delgado,54,F,Lince,Ginecología,14/08/2024,844.9
+P0269,Patricia Rodríguez,15,F,NA,Cardiología,07/10/2024,647.39
+P0270,Ricardo Silva,45,M,Callao,Pediatría,29/11/2024,546.8
+P0271,Santiago Cabrera,78,F,Lince,Ginecología,27/05/2024,352.29
+P0272,Isabel Ortiz,40,F,Callao,Ginecología,25/09/2024,982.77
+P0273,Héctor Martínez,88,F,La Molina,Ginecología,19/03/2024,936.35
+P0274,Valeria Guerrero,46,F,San Isidro,Pediatría,14/12/2024,352.28
+P0275,Santiago Ortiz,30,M,La Molina,Pediatría,04/08/2024,290.39
+P0276,Natalia Jiménez,66,M,Miraflores,Odontología,NA,494.13
+P0277,Diego Castillo,51,M,La Molina,Cardiología,31/07/2024,528.36
+P0278,Elena Delgado,62,M,Lince,Pediatría,17/12/2024,901.11
+P0279,Daniela Castro,36,F,Miraflores,Cardiología,11/03/2024,877.87
+P0280,Luis Suárez,19,M,San Isidro,NA,04/08/2024,230.64
+P0281,Daniela López,35,M,La Molina,Cardiología,11/01/2024,635.72
+P0282,María Torres,11,M,La Molina,Pediatría,11/05/2024,699.75
+P0283,Luis Martínez,56,M,Lince,Odontología,15/12/2024,756.61
+P0284,Ana Guerrero,20,M,San Isidro,Consulta General,01/01/2024,325.25
+P0285,Javier Vega,33,M,Miraflores,Consulta General,04/04/2024,534.87
+P0286,Carmen Hernández,53,F,Miraflores,Cardiología,15/11/2024,608.24
+P0287,Natalia Gómez,12,M,Surco,Odontología,23/03/2024,NA
+P0288,Ana Cabrera,83,F,La Molina,Ginecología,17/11/2024,302.09
+P0289,Valeria Alfaro,33,M,La Molina,Cardiología,05/09/2024,913.76
+P0290,NA,72,F,NA,Emergencia,28/12/2024,985.64
+P0291,Juan Navarro,63,M,San Isidro,Odontología,29/03/2024,210.6
+P0292,NA,87,F,La Molina,NA,01/03/2024,409.42
+P0293,Carmen Delgado,70,F,Surco,Emergencia,06/10/2024,855.5
+P0294,Javier García,49,F,San Juan de Lurigancho,Odontología,12/08/2024,289.68
+P0295,Carlos Campos,44,M,Callao,Ginecología,13/01/2024,855.62
+P0296,Verónica Mendoza,57,F,Lince,Cardiología,13/10/2024,769.22
+P0297,Valeria Castro,21,M,La Molina,Emergencia,09/01/2024,353.86
+P0298,Marta Ramírez,82,M,Lince,Cardiología,17/12/2024,348.58
+P0299,Raúl Vargas,52,F,Miraflores,NA,05/11/2024,174.09
+P0300,Luis Acosta,56,F,Callao,Odontología,14/08/2024,144.88
+P0301,Patricia García,28,F,Miraflores,Consulta General,01/12/2024,905.79
+P0302,Ana Rodríguez,45,F,Surco,Ginecología,12/05/2024,915.66
+P0303,Andrés Campos,30,M,La Molina,Ginecología,08/11/2024,172.88
+P0304,Miguel Pérez,16,M,Miraflores,Cardiología,16/06/2024,791.78
+P0305,Carmen Díaz,24,M,San Juan de Lurigancho,Ginecología,04/06/2024,880.56
+P0306,Javier Torres,37,M,Miraflores,Cardiología,17/04/2024,679.29
+P0307,Verónica Castro,88,F,Callao,Consulta General,08/10/2024,931.89
+P0308,Luis Navarro,90,F,Surco,Ginecología,26/05/2024,852.36
+P0309,Andrés Silva,63,F,Callao,Pediatría,03/11/2024,795.38
+P0310,Alberto Ramírez,84,F,San Juan de Lurigancho,Ginecología,06/09/2024,NA
+P0311,Santiago Silva,26,F,Callao,Emergencia,16/05/2024,396.35
+P0312,Claudia García,26,F,Surco,Cardiología,11/12/2024,673.55
+P0313,Luis Delgado,17,F,La Molina,Odontología,17/12/2024,534.72
+P0314,Jorge Cruz,66,M,San Juan de Lurigancho,Odontología,05/05/2024,789.63
+P0315,Lorena Martínez,86,F,Surco,Cardiología,20/04/2024,863.96
+P0316,Claudia Castillo,54,M,San Juan de Lurigancho,Consulta General,07/09/2024,537.2
+P0317,Valeria Castillo,56,M,Miraflores,Cardiología,30/04/2024,510.39
+P0318,Daniela López,12,M,La Molina,Pediatría,19/10/2024,469.16
+P0319,Marta Castillo,88,M,La Molina,Odontología,20/02/2024,160.88
+P0320,Sofía Silva,80,F,Callao,Odontología,05/02/2024,465.52
+P0321,Juan Suárez,46,F,Callao,Cardiología,29/01/2024,477.39
+P0322,Roberto Delgado,22,F,San Isidro,Odontología,08/06/2024,201.16
+P0323,Daniela Vargas,37,M,Callao,Ginecología,25/02/2024,NA
+P0324,Andrés Vega,71,F,Lince,Ginecología,19/12/2024,288.96
+P0325,Patricia Campos,73,F,La Molina,Pediatría,24/06/2024,126.48
+P0326,Miguel Robles,50,F,San Isidro,Pediatría,NA,381.78
+P0327,Raúl Hernández,NA,M,Callao,Emergencia,13/11/2024,433.02
+P0328,Héctor Romero,86,M,San Isidro,Odontología,23/06/2024,637.99
+P0329,Gabriela Jiménez,44,M,San Isidro,Emergencia,09/02/2024,79.96
+P0330,Javier Torres,54,M,San Isidro,Pediatría,15/01/2024,800.45
+P0331,Alberto Díaz,65,M,Callao,Consulta General,22/01/2024,515.15
+P0332,Valeria Campos,88,M,San Juan de Lurigancho,Pediatría,08/10/2024,82.33
+P0333,Héctor Martínez,71,NA,NA,NA,21/10/2024,860.71
+P0334,Valeria Sánchez,77,M,NA,NA,26/05/2024,517.79
+P0335,Santiago Castro,67,M,Miraflores,Emergencia,21/04/2024,502.93
+P0336,Andrés Ramírez,62,F,Surco,Cardiología,09/07/2024,217.56
+P0337,Natalia Suárez,18,F,Callao,Odontología,14/08/2024,143.2
+P0338,Marta Robles,52,F,NA,Pediatría,18/01/2024,397.1
+P0339,Pedro Romero,68,M,Miraflores,Cardiología,06/09/2024,216.58
+P0340,Carmen Rojas,43,M,Surco,Odontología,17/10/2024,NA
+P0341,Alberto Cruz,30,M,Lince,Ginecología,01/02/2024,NA
+P0342,Sofía Morales,15,F,Callao,Ginecología,11/11/2024,60.04
+P0343,Isabel Acosta,37,F,San Juan de Lurigancho,Emergencia,24/04/2024,164.36
+P0344,Claudia Soto,65,F,Lince,NA,26/09/2024,647.09
+P0345,Ricardo Silva,NA,M,San Isidro,Pediatría,27/01/2024,887.46
+P0346,Alberto Torres,41,F,San Isidro,Ginecología,22/07/2024,720.3
+P0347,Santiago Mendoza,41,NA,Callao,Ginecología,13/01/2024,102.87
+P0348,Jorge Torres,35,F,Callao,Odontología,15/02/2024,962.36
+P0349,Miguel Vargas,14,M,La Molina,Pediatría,08/10/2024,684.73
+P0350,Carlos Campos,8,F,Lince,Ginecología,21/05/2024,52.21
+P0351,Andrés Vega,39,F,San Juan de Lurigancho,Odontología,16/04/2024,621.7
+P0352,Alberto Rojas,34,M,Surco,Consulta General,07/01/2024,286.98
+P0353,Claudia Ramírez,61,M,La Molina,Emergencia,NA,845.72
+P0354,Valeria Guerrero,46,M,La Molina,Consulta General,13/05/2024,244.29
+P0355,Sofía Ramírez,78,M,Miraflores,Emergencia,02/03/2024,536.34
+P0356,Carlos Soto,64,M,Surco,Ginecología,28/12/2024,947.37
+P0357,Alberto Campos,45,F,La Molina,Odontología,29/09/2024,336.72
+P0358,Javier Gómez,39,F,La Molina,NA,26/01/2024,676.41
+P0359,Claudia López,43,M,Callao,Odontología,19/06/2024,325.74
+P0360,Javier Cabrera,44,F,Miraflores,Pediatría,26/12/2024,997.42
+P0361,Verónica García,58,F,Miraflores,Pediatría,11/10/2024,965.86
+P0362,Sofía Cabrera,36,F,Lince,Ginecología,03/05/2024,461.7
+P0363,Fernando Cabrera,32,F,Surco,NA,29/11/2024,224.46
+P0364,Ana Castillo,80,M,Lince,Emergencia,24/01/2024,156.38
+P0365,Ana Ortiz,47,M,Lince,Pediatría,01/10/2024,744.47
+P0366,Lucía Campos,65,F,Surco,Odontología,06/09/2024,331.31
+P0367,Isabel Rojas,61,M,Miraflores,Ginecología,07/05/2024,284.45
+P0368,Alberto Morales,71,F,Surco,Odontología,NA,627.01
+P0369,Elena Ramírez,76,M,San Juan de Lurigancho,Pediatría,21/12/2024,NA
+P0370,Ana Pérez,38,F,Lince,Cardiología,26/01/2024,545.95
+P0371,Juan Rojas,79,F,La Molina,Pediatría,14/02/2024,551.4
+P0372,Luis Delgado,75,M,Callao,Emergencia,17/12/2024,897.7
+P0373,Sofía Soto,76,F,San Juan de Lurigancho,Emergencia,16/03/2024,641.57
+P0374,Diego Jiménez,48,M,Surco,Pediatría,10/02/2024,377.69
+P0375,Pedro Delgado,55,F,Miraflores,Odontología,02/01/2024,988.63
+P0376,Roberto Ortiz,64,F,Callao,Cardiología,12/09/2024,482.86
+P0377,Fernando Guerrero,38,F,San Juan de Lurigancho,Odontología,31/07/2024,619.32
+P0378,Diego Castro,NA,F,San Isidro,Ginecología,24/11/2024,450.63
+P0379,Roberto Vargas,63,M,La Molina,NA,08/09/2024,783.2
+P0380,Alberto Morales,21,M,Callao,Cardiología,16/02/2024,226.18
+P0381,Roberto Hernández,76,F,La Molina,Emergencia,20/12/2024,420.39
+P0382,NA,40,F,NA,Emergencia,04/11/2024,736.51
+P0383,Carlos Soto,43,F,Surco,Odontología,19/11/2024,253.04
+P0384,Roberto Rojas,55,F,La Molina,Odontología,23/09/2024,950.45
+P0385,Gabriela Robles,27,F,Miraflores,Odontología,29/04/2024,747.27
+P0386,Lorena Flores,21,M,Surco,Pediatría,18/01/2024,98.67
+P0387,Diego Díaz,44,M,Callao,Odontología,14/12/2024,544.01
+P0388,Marta Torres,55,F,La Molina,Odontología,04/10/2024,266.15
+P0389,Fernando Sánchez,81,F,Callao,Cardiología,02/10/2024,640.0
+P0390,Carlos Gómez,NA,M,Lince,Consulta General,25/04/2024,179.05
+P0391,Luis Romero,75,F,Callao,Odontología,23/11/2024,279.54
+P0392,Isabel Suárez,75,M,San Isidro,Emergencia,08/09/2024,376.76
+P0393,Valeria Alfaro,22,F,Callao,Odontología,09/02/2024,196.12
+P0394,Carlos Hernández,66,M,Surco,Consulta General,08/07/2024,136.83
+P0395,Alberto Alfaro,54,M,San Juan de Lurigancho,Pediatría,09/10/2024,81.16
+P0396,María Silva,35,F,Callao,Pediatría,28/06/2024,877.89
+P0397,Pedro Castillo,NA,M,Callao,Emergencia,NA,556.0
+P0398,Carlos Morales,20,M,Lince,Ginecología,14/04/2024,84.12
+P0399,Carlos Navarro,NA,F,Callao,Consulta General,14/02/2024,379.15
+P0400,Roberto Gómez,40,F,Lince,Odontología,16/10/2024,499.47
+P0401,Santiago Silva,25,F,Surco,NA,07/08/2024,612.29
+P0402,Ana Romero,50,M,Miraflores,Consulta General,25/01/2024,245.01
+P0403,María Castillo,77,M,Surco,Emergencia,20/10/2024,683.79
+P0404,María Sánchez,60,F,La Molina,Pediatría,02/05/2024,729.12
+P0405,Raúl Castro,31,NA,Miraflores,Ginecología,23/04/2024,935.45
+P0406,Alberto Díaz,NA,F,Surco,Emergencia,08/07/2024,328.61
+P0407,Luis Vega,31,M,Lince,Emergencia,16/09/2024,255.71
+P0408,Raúl Díaz,NA,F,Callao,Consulta General,11/06/2024,164.77
+P0409,Roberto Rojas,19,M,Callao,Consulta General,23/09/2024,470.79
+P0410,Juan Rojas,21,F,Surco,Odontología,16/11/2024,350.18
+P0411,Carmen Flores,73,F,Callao,Emergencia,11/01/2024,141.52
+P0412,Jorge Silva,27,F,Surco,Pediatría,23/07/2024,NA
+P0413,Alberto Cabrera,70,M,San Juan de Lurigancho,Emergencia,13/06/2024,373.09
+P0414,Jorge Rodríguez,56,F,Callao,Emergencia,22/02/2024,856.56
+P0415,Claudia Martínez,29,F,La Molina,Consulta General,06/08/2024,374.77
+P0416,Juan Robles,65,M,Lince,Ginecología,23/11/2024,868.04
+P0417,Sofía García,83,M,San Isidro,Ginecología,21/06/2024,712.01
+P0418,Carlos Torres,13,F,Surco,NA,08/11/2024,747.55
+P0419,Héctor Romero,35,F,San Isidro,Pediatría,14/10/2024,591.91
+P0420,Marta Torres,45,M,La Molina,Odontología,18/08/2024,189.08
+P0421,Luis Rodríguez,71,M,NA,Odontología,27/09/2024,873.47
+P0422,Carlos Ortiz,46,F,Surco,Odontología,09/07/2024,NA
+P0423,Ricardo Cabrera,44,M,San Isidro,Cardiología,07/10/2024,224.83
+P0424,Pedro Flores,57,F,La Molina,Emergencia,04/07/2024,745.09
+P0425,Luis Castillo,82,M,NA,Cardiología,25/01/2024,154.79
+P0426,Alberto Alfaro,57,M,San Juan de Lurigancho,Cardiología,17/12/2024,478.19
+P0427,Lorena Suárez,13,F,NA,Emergencia,12/10/2024,417.78
+P0428,Santiago Delgado,51,M,San Isidro,Pediatría,18/12/2024,85.67
+P0429,Claudia Martínez,17,F,La Molina,Pediatría,04/05/2024,757.21
+P0430,Javier Mendoza,86,F,San Isidro,Emergencia,29/09/2024,660.26
+P0431,Elena Navarro,62,M,Surco,Cardiología,12/06/2024,92.3
+P0432,Jorge Romero,22,M,Surco,Emergencia,30/11/2024,826.09
+P0433,Lucía Alfaro,43,M,Surco,Consulta General,27/07/2024,66.47
+P0434,Claudia Navarro,NA,F,Miraflores,Cardiología,26/07/2024,243.71
+P0435,Jorge Alfaro,33,M,Callao,Ginecología,19/09/2024,768.89
+P0436,NA,46,NA,Callao,Cardiología,30/07/2024,648.18
+P0437,Patricia Suárez,51,M,San Juan de Lurigancho,Ginecología,13/11/2024,944.36
+P0438,Lorena Gómez,11,F,Callao,Ginecología,20/11/2024,382.51
+P0439,Verónica García,68,M,San Juan de Lurigancho,Cardiología,16/11/2024,129.77
+P0440,Valeria Campos,79,F,NA,Odontología,12/10/2024,351.13
+P0441,Ricardo Robles,11,F,La Molina,Pediatría,17/01/2024,886.07
+P0442,Andrés Romero,53,F,La Molina,Ginecología,26/04/2024,962.97
+P0443,NA,84,M,Miraflores,Pediatría,14/11/2024,584.77
+P0444,Carmen Vega,51,F,NA,Consulta General,18/09/2024,77.89
+P0445,Patricia Soto,55,M,Lince,Odontología,25/09/2024,382.0
+P0446,Claudia Gómez,19,F,San Juan de Lurigancho,Ginecología,22/06/2024,NA
+P0447,Gabriela Díaz,30,F,Surco,Odontología,01/07/2024,828.05
+P0448,Luis García,NA,M,San Isidro,Emergencia,02/07/2024,518.95
+P0449,Javier Castro,37,F,San Isidro,Consulta General,28/12/2024,976.13
+P0450,Miguel Silva,79,F,Miraflores,Emergencia,20/09/2024,727.94
+P0451,Fernando Silva,35,M,San Isidro,Odontología,03/09/2024,469.88
+P0452,Héctor Vega,23,M,San Isidro,Cardiología,04/08/2024,242.32
+P0453,Miguel Morales,73,F,Lince,Consulta General,08/04/2024,300.87
+P0454,Andrés Campos,30,M,La Molina,Consulta General,11/05/2024,539.09
+P0455,Lorena Jiménez,83,F,San Juan de Lurigancho,Pediatría,24/07/2024,452.38
+P0456,Raúl Castillo,37,F,Miraflores,Ginecología,04/12/2024,67.8
+P0457,Alberto Díaz,86,F,Miraflores,Pediatría,11/07/2024,990.79
+P0458,Andrés Robles,36,M,San Juan de Lurigancho,Cardiología,21/12/2024,827.19
+P0459,Patricia Ramírez,57,NA,Callao,Emergencia,20/08/2024,NA
+P0460,Claudia Campos,17,F,Callao,Ginecología,12/02/2024,607.83
+P0461,Jorge Martínez,14,F,La Molina,Cardiología,28/11/2024,568.57
+P0462,Roberto Martínez,49,M,Lince,Emergencia,27/12/2024,794.14
+P0463,Carlos Díaz,47,M,La Molina,Odontología,05/11/2024,444.9
+P0464,Miguel Mendoza,28,F,San Isidro,Consulta General,30/01/2024,394.9
+P0465,Héctor López,12,F,San Juan de Lurigancho,Ginecología,09/10/2024,407.33
+P0466,Andrés Robles,70,F,La Molina,Emergencia,27/11/2024,935.6
+P0467,Diego Silva,15,M,Callao,Cardiología,30/03/2024,749.17
+P0468,Isabel Pérez,52,M,Miraflores,Emergencia,09/09/2024,75.35
+P0469,Gabriela Torres,77,NA,Callao,Consulta General,10/05/2024,994.26
+P0470,Ana Campos,21,F,La Molina,Ginecología,21/02/2024,NA
+P0471,Lucía Jiménez,29,F,Lince,Pediatría,02/01/2024,57.88
+P0472,Daniela Flores,69,M,Surco,Cardiología,30/06/2024,608.01
+P0473,Carlos Torres,59,F,Miraflores,Ginecología,04/08/2024,85.45
+P0474,Sofía Jiménez,12,NA,La Molina,Emergencia,29/01/2024,129.21
+P0475,Jorge Morales,37,M,Lince,Consulta General,17/04/2024,533.57
+P0476,Valeria Vargas,9,F,Miraflores,Pediatría,07/03/2024,824.94
+P0477,Pedro Suárez,72,F,San Isidro,Consulta General,14/06/2024,254.84
+P0478,Gabriela Vargas,85,M,San Juan de Lurigancho,Consulta General,25/10/2024,NA
+P0479,Claudia Cabrera,43,M,Lince,Ginecología,05/01/2024,190.31
+P0480,Javier Hernández,83,M,Lince,Cardiología,08/11/2024,NA
+P0481,Juan Jiménez,32,M,San Juan de Lurigancho,Odontología,02/02/2024,919.71
+P0482,Fernando Navarro,74,M,La Molina,Ginecología,16/11/2024,877.45
+P0483,Ricardo Suárez,63,M,Surco,Consulta General,02/01/2024,893.82
+P0484,Javier Pérez,47,F,San Isidro,Emergencia,18/03/2024,75.46
+P0485,Lorena Navarro,42,M,San Isidro,Odontología,18/01/2024,381.47
+P0486,Carlos Silva,85,F,Callao,Emergencia,09/01/2024,291.64
+P0487,Luis Ortiz,34,F,Lince,NA,17/05/2024,309.19
+P0488,Lucía Cruz,89,M,Miraflores,Ginecología,13/01/2024,900.92
+P0489,Pedro Castro,84,F,Callao,Ginecología,26/03/2024,831.42
+P0490,Silvia Silva,50,M,San Isidro,Ginecología,25/11/2024,290.08
+P0491,Santiago Alfaro,70,F,Surco,NA,20/12/2024,87.71
+P0492,Claudia Ortiz,72,M,Miraflores,Ginecología,31/05/2024,899.22
+P0493,Valeria Suárez,84,M,La Molina,Pediatría,29/11/2024,729.42
+P0494,Carlos Torres,NA,F,Callao,Odontología,10/04/2024,554.15
+P0495,Raúl Acosta,22,M,San Isidro,Emergencia,27/04/2024,973.12
+P0496,Luis Ramírez,66,F,San Isidro,Emergencia,28/09/2024,971.34
+P0497,Andrés Pérez,73,F,San Juan de Lurigancho,Cardiología,03/11/2024,NA
+P0498,Héctor Vega,16,F,La Molina,Pediatría,05/08/2024,873.25
+P0499,Lucía Alfaro,13,F,Surco,Cardiología,14/08/2024,NA
+P0500,Alberto Soto,75,F,Surco,Cardiología,17/04/2024,973.03
+P0501,Silvia Campos,54,M,NA,Ginecología,01/08/2024,731.21
+P0502,Luis Rodríguez,78,F,NA,Ginecología,29/12/2024,NA
+P0503,Ricardo Mendoza,35,F,San Isidro,Emergencia,08/04/2024,89.02
+P0504,Álvaro Martínez,21,F,La Molina,Emergencia,09/10/2024,940.78
+P0505,Lorena Silva,67,M,Lince,Odontología,04/02/2024,861.28
+P0506,NA,28,M,Callao,Pediatría,NA,424.59
+P0507,Carlos Alfaro,53,M,La Molina,Ginecología,05/05/2024,683.75
+P0508,Verónica Ramos,65,F,La Molina,NA,11/10/2024,364.77
+P0509,Luis Ramos,34,M,Surco,NA,29/06/2024,383.26
+P0510,Carmen Hernández,60,M,NA,Cardiología,13/12/2024,984.31
+P0511,Miguel Silva,31,NA,Surco,Emergencia,08/06/2024,112.81
+P0512,Daniela García,81,F,San Juan de Lurigancho,Consulta General,27/08/2024,179.45
+P0513,Diego Silva,46,F,Callao,Odontología,15/05/2024,626.58
+P0514,Silvia Guerrero,47,M,San Juan de Lurigancho,Odontología,04/10/2024,82.83
+P0515,Natalia Rojas,73,F,Lince,Pediatría,30/06/2024,67.35
+P0516,Valeria García,64,M,Lince,Pediatría,01/07/2024,478.94
+P0517,Carlos Flores,71,F,La Molina,NA,22/07/2024,139.27
+P0518,María Rojas,65,F,Surco,Cardiología,08/04/2024,347.58
+P0519,Marta Romero,28,M,La Molina,Pediatría,31/07/2024,285.17
+P0520,María Morales,52,F,San Juan de Lurigancho,Ginecología,13/02/2024,583.36
+P0521,Lorena Pérez,75,M,San Isidro,Odontología,25/06/2024,811.81
+P0522,Javier Cabrera,31,F,Lince,Odontología,12/07/2024,81.29
+P0523,Elena Ramos,39,M,Surco,Pediatría,13/03/2024,380.57
+P0524,Lorena Soto,66,F,Lince,Pediatría,09/08/2024,989.43
+P0525,Verónica Gómez,53,M,Surco,Pediatría,03/10/2024,NA
+P0526,Carlos Cruz,28,M,Surco,Emergencia,26/10/2024,630.74
+P0527,Santiago Morales,61,M,Surco,Ginecología,16/02/2024,227.28
+P0528,Raúl Ramos,89,F,San Juan de Lurigancho,Odontología,10/08/2024,296.32
+P0529,Ricardo Soto,47,M,San Juan de Lurigancho,Consulta General,10/07/2024,148.49
+P0530,Diego Soto,24,F,San Isidro,Odontología,12/10/2024,82.51
+P0531,Lorena Torres,55,F,Miraflores,Odontología,06/06/2024,795.79
+P0532,Miguel Robles,13,M,Surco,Ginecología,13/05/2024,190.04
+P0533,Patricia Acosta,86,F,Callao,Odontología,04/03/2024,512.69
+P0534,Verónica Cabrera,38,M,Miraflores,Consulta General,30/11/2024,767.78
+P0535,Patricia Romero,62,M,Lince,Consulta General,24/03/2024,685.16
+P0536,María Martínez,16,F,NA,Ginecología,NA,828.49
+P0537,Juan Cruz,10,F,Lince,Odontología,04/07/2024,194.97
+P0538,Carlos Suárez,28,F,Callao,Cardiología,22/03/2024,545.68
+P0539,Héctor Ortiz,47,NA,NA,Consulta General,06/07/2024,898.21
+P0540,Silvia Hernández,19,NA,San Isidro,Cardiología,02/07/2024,301.32
+P0541,NA,85,M,San Juan de Lurigancho,Cardiología,19/02/2024,89.93
+P0542,Héctor Silva,32,F,NA,Emergencia,22/07/2024,572.33
+P0543,Patricia Rodríguez,25,M,Miraflores,Consulta General,29/10/2024,607.15
+P0544,Gabriela Mendoza,67,M,Miraflores,Pediatría,20/03/2024,438.93
+P0545,Silvia Jiménez,58,F,Callao,Cardiología,13/01/2024,326.47
+P0546,Luis Martínez,89,M,NA,Consulta General,19/02/2024,795.39
+P0547,María García,20,F,Lince,Pediatría,05/10/2024,579.12
+P0548,Javier García,29,M,La Molina,Pediatría,13/12/2024,648.61
+P0549,Gabriela Ortiz,74,M,Surco,Ginecología,20/08/2024,303.34
+P0550,Raúl Mendoza,63,M,Callao,Pediatría,26/02/2024,825.51
+P0551,Silvia Acosta,77,F,La Molina,Pediatría,25/10/2024,982.99
+P0552,NA,36,M,San Isidro,Pediatría,11/10/2024,NA
+P0553,Ricardo Mendoza,32,M,Surco,Cardiología,06/04/2024,NA
+P0554,Raúl Campos,86,F,Miraflores,Pediatría,01/12/2024,NA
+P0555,Fernando Ortiz,47,F,Miraflores,Odontología,31/12/2024,416.39
+P0556,Pedro Acosta,86,F,Miraflores,Ginecología,27/02/2024,963.41
+P0557,Ana Ramírez,63,F,Miraflores,Pediatría,27/03/2024,511.04
+P0558,Carmen Alfaro,39,M,San Juan de Lurigancho,Emergencia,16/06/2024,672.56
+P0559,Elena Rodríguez,83,M,Lince,Pediatría,03/12/2024,56.59
+P0560,Gabriela López,28,F,La Molina,Emergencia,18/07/2024,899.13
+P0561,Miguel Mendoza,54,F,Lince,Odontología,15/12/2024,130.39
+P0562,Raúl Martínez,78,F,Lince,Consulta General,26/02/2024,NA
+P0563,Carlos Vega,52,F,San Isidro,Emergencia,02/07/2024,952.83
+P0564,Fernando Navarro,28,F,San Isidro,Emergencia,08/08/2024,168.75
+P0565,Natalia Silva,52,M,Surco,Cardiología,03/11/2024,207.14
+P0566,Valeria Martínez,21,F,Surco,Pediatría,07/10/2024,830.05
+P0567,Elena Pérez,49,F,Lince,Odontología,26/03/2024,248.3
+P0568,María Castillo,32,M,Surco,Ginecología,30/01/2024,302.9
+P0569,Santiago Vargas,39,M,La Molina,Ginecología,04/12/2024,968.76
+P0570,Fernando Ramos,46,NA,Lince,Consulta General,01/01/2025,753.65
+P0571,NA,33,M,Lince,NA,22/05/2024,308.03
+P0572,Héctor Castillo,90,F,Surco,Cardiología,29/04/2024,262.07
+P0573,NA,81,F,Miraflores,Consulta General,06/01/2024,924.54
+P0574,Diego Castillo,17,M,San Isidro,Consulta General,10/10/2024,730.97
+P0575,Roberto Pérez,42,M,San Juan de Lurigancho,Emergencia,11/05/2024,994.04
+P0576,Elena Flores,89,M,Miraflores,Emergencia,07/03/2024,579.12
+P0577,María Cruz,19,F,Callao,Consulta General,25/02/2024,229.58
+P0578,Jorge Romero,16,M,NA,Ginecología,04/04/2024,457.74
+P0579,Ana López,NA,F,Callao,Odontología,15/03/2024,467.23
+P0580,Isabel Navarro,69,F,Callao,Odontología,24/05/2024,307.02
+P0581,Ana Cruz,79,M,Surco,Emergencia,07/05/2024,752.4
+P0582,Claudia Castro,83,M,NA,Emergencia,23/01/2024,738.72
+P0583,Roberto Castillo,76,F,Callao,Odontología,09/08/2024,333.25
+P0584,Luis Díaz,NA,M,San Juan de Lurigancho,Odontología,25/06/2024,701.7
+P0585,Carlos Suárez,37,F,San Isidro,Consulta General,24/11/2024,618.18
+P0586,Carmen Cruz,15,M,La Molina,Cardiología,28/04/2024,482.55
+P0587,Natalia Rojas,83,F,NA,Cardiología,23/10/2024,294.58
+P0588,Diego Ramos,50,F,Surco,Odontología,16/06/2024,911.43
+P0589,María Silva,58,F,Lince,Ginecología,15/06/2024,801.45
+P0590,Lucía Mendoza,15,F,San Juan de Lurigancho,Odontología,10/05/2024,970.88
+P0591,Pedro Soto,13,M,Surco,Cardiología,19/11/2024,76.18
+P0592,NA,76,F,Callao,Consulta General,06/06/2024,947.56
+P0593,Natalia Alfaro,43,M,Miraflores,Consulta General,07/02/2024,391.43
+P0594,Alberto Rojas,31,M,Surco,Odontología,20/08/2024,466.97
+P0595,Pedro Silva,28,F,Miraflores,Pediatría,06/11/2024,279.69
+P0596,Fernando Cabrera,25,M,San Juan de Lurigancho,Cardiología,21/03/2024,969.34
+P0597,Ricardo Suárez,15,F,Miraflores,Cardiología,04/04/2024,723.18
+P0598,Andrés Acosta,47,M,Miraflores,Consulta General,09/08/2024,206.25
+P0599,María Pérez,83,F,San Isidro,Odontología,27/04/2024,597.03
+P0600,María Acosta,14,F,Callao,Consulta General,23/09/2024,924.71
+P0601,Sofía Castro,85,M,Miraflores,Ginecología,02/11/2024,789.44
+P0602,Pedro Castillo,38,F,Callao,Cardiología,26/09/2024,775.1
+P0603,Carlos Pérez,21,M,San Juan de Lurigancho,Cardiología,10/06/2024,226.77
+P0604,Pedro Castillo,54,F,Callao,Odontología,12/10/2024,558.81
+P0605,Javier Jiménez,35,F,San Juan de Lurigancho,Cardiología,10/06/2024,398.42
+P0606,Diego Guerrero,NA,F,San Isidro,NA,06/12/2024,630.16
+P0607,Ana Rodríguez,32,M,Callao,Ginecología,19/12/2024,793.97
+P0608,Gabriela Cruz,29,F,Callao,Odontología,03/07/2024,369.63
+P0609,Álvaro Soto,18,M,Callao,Ginecología,13/02/2024,NA
+P0610,Silvia Acosta,55,M,Callao,NA,11/09/2024,157.47
+P0611,Claudia Rodríguez,NA,F,Surco,Pediatría,14/07/2024,948.75
+P0612,Roberto Delgado,22,F,Lince,Ginecología,19/12/2024,481.08
+P0613,NA,10,M,Lince,Consulta General,26/01/2024,801.71
+P0614,Pedro Soto,61,F,Miraflores,NA,20/09/2024,380.67
+P0615,Elena Pérez,NA,M,Callao,Consulta General,09/07/2024,615.67
+P0616,Luis Silva,49,M,Miraflores,Cardiología,28/08/2024,739.05
+P0617,Roberto Vega,17,M,Callao,Pediatría,28/01/2024,744.56
+P0618,Miguel Martínez,58,F,Surco,Pediatría,11/07/2024,609.88
+P0619,Marta Sánchez,71,F,Callao,Pediatría,06/01/2024,601.76
+P0620,Ricardo Suárez,37,M,Callao,Consulta General,18/04/2024,552.14
+P0621,Elena Ramos,19,M,San Isidro,Consulta General,07/09/2024,658.72
+P0622,Fernando García,70,F,Surco,Emergencia,18/07/2024,242.88
+P0623,Valeria Campos,42,M,Surco,Odontología,17/06/2024,152.33
+P0624,Valeria Vargas,29,M,San Juan de Lurigancho,NA,23/07/2024,869.15
+P0625,Natalia Jiménez,89,F,San Juan de Lurigancho,Cardiología,08/03/2024,466.11
+P0626,Javier Mendoza,87,M,Miraflores,Ginecología,29/06/2024,NA
+P0627,Verónica Cruz,90,M,Miraflores,Emergencia,01/08/2024,662.28
+P0628,Raúl Acosta,53,M,San Juan de Lurigancho,Pediatría,30/12/2024,178.14
+P0629,Isabel Jiménez,40,F,San Juan de Lurigancho,Emergencia,02/01/2024,682.76
+P0630,Luis Silva,67,F,Miraflores,Odontología,01/01/2025,545.2
+P0631,Raúl Soto,10,NA,San Isidro,Cardiología,22/09/2024,NA
+P0632,Ana Castro,58,M,La Molina,Odontología,24/08/2024,162.53
+P0633,NA,33,F,San Juan de Lurigancho,Odontología,04/12/2024,600.44
+P0634,Carmen Navarro,26,M,Callao,Consulta General,06/10/2024,56.84
+P0635,Natalia Jiménez,26,M,Miraflores,Odontología,11/07/2024,620.56
+P0636,Alberto Castillo,88,F,La Molina,Ginecología,08/11/2024,838.62
+P0637,Lucía García,89,NA,Lince,Ginecología,21/04/2024,458.07
+P0638,María Mendoza,28,F,San Juan de Lurigancho,NA,18/12/2024,486.65
+P0639,NA,37,M,Surco,Ginecología,31/05/2024,448.51
+P0640,Alberto Torres,76,M,Surco,Cardiología,14/03/2024,510.95
+P0641,Raúl Mendoza,81,F,San Juan de Lurigancho,Emergencia,15/08/2024,347.93
+P0642,Roberto Hernández,67,F,NA,Pediatría,15/12/2024,576.05
+P0643,Roberto Morales,80,M,San Isidro,Cardiología,17/07/2024,668.26
+P0644,Lucía Mendoza,81,M,La Molina,Emergencia,14/11/2024,160.95
+P0645,Valeria Soto,72,M,Miraflores,Ginecología,23/01/2024,909.23
+P0646,Roberto Cabrera,57,M,San Isidro,Pediatría,03/06/2024,606.51
+P0647,Lorena García,43,F,La Molina,Ginecología,14/11/2024,700.78
+P0648,Santiago Vargas,75,F,Miraflores,Ginecología,08/10/2024,536.16
+P0649,Lorena Castro,90,F,San Juan de Lurigancho,Cardiología,04/05/2024,174.79
+P0650,Javier Martínez,63,M,Callao,Pediatría,12/02/2024,483.52
+P0651,Álvaro Díaz,70,M,San Juan de Lurigancho,Odontología,25/01/2024,NA
+P0652,Valeria Castro,69,F,Surco,Consulta General,15/12/2024,506.28
+P0653,Claudia Morales,28,M,Surco,Emergencia,30/08/2024,960.67
+P0654,Andrés Díaz,47,M,San Isidro,Ginecología,14/01/2024,578.6
+P0655,Lucía Hernández,80,M,Miraflores,Emergencia,21/01/2024,745.37
+P0656,Pedro Cabrera,51,M,Lince,Cardiología,19/09/2024,245.75
+P0657,Luis Rodríguez,36,M,Surco,Cardiología,24/09/2024,950.95
+P0658,Claudia García,50,M,Miraflores,Pediatría,10/08/2024,265.49
+P0659,María Cruz,89,M,Lince,Odontología,10/11/2024,363.21
+P0660,Carmen Robles,8,M,San Isidro,Ginecología,19/08/2024,865.75
+P0661,Santiago Hernández,39,F,Surco,Odontología,21/02/2024,685.19
+P0662,Marta Cabrera,20,M,San Juan de Lurigancho,Consulta General,11/05/2024,355.16
+P0663,Juan Suárez,27,F,Miraflores,Odontología,19/08/2024,489.22
+P0664,Ana Hernández,59,M,San Isidro,Cardiología,21/10/2024,645.85
+P0665,Carmen Alfaro,73,M,San Juan de Lurigancho,Emergencia,25/08/2024,304.05
+P0666,María Jiménez,18,F,Callao,NA,03/08/2024,275.56
+P0667,Juan Vega,81,F,NA,Consulta General,17/05/2024,NA
+P0668,Patricia Mendoza,44,F,San Isidro,Consulta General,13/01/2024,339.74
+P0669,Lucía Ramírez,82,M,San Juan de Lurigancho,Cardiología,15/02/2024,250.76
+P0670,Carmen Sánchez,45,F,Surco,Cardiología,16/12/2024,957.07
+P0671,Patricia Sánchez,10,F,Callao,Odontología,30/11/2024,907.18
+P0672,Diego Castillo,17,M,Miraflores,Pediatría,05/02/2024,845.48
+P0673,Andrés Gómez,35,M,San Juan de Lurigancho,Odontología,17/08/2024,164.83
+P0674,Héctor Hernández,50,F,La Molina,Emergencia,18/02/2024,233.87
+P0675,Carmen Cruz,40,F,Callao,Pediatría,10/02/2024,334.55
+P0676,Lorena Campos,85,F,La Molina,Odontología,30/08/2024,286.15
+P0677,NA,41,M,Callao,Emergencia,28/02/2024,279.15
+P0678,Andrés Campos,16,M,La Molina,Pediatría,04/05/2024,64.18
+P0679,Carlos Jiménez,67,F,La Molina,Odontología,23/07/2024,NA
+P0680,Ana García,30,F,NA,Consulta General,NA,843.49
+P0681,Elena Delgado,NA,M,Callao,Cardiología,29/12/2024,919.46
+P0682,Elena Rojas,26,M,Surco,Odontología,21/02/2024,131.22
+P0683,Verónica Campos,11,M,San Isidro,Pediatría,15/12/2024,77.69
+P0684,Miguel Acosta,47,F,Surco,Consulta General,14/08/2024,884.05
+P0685,Verónica Rojas,23,M,Miraflores,Pediatría,08/12/2024,988.22
+P0686,Lorena Cabrera,13,F,Callao,Ginecología,02/03/2024,278.15
+P0687,Verónica Castro,11,M,NA,Consulta General,09/12/2024,340.55
+P0688,Isabel Díaz,34,M,Callao,Odontología,22/11/2024,799.87
+P0689,Carmen Cruz,17,M,Callao,Consulta General,21/04/2024,889.27
+P0690,Miguel Flores,34,F,La Molina,Odontología,27/03/2024,646.58
+P0691,Carmen Romero,78,F,Miraflores,Ginecología,14/09/2024,487.77
+P0692,Raúl Torres,34,M,Callao,Cardiología,28/03/2024,873.25
+P0693,Santiago Soto,71,M,Lince,Pediatría,04/06/2024,NA
+P0694,Daniela Ramírez,9,M,Callao,Odontología,24/10/2024,187.89
+P0695,Patricia Hernández,16,M,Lince,Ginecología,02/04/2024,813.53
+P0696,Fernando Delgado,44,F,Callao,Odontología,11/07/2024,855.6
+P0697,Álvaro Vargas,58,NA,Lince,Pediatría,31/08/2024,195.94
+P0698,NA,84,F,Lince,Consulta General,05/08/2024,462.31
+P0699,Carlos Martínez,82,F,Callao,Emergencia,29/07/2024,638.61
+P0700,Carlos Vega,NA,F,Lince,Ginecología,11/11/2024,347.07
+P0701,Natalia Hernández,61,F,La Molina,Consulta General,01/07/2024,60.41
+P0702,Andrés Castillo,51,M,Lince,Odontología,24/07/2024,811.04
+P0703,Pedro Alfaro,82,F,Callao,Consulta General,18/02/2024,842.62
+P0704,Carmen Soto,41,M,Miraflores,Ginecología,15/05/2024,775.72
+P0705,Daniela Vega,42,M,San Isidro,Cardiología,19/09/2024,608.94
+P0706,Juan Martínez,37,M,Lince,Cardiología,30/08/2024,927.71
+P0707,Elena Hernández,85,M,San Isidro,Pediatría,17/07/2024,579.3
+P0708,Isabel Martínez,58,M,La Molina,Consulta General,01/11/2024,653.45
+P0709,Jorge Mendoza,56,M,La Molina,Emergencia,12/03/2024,421.7
+P0710,Álvaro Romero,30,F,Lince,Odontología,21/03/2024,61.93
+P0711,Silvia Rodríguez,69,F,Surco,NA,08/07/2024,78.51
+P0712,Carmen Martínez,49,M,Callao,Ginecología,12/06/2024,312.66
+P0713,Ricardo Morales,12,F,San Isidro,Cardiología,01/03/2024,370.37
+P0714,Natalia López,41,M,Lince,Ginecología,22/11/2024,769.46
+P0715,Fernando Ramos,NA,F,Lince,Pediatría,01/05/2024,763.15
+P0716,Pedro Ramírez,74,F,San Juan de Lurigancho,Pediatría,24/11/2024,75.94
+P0717,Marta Vargas,8,F,La Molina,Consulta General,25/02/2024,260.89
+P0718,Luis Cruz,41,F,La Molina,Consulta General,26/09/2024,NA
+P0719,Jorge Ramos,19,M,San Juan de Lurigancho,Ginecología,24/04/2024,NA
+P0720,Silvia Hernández,54,F,Callao,Cardiología,19/09/2024,163.23
+P0721,Claudia Martínez,37,F,NA,Cardiología,18/04/2024,455.99
+P0722,María Rodríguez,68,F,San Isidro,Cardiología,14/06/2024,81.3
+P0723,Héctor Suárez,79,F,La Molina,Odontología,05/04/2024,589.87
+P0724,Santiago Romero,45,F,San Isidro,Ginecología,09/05/2024,442.11
+P0725,Claudia Sánchez,75,F,Callao,Consulta General,10/05/2024,292.92
+P0726,Isabel Acosta,34,F,Callao,Odontología,29/09/2024,810.35
+P0727,Claudia Torres,37,M,Surco,NA,08/02/2024,331.91
+P0728,Juan Castro,72,F,Surco,Pediatría,13/06/2024,843.99
+P0729,Fernando Rodríguez,49,M,Lince,Odontología,05/05/2024,463.24
+P0730,Fernando Acosta,77,F,Callao,Emergencia,26/07/2024,666.96
+P0731,Alberto Castro,88,M,Callao,Cardiología,18/10/2024,716.83
+P0732,Lorena Rojas,8,NA,Callao,Emergencia,30/03/2024,912.92
+P0733,Carmen Cruz,59,F,NA,Pediatría,21/07/2024,NA
+P0734,Diego Hernández,62,M,San Juan de Lurigancho,Cardiología,17/11/2024,137.24
+P0735,Javier Cruz,21,F,NA,Cardiología,05/02/2024,960.3
+P0736,Isabel Pérez,67,NA,San Juan de Lurigancho,Odontología,06/01/2024,648.46
+P0737,Andrés Rodríguez,59,M,San Juan de Lurigancho,Pediatría,18/10/2024,627.81
+P0738,Pedro Rojas,70,F,Callao,Cardiología,31/07/2024,309.96
+P0739,Carlos Flores,21,M,La Molina,Ginecología,25/05/2024,146.58
+P0740,Javier Campos,17,F,Surco,Cardiología,24/12/2024,228.07
+P0741,Ricardo Rodríguez,89,M,Callao,Cardiología,26/11/2024,855.53
+P0742,Ricardo Soto,89,F,Callao,Odontología,17/10/2024,803.63
+P0743,NA,88,F,Lince,NA,13/02/2024,641.26
+P0744,Marta Alfaro,25,F,Miraflores,Pediatría,02/09/2024,629.46
+P0745,Juan Vega,64,M,La Molina,Ginecología,31/01/2024,611.9
+P0746,Héctor Vargas,83,F,NA,Emergencia,31/07/2024,701.8
+P0747,Verónica Rojas,45,F,Surco,NA,07/10/2024,742.71
+P0748,Carlos Acosta,13,F,Surco,Odontología,25/01/2024,906.78
+P0749,Miguel Mendoza,71,M,Miraflores,Pediatría,19/04/2024,177.58
+P0750,Santiago Guerrero,16,F,Miraflores,Consulta General,29/11/2024,228.99
+P0751,Jorge López,NA,M,San Juan de Lurigancho,Consulta General,23/06/2024,390.02
+P0752,Ana Campos,60,M,NA,Ginecología,21/12/2024,899.3
+P0753,Diego Suárez,60,M,La Molina,Cardiología,19/05/2024,435.61
+P0754,Miguel Torres,76,F,Surco,Odontología,24/03/2024,657.99
+P0755,Ricardo Gómez,89,F,Surco,Emergencia,06/03/2024,862.95
+P0756,NA,55,M,NA,Cardiología,12/04/2024,906.02
+P0757,Verónica Torres,25,F,Miraflores,Consulta General,20/08/2024,569.16
+P0758,Isabel Flores,45,F,Miraflores,Odontología,14/01/2024,405.88
+P0759,Carlos Castro,65,F,San Isidro,Ginecología,15/06/2024,677.47
+P0760,Roberto Castro,11,M,Surco,Emergencia,26/04/2024,271.24
+P0761,Ana López,61,M,Callao,Ginecología,28/07/2024,777.01
+P0762,Lucía Pérez,59,F,La Molina,Odontología,18/10/2024,294.43
+P0763,Elena Navarro,14,M,San Isidro,Odontología,06/03/2024,707.14
+P0764,Claudia Jiménez,71,F,San Isidro,Emergencia,07/02/2024,180.28
+P0765,Daniela Morales,15,M,San Isidro,Consulta General,04/03/2024,485.28
+P0766,Ricardo García,37,M,La Molina,NA,22/11/2024,440.21
+P0767,Silvia Torres,NA,F,San Juan de Lurigancho,Emergencia,04/07/2024,807.68
+P0768,Andrés Suárez,79,M,La Molina,Odontología,16/03/2024,738.26
+P0769,Carmen Navarro,64,F,La Molina,Pediatría,06/12/2024,946.26
+P0770,Alberto Cabrera,34,NA,San Isidro,Cardiología,02/02/2024,266.17
+P0771,Daniela Navarro,12,M,San Isidro,Ginecología,13/12/2024,234.23
+P0772,María Ramírez,47,F,San Juan de Lurigancho,Consulta General,09/03/2024,107.1
+P0773,Ana Torres,64,M,Callao,Cardiología,27/10/2024,383.01
+P0774,Marta Morales,20,M,Surco,Ginecología,29/11/2024,NA
+P0775,Lorena Guerrero,NA,F,San Isidro,Emergencia,06/10/2024,730.47
+P0776,Lorena Torres,83,F,Lince,Emergencia,14/05/2024,483.68
+P0777,Pedro Campos,61,F,Lince,Pediatría,20/11/2024,257.61
+P0778,Fernando Hernández,66,M,San Juan de Lurigancho,Cardiología,28/05/2024,317.74
+P0779,Roberto Guerrero,13,NA,San Isidro,Emergencia,01/01/2025,476.56
+P0780,Roberto Ramírez,31,F,San Isidro,Cardiología,19/04/2024,650.01
+P0781,Juan Ramos,78,NA,Callao,Pediatría,17/09/2024,931.35
+P0782,Claudia Díaz,12,M,Callao,Cardiología,18/09/2024,159.82
+P0783,María Soto,39,M,Surco,Odontología,24/04/2024,69.1
+P0784,Verónica Rodríguez,72,M,Lince,Ginecología,25/06/2024,598.47
+P0785,Diego Rodríguez,18,M,Lince,Cardiología,03/03/2024,128.84
+P0786,Alberto Silva,28,M,San Juan de Lurigancho,Ginecología,02/05/2024,353.86
+P0787,Raúl Hernández,12,M,Callao,Pediatría,09/12/2024,677.71
+P0788,Isabel Jiménez,21,M,San Juan de Lurigancho,Ginecología,24/10/2024,398.12
+P0789,Pedro Romero,20,F,Surco,NA,15/10/2024,109.13
+P0790,Gabriela Castro,50,F,Callao,Emergencia,30/07/2024,266.48
+P0791,Luis Mendoza,23,NA,Lince,Consulta General,08/12/2024,96.05
+P0792,Álvaro Delgado,53,M,San Isidro,Emergencia,31/01/2024,889.39
+P0793,Carmen Alfaro,83,F,Miraflores,Cardiología,09/09/2024,381.99
+P0794,Pedro Romero,49,F,Surco,Ginecología,26/08/2024,NA
+P0795,Javier Morales,74,F,San Juan de Lurigancho,Ginecología,01/11/2024,394.25
+P0796,Elena Guerrero,17,M,La Molina,Cardiología,18/11/2024,87.91
+P0797,Marta Castro,32,M,Callao,Cardiología,23/04/2024,834.92
+P0798,Luis Campos,82,M,Surco,Odontología,22/04/2024,673.32
+P0799,Valeria Hernández,30,NA,La Molina,Emergencia,19/05/2024,562.67
+P0800,Jorge Soto,45,M,Miraflores,Emergencia,18/05/2024,92.87
+P0801,Carlos Rojas,67,NA,San Isidro,Cardiología,NA,408.86
+P0802,Alberto Vargas,62,NA,NA,Cardiología,12/04/2024,73.55
+P0803,Álvaro Robles,28,M,San Isidro,Consulta General,04/06/2024,184.48
+P0804,Pedro Gómez,9,F,Lince,Pediatría,18/08/2024,269.71
+P0805,Isabel Alfaro,27,M,NA,Cardiología,08/08/2024,497.17
+P0806,Héctor Alfaro,49,M,Callao,Ginecología,30/03/2024,532.18
+P0807,Carlos Guerrero,34,M,La Molina,Odontología,22/06/2024,783.99
+P0808,Patricia Sánchez,35,M,San Isidro,Pediatría,04/01/2024,538.31
+P0809,Ana Ramos,84,F,Lince,Cardiología,02/10/2024,362.86
+P0810,Héctor Delgado,81,M,La Molina,Cardiología,03/10/2024,934.71
+P0811,Juan Ortiz,47,M,Callao,Cardiología,14/11/2024,740.71
+P0812,Ricardo Pérez,32,F,San Isidro,Pediatría,08/05/2024,850.36
+P0813,Roberto Silva,19,F,Surco,Emergencia,03/08/2024,256.48
+P0814,NA,80,M,Miraflores,Pediatría,09/06/2024,654.26
+P0815,Luis Cruz,35,M,Surco,Odontología,24/01/2024,664.63
+P0816,Andrés Navarro,86,F,Miraflores,Consulta General,24/03/2024,108.58
+P0817,Fernando Silva,NA,M,Callao,Pediatría,09/08/2024,899.07
+P0818,Sofía Díaz,86,M,Lince,Pediatría,12/01/2024,93.86
+P0819,María Hernández,76,M,San Isidro,Emergencia,20/11/2024,675.59
+P0820,Isabel Ramos,55,F,San Isidro,Emergencia,10/02/2024,922.42
+P0821,Elena Castro,34,F,San Isidro,Pediatría,10/05/2024,895.54
+P0822,Claudia Mendoza,79,F,San Isidro,Ginecología,18/11/2024,NA
+P0823,Gabriela Vargas,68,M,San Isidro,Pediatría,21/06/2024,793.7
+P0824,Héctor Torres,51,M,Miraflores,Emergencia,26/09/2024,559.13
+P0825,Álvaro Martínez,43,F,Callao,Cardiología,09/12/2024,353.17
+P0826,Héctor Guerrero,74,F,La Molina,Emergencia,05/11/2024,351.63
+P0827,Valeria Torres,31,M,Callao,Odontología,13/11/2024,477.83
+P0828,Ricardo Soto,15,F,San Isidro,Pediatría,19/09/2024,674.51
+P0829,Andrés Suárez,39,NA,NA,Pediatría,13/03/2024,100.66
+P0830,Valeria Flores,21,M,Surco,Emergencia,06/07/2024,NA
+P0831,Luis Sánchez,73,M,Callao,Cardiología,02/09/2024,627.28
+P0832,Ricardo Castillo,38,F,San Juan de Lurigancho,Emergencia,02/02/2024,133.41
+P0833,Marta Castro,51,F,Lince,NA,29/07/2024,97.92
+P0834,Carlos Soto,76,M,Lince,Emergencia,30/01/2024,158.02
+P0835,Verónica Sánchez,90,M,La Molina,Odontología,09/12/2024,731.36
+P0836,Luis Cruz,NA,M,Miraflores,Consulta General,16/06/2024,441.98
+P0837,Verónica Robles,75,F,Lince,Emergencia,01/02/2024,207.78
+P0838,Jorge Silva,80,M,La Molina,Pediatría,18/02/2024,960.85
+P0839,Natalia Acosta,37,M,Lince,Ginecología,10/12/2024,507.94
+P0840,Marta Flores,26,M,Callao,Emergencia,18/04/2024,545.64
+P0841,Lucía Martínez,43,F,Surco,Ginecología,29/08/2024,107.59
+P0842,Miguel Pérez,58,NA,Miraflores,Odontología,19/01/2024,NA
+P0843,Daniela Robles,44,NA,Lince,Consulta General,05/04/2024,688.03
+P0844,Ana Soto,9,F,Callao,Cardiología,12/02/2024,919.67
+P0845,Lorena Hernández,21,M,La Molina,Emergencia,NA,997.74
+P0846,Sofía Rojas,13,M,La Molina,NA,13/02/2024,95.64
+P0847,Valeria Navarro,64,M,Lince,Consulta General,27/06/2024,691.26
+P0848,Daniela Cabrera,83,M,La Molina,Emergencia,13/01/2024,760.55
+P0849,Roberto Rodríguez,18,F,La Molina,Cardiología,22/06/2024,966.89
+P0850,Daniela Jiménez,17,F,La Molina,Emergencia,16/11/2024,364.46
+P0851,Valeria Hernández,50,F,Callao,Pediatría,11/03/2024,832.73
+P0852,Claudia Castillo,NA,F,NA,Ginecología,14/10/2024,530.25
+P0853,Verónica Ortiz,60,M,Lince,Ginecología,31/07/2024,990.24
+P0854,Andrés Silva,57,M,San Juan de Lurigancho,Ginecología,26/04/2024,909.28
+P0855,Carmen Torres,67,NA,La Molina,Odontología,16/08/2024,NA
+P0856,Claudia Gómez,51,M,Callao,NA,11/09/2024,551.04
+P0857,Álvaro Guerrero,51,M,San Isidro,Cardiología,01/05/2024,444.8
+P0858,María Gómez,25,M,Lince,Cardiología,11/09/2024,492.36
+P0859,Verónica Ramos,31,F,San Isidro,Odontología,27/04/2024,838.91
+P0860,Jorge Navarro,77,F,Callao,Pediatría,07/06/2024,561.74
+P0861,Andrés Guerrero,55,F,Surco,Ginecología,26/03/2024,994.22
+P0862,Alberto Gómez,78,F,Surco,Ginecología,29/12/2024,421.34
+P0863,Jorge Ramos,8,M,Miraflores,Pediatría,06/02/2024,856.7
+P0864,Daniela García,14,F,Lince,Pediatría,21/11/2024,478.61
+P0865,Sofía Silva,55,M,Surco,Pediatría,19/10/2024,302.84
+P0866,Patricia Ortiz,34,M,Miraflores,Pediatría,20/10/2024,318.97
+P0867,Silvia Rojas,17,M,Miraflores,Emergencia,25/03/2024,81.82
+P0868,Diego Vega,59,M,La Molina,Cardiología,06/06/2024,874.2
+P0869,Elena Martínez,83,M,Surco,NA,29/07/2024,60.23
+P0870,Luis Romero,81,F,La Molina,Ginecología,04/03/2024,893.66
+P0871,Gabriela Campos,81,M,La Molina,Consulta General,10/12/2024,195.22
+P0872,María Pérez,69,F,Callao,Cardiología,23/02/2024,595.8
+P0873,Roberto Martínez,22,F,La Molina,NA,NA,221.0
+P0874,Miguel López,84,M,Miraflores,Ginecología,23/03/2024,175.23
+P0875,Raúl Cabrera,56,M,San Juan de Lurigancho,Pediatría,28/07/2024,956.86
+P0876,Patricia Robles,29,F,Miraflores,Odontología,24/01/2024,NA
+P0877,Patricia Delgado,76,F,Callao,Ginecología,12/04/2024,697.16
+P0878,Luis Sánchez,NA,M,Miraflores,Consulta General,17/08/2024,655.46
+P0879,Javier Ramírez,70,NA,Miraflores,Emergencia,22/10/2024,777.37
+P0880,Ricardo Romero,80,M,Callao,Consulta General,01/06/2024,123.81
+P0881,Lucía Castro,33,F,San Juan de Lurigancho,Consulta General,12/03/2024,617.69
+P0882,Alberto Vega,56,F,Miraflores,Emergencia,11/02/2024,683.08
+P0883,Ricardo Pérez,75,F,Surco,Emergencia,01/10/2024,NA
+P0884,Andrés Pérez,39,F,Miraflores,Consulta General,04/03/2024,894.12
+P0885,Verónica Robles,48,F,Miraflores,NA,20/10/2024,133.91
+P0886,María Morales,20,F,NA,Cardiología,11/04/2024,595.39
+P0887,Diego Hernández,42,F,Lince,Consulta General,03/01/2024,NA
+P0888,Miguel Delgado,65,M,Callao,Consulta General,18/11/2024,898.15
+P0889,Natalia Vargas,28,M,Lince,Ginecología,27/09/2024,753.17
+P0890,Alberto Silva,79,F,Surco,Consulta General,24/11/2024,559.6
+P0891,Isabel Guerrero,57,NA,San Juan de Lurigancho,Consulta General,22/05/2024,802.69
+P0892,Santiago Ramos,48,F,NA,Cardiología,01/01/2024,696.52
+P0893,Andrés Rodríguez,41,F,Callao,Cardiología,09/03/2024,76.23
+P0894,Lorena Díaz,65,M,San Juan de Lurigancho,Odontología,15/04/2024,442.02
+P0895,Fernando Morales,25,F,La Molina,NA,04/06/2024,200.3
+P0896,Natalia Robles,39,F,Miraflores,Cardiología,20/03/2024,694.01
+P0897,Gabriela Morales,60,NA,Surco,Odontología,01/03/2024,585.41
+P0898,Ana Pérez,64,M,San Juan de Lurigancho,Cardiología,31/10/2024,954.8
+P0899,Juan Campos,76,F,San Juan de Lurigancho,Ginecología,20/10/2024,612.83
+P0900,Ricardo Jiménez,38,M,NA,Ginecología,17/07/2024,382.85
+P0901,Andrés Cabrera,30,F,Miraflores,Ginecología,13/11/2024,690.8
+P0902,Patricia Rodríguez,9,M,Surco,NA,24/08/2024,495.49
+P0903,Lorena Cabrera,65,M,San Isidro,Ginecología,28/02/2024,736.08
+P0904,Jorge Hernández,40,F,Miraflores,NA,13/07/2024,373.79
+P0905,Silvia Díaz,58,F,Lince,Consulta General,20/05/2024,920.79
+P0906,Santiago Hernández,49,F,Miraflores,Odontología,21/08/2024,138.4
+P0907,Alberto Ramírez,39,M,Callao,Consulta General,20/12/2024,961.18
+P0908,Alberto Acosta,42,M,Surco,Odontología,17/03/2024,978.95
+P0909,NA,9,F,Miraflores,Consulta General,22/12/2024,654.58
+P0910,Valeria Suárez,86,F,La Molina,Ginecología,29/11/2024,861.28
+P0911,Jorge Cruz,65,F,Callao,Ginecología,20/02/2024,674.5
+P0912,Luis Delgado,16,M,San Juan de Lurigancho,Consulta General,05/07/2024,601.26
+P0913,Marta Martínez,54,M,Lince,Emergencia,06/11/2024,866.62
+P0914,Silvia Acosta,60,F,Miraflores,Ginecología,03/03/2024,141.02
+P0915,Santiago Rojas,68,F,Miraflores,Pediatría,27/10/2024,321.09
+P0916,Miguel Alfaro,10,F,Surco,Odontología,21/01/2024,958.98
+P0917,Alberto Rodríguez,55,M,Callao,Pediatría,18/06/2024,465.33
+P0918,Natalia García,65,M,San Juan de Lurigancho,Cardiología,30/06/2024,490.62
+P0919,Alberto Guerrero,85,M,NA,Pediatría,02/12/2024,697.75
+P0920,Fernando Vargas,26,M,La Molina,Odontología,18/12/2024,79.55
+P0921,Jorge Vargas,38,M,San Juan de Lurigancho,Emergencia,05/08/2024,330.8
+P0922,Sofía Díaz,52,NA,NA,Cardiología,06/09/2024,143.3
+P0923,Elena Castro,50,NA,San Isidro,Odontología,18/02/2024,443.12
+P0924,Pedro García,19,F,Surco,Ginecología,15/06/2024,103.49
+P0925,Carmen Navarro,53,M,Callao,Emergencia,18/01/2024,178.08
+P0926,Carlos Gómez,46,M,Surco,Odontología,11/04/2024,135.97
+P0927,Carmen Guerrero,43,F,Surco,Odontología,12/04/2024,308.16
+P0928,Ricardo Campos,30,F,Callao,Consulta General,08/06/2024,NA
+P0929,Héctor Gómez,84,F,La Molina,Consulta General,06/10/2024,478.6
+P0930,Álvaro Torres,19,F,La Molina,Cardiología,10/05/2024,803.88
+P0931,Claudia Navarro,8,F,Lince,Consulta General,14/06/2024,651.09
+P0932,Isabel Ramos,58,M,NA,Emergencia,22/02/2024,395.42
+P0933,Ricardo Mendoza,56,M,Callao,Emergencia,17/10/2024,161.2
+P0934,Ana Gómez,47,F,San Juan de Lurigancho,Cardiología,28/04/2024,635.44
+P0935,Miguel Flores,53,F,Surco,NA,08/09/2024,856.49
+P0936,Juan Hernández,34,NA,Callao,Emergencia,10/07/2024,762.9
+P0937,María Cabrera,72,NA,Lince,Emergencia,26/03/2024,778.97
+P0938,Andrés Acosta,59,F,San Juan de Lurigancho,Emergencia,18/12/2024,753.89
+P0939,Alberto Soto,30,F,La Molina,Ginecología,19/07/2024,61.46
+P0940,Isabel Ortiz,16,NA,La Molina,Ginecología,09/04/2024,400.53
+P0941,Silvia Navarro,49,M,La Molina,Consulta General,03/11/2024,883.4
+P0942,Andrés Rodríguez,39,F,Miraflores,Emergencia,09/05/2024,525.69
+P0943,NA,67,M,San Juan de Lurigancho,Emergencia,08/12/2024,882.73
+P0944,Natalia Martínez,27,F,Miraflores,Odontología,08/03/2024,74.55
+P0945,Carlos Delgado,37,F,Miraflores,Consulta General,10/01/2024,900.45
+P0946,Alberto Díaz,36,M,Surco,Ginecología,23/12/2024,141.24
+P0947,Héctor Mendoza,16,F,Miraflores,Consulta General,09/04/2024,538.45
+P0948,Marta Rodríguez,47,F,La Molina,NA,20/11/2024,988.57
+P0949,Andrés Flores,13,F,Surco,Pediatría,03/04/2024,412.44
+P0950,Javier Acosta,82,M,Lince,Consulta General,01/05/2024,844.97
+P0951,Álvaro Campos,82,F,Callao,Ginecología,10/11/2024,111.86
+P0952,Ricardo Navarro,83,F,Lince,Odontología,28/10/2024,822.16
+P0953,Álvaro Cruz,21,F,Miraflores,Pediatría,09/09/2024,934.87
+P0954,Javier Ramos,90,M,Lince,Cardiología,29/05/2024,991.04
+P0955,Claudia Delgado,66,M,Callao,Pediatría,17/04/2024,951.25
+P0956,Isabel Sánchez,19,F,San Juan de Lurigancho,Odontología,28/08/2024,739.55
+P0957,Elena Soto,49,M,Miraflores,Consulta General,12/09/2024,63.53
+P0958,Javier García,53,M,Callao,Pediatría,26/07/2024,93.32
+P0959,Lorena López,NA,F,San Juan de Lurigancho,Consulta General,24/01/2024,912.0
+P0960,Verónica Ramírez,16,M,Lince,Cardiología,01/08/2024,394.03
+P0961,Roberto Sánchez,NA,F,Lince,Odontología,08/03/2024,984.06
+P0962,Ana Guerrero,59,F,Miraflores,Odontología,08/03/2024,NA
+P0963,Santiago Cabrera,20,F,San Isidro,Ginecología,12/01/2024,877.92
+P0964,Alberto Robles,70,F,Surco,Ginecología,12/12/2024,301.01
+P0965,Diego Hernández,71,F,San Juan de Lurigancho,Odontología,05/08/2024,365.63
+P0966,Luis Díaz,18,F,La Molina,Ginecología,16/04/2024,600.54
+P0967,Santiago Ramírez,14,F,San Juan de Lurigancho,Pediatría,27/06/2024,925.22
+P0968,Javier Alfaro,15,F,NA,Cardiología,25/01/2024,865.69
+P0969,Isabel Campos,64,M,Lince,Consulta General,08/03/2024,643.05
+P0970,NA,81,F,Miraflores,Emergencia,24/11/2024,350.01
+P0971,Natalia Suárez,20,F,La Molina,Cardiología,05/01/2024,202.61
+P0972,Jorge Ramos,69,M,Lince,Cardiología,31/10/2024,301.1
+P0973,Natalia Alfaro,18,F,San Isidro,Odontología,NA,897.55
+P0974,Isabel Mendoza,66,M,San Isidro,Pediatría,28/06/2024,428.26
+P0975,Lucía Alfaro,49,M,La Molina,Pediatría,03/07/2024,760.36
+P0976,Pedro Rodríguez,82,M,San Isidro,Ginecología,06/01/2024,775.07
+P0977,Claudia Suárez,51,F,Lince,Ginecología,31/01/2024,445.48
+P0978,Luis Campos,33,M,Lince,Emergencia,13/01/2024,961.24
+P0979,Lucía Jiménez,39,F,NA,Odontología,04/09/2024,976.9
+P0980,Javier Ortiz,73,M,Miraflores,Consulta General,NA,593.86
+P0981,Patricia Cruz,42,M,Surco,Emergencia,12/09/2024,377.03
+P0982,Santiago Flores,28,M,Miraflores,Odontología,17/05/2024,568.62
+P0983,Carmen Guerrero,12,F,Callao,Cardiología,02/05/2024,601.81
+P0984,Andrés Vargas,78,F,Miraflores,Consulta General,28/07/2024,50.97
+P0985,Marta Cabrera,9,M,Surco,Ginecología,31/01/2024,904.99
+P0986,Natalia Cabrera,47,F,Lince,Odontología,28/09/2024,857.63
+P0987,Lorena García,36,M,Lince,Emergencia,27/07/2024,153.53
+P0988,Lucía Castro,39,M,San Juan de Lurigancho,Consulta General,29/04/2024,982.75
+P0989,Andrés Vega,76,F,Callao,Emergencia,05/05/2024,145.97
+P0990,María Soto,16,M,Callao,Cardiología,24/05/2024,169.41
+P0991,Juan Castro,18,M,San Isidro,Emergencia,02/01/2024,256.7
+P0992,Carmen Martínez,41,M,Callao,Emergencia,17/02/2024,433.87
+P0993,Lucía Silva,51,M,La Molina,Pediatría,NA,777.35
+P0994,Carmen Acosta,45,NA,Surco,Consulta General,07/05/2024,56.16
+P0995,Valeria Martínez,46,F,Miraflores,Ginecología,30/09/2024,418.89
+P0996,Fernando Morales,31,M,Surco,Consulta General,16/03/2024,447.58
+P0997,Isabel Torres,58,F,Callao,Ginecología,05/03/2024,381.36
+P0998,Javier Díaz,23,NA,San Juan de Lurigancho,Cardiología,11/10/2024,523.51
+P0999,Silvia Cabrera,87,M,Surco,Ginecología,02/05/2024,609.14
+P1000,Claudia Suárez,26,F,San Juan de Lurigancho,Odontología,04/10/2024,371.32
+P1001,Andrés Robles,53,F,Lince,Cardiología,23/11/2024,432.04
+P1002,Elena Ortiz,80,M,San Isidro,Odontología,15/02/2024,802.17
+P1003,Lorena Sánchez,27,F,Lince,Cardiología,07/03/2024,779.19
+P1004,Carmen Sánchez,84,M,Surco,Pediatría,07/01/2024,85.5
+P1005,Daniela Ramírez,51,F,San Juan de Lurigancho,Emergencia,31/08/2024,343.57
+P1006,Natalia Torres,40,M,San Juan de Lurigancho,Emergencia,07/08/2024,637.22
+P1007,Natalia Suárez,82,F,Lince,Cardiología,14/05/2024,718.16
+P1008,Marta Navarro,36,M,San Juan de Lurigancho,Cardiología,08/04/2024,438.34
+P1009,Jorge Sánchez,46,F,La Molina,Odontología,27/05/2024,869.8
+P1010,Lorena Ortiz,18,M,La Molina,Pediatría,10/01/2024,282.19
+P1011,Luis Navarro,66,F,San Juan de Lurigancho,Odontología,03/10/2024,239.41
+P1012,Fernando Díaz,65,F,Lince,Emergencia,17/07/2024,593.23
+P1013,Carmen Silva,45,M,La Molina,Consulta General,02/12/2024,785.92
+P1014,Natalia Ramos,16,M,La Molina,Pediatría,21/08/2024,NA
+P1015,Isabel Sánchez,69,M,La Molina,Odontología,10/03/2024,630.96
+P1016,Raúl Soto,27,F,San Isidro,Emergencia,13/05/2024,746.84
+P1017,Carmen Rojas,42,F,Lince,Emergencia,12/10/2024,662.47
+P1018,Natalia Suárez,74,F,Miraflores,Odontología,15/08/2024,650.16
+P1019,Sofía Díaz,57,M,Miraflores,Consulta General,18/09/2024,945.82
+P1020,Isabel Vargas,35,M,La Molina,Cardiología,12/08/2024,651.76
+P1021,Elena Castillo,24,M,San Isidro,Consulta General,07/11/2024,889.84
+P1022,Patricia Delgado,62,M,Surco,Emergencia,08/11/2024,362.03
+P1023,Álvaro Guerrero,71,M,Lince,Emergencia,19/07/2024,983.19
+P1024,Valeria Vargas,14,F,San Isidro,NA,20/10/2024,696.0
+P1025,Ricardo Ortiz,83,M,Surco,Consulta General,02/12/2024,497.64
+P1026,Héctor Rodríguez,29,M,Lince,Consulta General,10/01/2024,160.89
+P1027,Ana Ramos,42,M,Callao,Ginecología,31/03/2024,600.67
+P1028,Ricardo Torres,68,F,La Molina,Ginecología,25/05/2024,477.72
+P1029,Diego Sánchez,50,F,La Molina,Cardiología,01/08/2024,291.72
+P1030,Ricardo Acosta,13,F,Callao,Cardiología,28/04/2024,985.22
+P1031,NA,76,M,San Isidro,Cardiología,03/09/2024,131.61
+P1032,Alberto Suárez,85,NA,San Isidro,Ginecología,07/04/2024,444.45
+P1033,Juan Alfaro,43,F,San Juan de Lurigancho,Consulta General,15/11/2024,244.37
+P1034,Roberto Alfaro,32,M,Callao,Odontología,25/08/2024,455.48
+P1035,Roberto Rojas,24,M,Callao,Odontología,29/07/2024,713.73
+P1036,NA,25,M,San Juan de Lurigancho,Pediatría,09/03/2024,724.7
+P1037,Ricardo Flores,13,M,Surco,Consulta General,29/07/2024,292.14
+P1038,Diego López,52,M,Miraflores,Consulta General,10/04/2024,752.0
+P1039,Raúl Vargas,NA,M,Lince,Odontología,17/04/2024,999.51
+P1040,Miguel López,18,M,La Molina,NA,07/07/2024,999.13
+P1041,Alberto Torres,83,F,San Juan de Lurigancho,Ginecología,21/11/2024,NA
+P1042,Silvia Soto,84,F,San Juan de Lurigancho,Pediatría,06/01/2024,283.32
+P1043,Héctor Soto,24,F,San Isidro,Pediatría,15/10/2024,NA
+P1044,Carmen Campos,53,F,Callao,Odontología,05/06/2024,951.88
+P1045,Raúl López,12,F,Callao,Cardiología,04/01/2024,882.47
+P1046,Sofía Navarro,81,M,NA,Pediatría,13/10/2024,132.25
+P1047,Silvia Gómez,12,M,Miraflores,Cardiología,20/03/2024,490.91
+P1048,Lorena Cabrera,48,F,Callao,Cardiología,22/08/2024,NA
+P1049,Patricia Martínez,45,M,San Isidro,Consulta General,25/07/2024,762.19
+P1050,Marta Torres,21,F,Surco,Odontología,25/06/2024,158.6
+P1051,Ana Vargas,56,F,Callao,NA,19/08/2024,248.57
+P1052,Claudia Mendoza,85,M,Lince,Pediatría,16/07/2024,935.07
+P1053,Sofía Soto,88,NA,Miraflores,Pediatría,21/10/2024,832.2
+P1054,Isabel Pérez,65,F,San Juan de Lurigancho,Cardiología,18/09/2024,NA
+P1055,NA,54,F,San Isidro,Ginecología,03/06/2024,316.25
+P1056,Valeria Ramírez,55,M,NA,Odontología,14/03/2024,322.61
+P1057,Ana Flores,24,F,Surco,Ginecología,17/02/2024,757.26
+P1058,Verónica López,17,M,San Isidro,Odontología,11/02/2024,953.65
+P1059,Marta Castro,NA,F,San Isidro,Cardiología,08/06/2024,NA
+P1060,NA,41,F,Callao,Ginecología,17/07/2024,883.56
+P1061,Javier Suárez,26,M,Miraflores,Cardiología,22/03/2024,94.02
+P1062,Ricardo Ortiz,16,M,NA,Cardiología,10/04/2024,119.84
+P1063,Natalia García,64,F,Lince,Cardiología,30/09/2024,477.56
+P1064,Carmen López,9,M,Miraflores,Ginecología,04/12/2024,760.03
+P1065,Carmen Cabrera,36,M,Surco,Odontología,17/07/2024,884.49
+P1066,Natalia Ramos,56,F,San Juan de Lurigancho,Odontología,21/10/2024,610.06
+P1067,Luis Rojas,13,F,San Isidro,Odontología,06/03/2024,398.16
+P1068,Santiago Ramírez,86,F,Miraflores,Pediatría,02/04/2024,309.49
+P1069,Silvia Acosta,68,M,La Molina,Cardiología,21/03/2024,416.4
+P1070,Miguel Silva,72,M,San Juan de Lurigancho,Pediatría,NA,695.0
+P1071,Álvaro Romero,80,M,Miraflores,Emergencia,16/09/2024,838.59
+P1072,Andrés Torres,15,M,Lince,Cardiología,10/04/2024,465.24
+P1073,Carmen Sánchez,68,M,Callao,NA,15/01/2024,791.66
+P1074,Valeria Ortiz,62,M,Surco,Cardiología,17/11/2024,299.9
+P1075,Miguel Robles,80,F,Callao,Odontología,02/09/2024,NA
+P1076,Claudia Delgado,NA,F,San Juan de Lurigancho,Consulta General,12/12/2024,615.93
+P1077,Carlos Navarro,78,M,San Isidro,Consulta General,20/03/2024,402.35
+P1078,María Gómez,24,M,San Juan de Lurigancho,Cardiología,25/01/2024,557.14
+P1079,Álvaro López,NA,M,San Isidro,Pediatría,06/07/2024,575.85
+P1080,Silvia Acosta,62,M,Callao,Odontología,23/05/2024,705.73
+P1081,Valeria Hernández,47,F,Lince,Pediatría,28/10/2024,854.57
+P1082,Andrés Rojas,74,M,La Molina,Pediatría,25/12/2024,187.65
+P1083,Lucía Rojas,49,F,San Juan de Lurigancho,Pediatría,25/04/2024,932.36
+P1084,Carlos Vargas,88,F,Miraflores,Odontología,07/03/2024,399.74
+P1085,María Ramírez,NA,F,Surco,Consulta General,06/04/2024,382.16
+P1086,Daniela Rodríguez,67,F,Lince,Pediatría,01/12/2024,277.3
+P1087,Roberto Campos,67,M,Callao,Pediatría,20/10/2024,333.1
+P1088,Diego Flores,11,F,Callao,Cardiología,NA,364.68
+P1089,Claudia Castillo,54,F,Callao,Consulta General,21/02/2024,641.5
+P1090,Roberto Martínez,47,F,Surco,Emergencia,NA,999.47
+P1091,Ana Ramírez,73,F,NA,Consulta General,21/11/2024,846.9
+P1092,Sofía Guerrero,53,M,Miraflores,Consulta General,27/12/2024,854.4
+P1093,Valeria Castillo,15,F,Miraflores,Cardiología,27/03/2024,NA
+P1094,María Castillo,64,F,San Isidro,Ginecología,05/01/2024,NA
+P1095,Daniela Rojas,83,F,San Juan de Lurigancho,Odontología,13/05/2024,752.39
+P1096,Jorge Gómez,43,M,Miraflores,Odontología,22/12/2024,985.17
+P1097,Miguel Vega,18,M,Lince,Emergencia,29/12/2024,318.69
+P1098,Sofía Martínez,24,F,Callao,Consulta General,17/11/2024,678.33
+P1099,Lucía Soto,69,M,Miraflores,Consulta General,19/07/2024,154.18
+P1100,Carmen Ramírez,53,F,Surco,Cardiología,NA,597.89
+P1101,NA,84,F,La Molina,Emergencia,28/09/2024,169.61
+P1102,Roberto Vega,10,F,San Isidro,Consulta General,07/08/2024,346.31
+P1103,Lucía Flores,60,M,San Juan de Lurigancho,Consulta General,16/12/2024,101.63
+P1104,Isabel Rodríguez,NA,M,San Isidro,Odontología,07/04/2024,560.78
+P1105,Valeria Sánchez,89,F,San Isidro,Pediatría,19/11/2024,487.37
+P1106,Elena Navarro,66,F,Callao,Pediatría,18/09/2024,296.05
+P1107,Jorge Acosta,69,M,Lince,Cardiología,NA,561.19
+P1108,Álvaro Mendoza,73,F,Callao,Emergencia,29/09/2024,476.04
+P1109,Raúl Alfaro,32,F,Lince,Emergencia,02/03/2024,NA
+P1110,Fernando Suárez,39,F,Miraflores,Odontología,09/03/2024,100.69
+P1111,Pedro Suárez,21,F,La Molina,Emergencia,04/06/2024,707.13
+P1112,Isabel Romero,89,F,NA,NA,18/05/2024,763.06
+P1113,Andrés Castillo,30,M,Callao,Odontología,03/02/2024,NA
+P1114,Patricia Ramírez,39,M,Callao,Emergencia,31/03/2024,248.75
+P1115,Roberto Castillo,75,F,San Juan de Lurigancho,Consulta General,13/06/2024,316.11
+P1116,Álvaro Mendoza,83,F,La Molina,Ginecología,05/04/2024,428.49
+P1117,Gabriela Jiménez,43,F,Surco,Emergencia,19/09/2024,460.42
+P1118,Roberto Ortiz,83,M,Miraflores,Odontología,18/01/2024,678.79
+P1119,María Cabrera,19,M,Surco,Emergencia,21/09/2024,223.68
+P1120,Carlos Ortiz,83,F,San Juan de Lurigancho,Cardiología,22/11/2024,NA
+P1121,Javier Robles,8,F,Miraflores,Ginecología,30/08/2024,732.78
+P1122,Elena Guerrero,68,F,Callao,Ginecología,30/10/2024,395.09
+P1123,Gabriela Díaz,24,M,Surco,NA,19/10/2024,972.3
+P1124,Jorge Navarro,40,F,Lince,Consulta General,16/02/2024,462.24
+P1125,Lorena Ramos,90,M,La Molina,Consulta General,01/02/2024,150.28
+P1126,Silvia Castro,82,F,NA,Pediatría,28/07/2024,140.5
+P1127,Natalia Vargas,58,M,Surco,Ginecología,24/03/2024,296.29
+P1128,Daniela Romero,NA,M,San Juan de Lurigancho,Odontología,21/08/2024,255.56
+P1129,Carlos Cabrera,40,M,Callao,Emergencia,27/02/2024,250.44
+P1130,Daniela Alfaro,NA,F,Callao,Pediatría,26/11/2024,320.44
+P1131,Lucía Cruz,22,F,San Juan de Lurigancho,Odontología,12/04/2024,979.41
+P1132,Lucía Jiménez,38,F,La Molina,Pediatría,18/10/2024,484.27
+P1133,Javier Díaz,56,M,La Molina,Consulta General,09/01/2024,867.28
+P1134,Ana Morales,35,F,Miraflores,Consulta General,28/02/2024,244.96
+P1135,Marta Jiménez,31,M,Lince,Odontología,20/01/2024,53.44
+P1136,Álvaro Romero,27,F,Callao,Pediatría,10/06/2024,NA
+P1137,Lorena Alfaro,46,M,San Juan de Lurigancho,Consulta General,22/10/2024,577.92
+P1138,Sofía Ramos,65,M,Surco,Ginecología,10/07/2024,987.9
+P1139,Miguel Mendoza,49,F,San Isidro,Pediatría,21/06/2024,730.91
+P1140,Silvia López,39,F,Miraflores,Consulta General,05/11/2024,NA
+P1141,Luis Robles,30,F,San Isidro,Odontología,29/05/2024,94.36
+P1142,Héctor Navarro,46,M,Surco,Emergencia,10/11/2024,110.49
+P1143,Jorge Pérez,72,M,Callao,NA,15/09/2024,937.87
+P1144,Ricardo Acosta,40,M,San Juan de Lurigancho,Pediatría,01/12/2024,620.49
+P1145,Pedro Rodríguez,50,F,Lince,Ginecología,28/10/2024,432.02
+P1146,Carlos Castro,18,NA,La Molina,Ginecología,14/05/2024,465.46
+P1147,Elena Sánchez,24,M,Lince,Cardiología,27/04/2024,156.75
+P1148,Natalia García,64,F,La Molina,Odontología,08/02/2024,441.16
+P1149,Ana Ramírez,38,F,Lince,Pediatría,27/07/2024,326.73
+P1150,Daniela Ortiz,60,F,Surco,Emergencia,08/04/2024,162.45
+P1151,Fernando Sánchez,48,M,Callao,Emergencia,16/03/2024,954.76
+P1152,Luis Flores,60,M,La Molina,Cardiología,24/10/2024,947.6
+P1153,Ricardo Vega,41,M,NA,Emergencia,14/05/2024,881.1
+P1154,Marta Vega,76,F,Surco,Cardiología,07/06/2024,649.4
+P1155,Lorena Hernández,82,F,Callao,Ginecología,22/11/2024,880.83
+P1156,Roberto Rojas,15,F,Surco,Ginecología,02/05/2024,116.61
+P1157,NA,67,M,San Isidro,Odontología,10/02/2024,717.58
+P1158,Diego Castillo,NA,M,San Isidro,Pediatría,30/06/2024,565.04
+P1159,Sofía Cabrera,46,F,San Isidro,Odontología,28/01/2024,886.43
+P1160,Ricardo Sánchez,13,F,San Isidro,Consulta General,30/12/2024,159.59
+P1161,Raúl Ortiz,15,F,San Isidro,Ginecología,26/04/2024,251.68
+P1162,Miguel Pérez,46,F,San Juan de Lurigancho,Ginecología,30/08/2024,702.52
+P1163,Javier Delgado,28,F,Callao,Emergencia,15/01/2024,633.95
+P1164,Javier Castillo,19,F,San Juan de Lurigancho,Consulta General,22/02/2024,325.67
+P1165,Lucía Castro,52,F,Miraflores,Pediatría,11/09/2024,851.48
+P1166,Natalia Soto,37,M,NA,NA,03/05/2024,359.59
+P1167,Daniela Torres,69,M,Lince,Odontología,07/09/2024,985.89
+P1168,Sofía Torres,75,M,San Isidro,Pediatría,04/04/2024,201.95
+P1169,Valeria Castillo,28,M,San Juan de Lurigancho,Consulta General,06/12/2024,234.53
+P1170,Fernando Torres,90,M,Lince,Consulta General,28/10/2024,740.7
+P1171,Daniela Alfaro,79,M,Callao,Consulta General,13/09/2024,707.1
+P1172,Valeria Mendoza,77,F,Miraflores,Pediatría,05/09/2024,NA
+P1173,Álvaro Campos,82,F,Miraflores,Ginecología,16/03/2024,718.79
+P1174,Roberto Ortiz,NA,F,La Molina,Consulta General,17/07/2024,570.21
+P1175,Daniela Alfaro,36,M,Lince,Cardiología,08/12/2024,470.13
+P1176,Valeria Ramírez,NA,F,San Isidro,Odontología,10/10/2024,646.82
+P1177,Verónica Vargas,52,F,Miraflores,Emergencia,04/02/2024,262.93
+P1178,Ana Acosta,62,F,San Juan de Lurigancho,Pediatría,25/12/2024,960.7
+P1179,Natalia Ortiz,72,F,Lince,Cardiología,30/06/2024,804.15
+P1180,Santiago García,67,M,Surco,Cardiología,09/07/2024,947.97
+P1181,Andrés Suárez,73,F,La Molina,Ginecología,02/11/2024,833.23
+P1182,Miguel Martínez,34,M,La Molina,Odontología,27/10/2024,389.49
+P1183,Álvaro Castillo,13,NA,Callao,Emergencia,04/08/2024,817.2
+P1184,Juan Pérez,8,F,Surco,Consulta General,06/08/2024,632.36
+P1185,Daniela Alfaro,86,F,La Molina,Consulta General,29/11/2024,559.81
+P1186,Andrés Mendoza,56,M,Surco,Consulta General,07/03/2024,105.75
+P1187,Ricardo Castro,84,F,Callao,Odontología,09/04/2024,NA
+P1188,NA,74,NA,Callao,Pediatría,24/07/2024,632.6
+P1189,Valeria Campos,31,M,La Molina,Odontología,03/02/2024,317.67
+P1190,Alberto Navarro,27,F,Callao,Odontología,30/09/2024,884.82
+P1191,Javier Silva,63,F,Callao,Ginecología,26/12/2024,420.7
+P1192,Diego Romero,53,M,San Isidro,NA,28/02/2024,586.04
+P1193,NA,85,F,La Molina,Consulta General,25/09/2024,764.38
+P1194,Claudia Castro,19,F,Surco,Ginecología,08/02/2024,502.17
+P1195,Jorge Ramírez,59,F,San Juan de Lurigancho,Ginecología,25/02/2024,323.08
+P1196,Raúl Campos,78,M,Callao,Odontología,10/09/2024,158.36
+P1197,Pedro Ramírez,86,M,Miraflores,Pediatría,15/05/2024,761.09
+P1198,Andrés Delgado,NA,M,Miraflores,Ginecología,05/03/2024,193.82
+P1199,Elena García,46,M,Miraflores,Odontología,21/08/2024,503.76
+P1200,Carmen Torres,21,F,Callao,NA,08/12/2024,109.73
+P1201,Héctor Alfaro,88,M,Callao,Consulta General,22/03/2024,958.62
+P1202,Isabel Vega,9,F,San Isidro,Odontología,31/10/2024,704.99
+P1203,Roberto Jiménez,NA,M,Lince,Pediatría,07/05/2024,NA
+P1204,Gabriela García,85,F,San Juan de Lurigancho,Odontología,NA,370.62
+P1205,Luis Torres,24,M,San Isidro,Consulta General,16/07/2024,241.04
+P1206,Diego Romero,27,M,Callao,Consulta General,04/05/2024,995.74
+P1207,Luis Romero,27,M,Callao,Cardiología,07/05/2024,809.6
+P1208,Verónica Castillo,65,M,Surco,Cardiología,03/11/2024,NA
+P1209,Daniela Vega,8,M,Callao,Emergencia,15/12/2024,976.58
+P1210,Miguel Cabrera,57,F,Miraflores,Odontología,18/07/2024,740.92
+P1211,Carlos Ramírez,63,F,Miraflores,Cardiología,03/02/2024,355.82
+P1212,Carlos Silva,60,M,Callao,Pediatría,22/04/2024,770.52
+P1213,Daniela Ortiz,84,F,San Juan de Lurigancho,Consulta General,24/07/2024,134.91
+P1214,Santiago Morales,17,NA,Miraflores,Ginecología,16/09/2024,895.68
+P1215,Verónica Suárez,27,M,Surco,NA,04/08/2024,773.05
+P1216,Lorena Vega,39,F,La Molina,Pediatría,27/12/2024,360.68
+P1217,Ricardo Castro,68,F,Lince,Ginecología,20/02/2024,281.84
+P1218,Carlos Navarro,55,F,Lince,NA,04/09/2024,NA
+P1219,Andrés Delgado,NA,M,NA,Consulta General,14/06/2024,497.08
+P1220,Isabel Gómez,71,M,Miraflores,Pediatría,01/03/2024,428.71
+P1221,Carlos Acosta,18,F,San Juan de Lurigancho,NA,20/05/2024,553.12
+P1222,Lorena Castro,36,F,San Isidro,Emergencia,25/06/2024,621.06
+P1223,Claudia Silva,NA,M,La Molina,Cardiología,19/05/2024,961.52
+P1224,Silvia Castro,79,F,Miraflores,Cardiología,15/05/2024,201.59
+P1225,Javier Hernández,86,F,Surco,Odontología,17/02/2024,436.83
+P1226,Juan Delgado,62,F,San Juan de Lurigancho,Cardiología,14/03/2024,719.73
+P1227,Héctor Romero,83,M,Callao,Ginecología,10/10/2024,635.16
+P1228,Elena Silva,89,F,La Molina,Pediatría,07/01/2024,564.48
+P1229,Elena López,NA,M,San Isidro,Pediatría,01/07/2024,561.07
+P1230,Verónica Martínez,64,M,La Molina,Ginecología,21/05/2024,318.0
+P1231,Valeria Robles,46,M,Miraflores,Ginecología,02/11/2024,732.98
+P1232,Pedro Jiménez,50,F,Miraflores,NA,05/12/2024,516.77
+P1233,Andrés Vega,NA,F,Lince,Pediatría,26/06/2024,932.15
+P1234,Carmen Ortiz,37,F,Lince,Emergencia,29/09/2024,632.93
+P1235,Marta Silva,68,M,Lince,Pediatría,15/12/2024,946.98
+P1236,Alberto Campos,86,M,Lince,Cardiología,28/11/2024,55.4
+P1237,Santiago Suárez,21,F,Callao,Cardiología,18/01/2024,774.45
+P1238,Patricia Suárez,50,NA,Surco,Emergencia,23/09/2024,603.36
+P1239,NA,83,F,Miraflores,Consulta General,06/11/2024,640.6
+P1240,Carmen Romero,14,F,San Isidro,Ginecología,23/11/2024,371.38
+P1241,Verónica Vargas,23,M,La Molina,Pediatría,17/07/2024,483.37
+P1242,Juan Morales,87,M,Callao,Cardiología,07/04/2024,509.91
+P1243,Carlos Pérez,47,F,San Isidro,Emergencia,11/02/2024,926.97
+P1244,Javier Cabrera,81,M,San Juan de Lurigancho,Consulta General,07/01/2024,323.14
+P1245,Luis Rojas,47,F,La Molina,Consulta General,28/08/2024,84.62
+P1246,Jorge Flores,37,F,Surco,Emergencia,28/04/2024,259.07
+P1247,Gabriela Ramos,39,F,Lince,Cardiología,02/07/2024,666.1
+P1248,Lorena Romero,67,M,Callao,Ginecología,25/08/2024,193.87
+P1249,Silvia Robles,44,F,Miraflores,Cardiología,26/12/2024,526.74
+P1250,Claudia Pérez,32,F,Lince,Emergencia,09/07/2024,NA
+P1251,Daniela Mendoza,21,M,Callao,Consulta General,13/02/2024,886.84
+P1252,Raúl Delgado,88,M,Surco,Consulta General,04/08/2024,288.82
+P1253,Fernando Navarro,83,M,San Isidro,Ginecología,01/08/2024,915.14
+P1254,Lucía López,80,F,La Molina,Consulta General,13/06/2024,343.05
+P1255,Pedro Jiménez,84,F,San Juan de Lurigancho,Pediatría,31/01/2024,208.96
+P1256,Javier Vega,37,M,Callao,Ginecología,22/12/2024,143.63
+P1257,Patricia Morales,NA,F,La Molina,Cardiología,02/08/2024,401.48
+P1258,Valeria Ramos,68,F,Callao,Pediatría,06/03/2024,423.18
+P1259,Fernando Rojas,NA,F,Lince,Pediatría,28/11/2024,NA
+P1260,Sofía Vargas,30,F,Lince,Consulta General,27/01/2024,579.69
+P1261,Elena Acosta,78,F,Miraflores,Emergencia,13/05/2024,191.06
+P1262,Roberto Alfaro,53,F,Lince,Odontología,22/03/2024,878.89
+P1263,Álvaro Pérez,18,M,NA,Cardiología,18/06/2024,157.2
+P1264,Fernando Campos,26,M,Surco,Pediatría,27/07/2024,812.23
+P1265,Javier Vargas,84,M,San Juan de Lurigancho,Consulta General,20/01/2024,115.91
+P1266,Elena Morales,56,F,San Isidro,Consulta General,01/01/2025,320.35
+P1267,Claudia Mendoza,66,NA,La Molina,Emergencia,30/03/2024,703.82
+P1268,Héctor Alfaro,23,M,San Isidro,Emergencia,25/08/2024,586.23
+P1269,Álvaro Sánchez,40,F,Miraflores,Pediatría,14/01/2024,424.04
+P1270,Marta Ramírez,11,F,San Juan de Lurigancho,Pediatría,05/11/2024,370.75
+P1271,Andrés Morales,NA,M,Miraflores,Odontología,03/06/2024,502.44
+P1272,Fernando Castro,24,M,Callao,Consulta General,11/03/2024,57.31
+P1273,Héctor García,29,F,Miraflores,Emergencia,17/01/2024,98.07
+P1274,Luis Suárez,29,M,San Isidro,Ginecología,19/07/2024,933.59
+P1275,Lucía Mendoza,73,F,Callao,Ginecología,01/04/2024,659.61
+P1276,Luis Mendoza,45,M,San Isidro,Consulta General,26/06/2024,156.11
+P1277,Javier Sánchez,NA,M,San Isidro,Odontología,29/09/2024,363.11
+P1278,Lorena Castro,67,M,NA,Emergencia,NA,713.06
+P1279,Miguel Navarro,70,F,Surco,Cardiología,08/07/2024,79.61
+P1280,Daniela Pérez,46,M,La Molina,Cardiología,10/09/2024,594.66
+P1281,Javier Castro,78,M,Surco,Pediatría,27/10/2024,405.76
+P1282,Alberto Morales,44,F,La Molina,Pediatría,24/05/2024,623.49
+P1283,Elena Guerrero,56,F,Surco,NA,NA,415.43
+P1284,Juan Torres,68,M,Lince,Emergencia,21/07/2024,118.81
+P1285,Elena Silva,51,F,La Molina,Ginecología,28/12/2024,679.41
+P1286,Gabriela Torres,15,F,San Juan de Lurigancho,Odontología,NA,766.5
+P1287,Juan Delgado,90,F,Surco,NA,29/10/2024,717.96
+P1288,Natalia Alfaro,27,M,Miraflores,Odontología,02/03/2024,NA
+P1289,Roberto Cruz,39,M,Miraflores,Odontología,21/04/2024,504.8
+P1290,Gabriela Cabrera,66,M,Lince,Emergencia,10/06/2024,470.1
+P1291,Pedro Morales,19,M,San Juan de Lurigancho,Cardiología,07/02/2024,376.49
+P1292,Marta Campos,70,F,San Juan de Lurigancho,Pediatría,22/03/2024,NA
+P1293,Sofía Ramos,54,F,Callao,Pediatría,11/10/2024,217.64
+P1294,Verónica Guerrero,74,F,Callao,Odontología,26/07/2024,594.63
+P1295,Patricia Ortiz,21,M,San Isidro,Cardiología,30/09/2024,901.55
+P1296,Alberto Gómez,14,F,Lince,Odontología,02/10/2024,479.82
+P1297,Sofía Cruz,48,F,La Molina,Odontología,04/03/2024,NA
+P1298,Raúl Soto,50,F,La Molina,NA,09/06/2024,216.66
+P1299,Silvia Cabrera,77,M,San Juan de Lurigancho,Odontología,29/03/2024,341.99
+P1300,Carmen Castro,54,F,La Molina,Emergencia,21/05/2024,159.88
+P1301,Andrés García,82,M,Callao,NA,03/06/2024,NA
+P1302,Fernando Flores,37,F,Surco,Ginecología,24/08/2024,57.36
+P1303,Gabriela Suárez,17,M,Miraflores,Consulta General,08/11/2024,697.22
+P1304,Natalia Ramírez,73,M,San Isidro,Emergencia,15/02/2024,768.26
+P1305,Roberto Silva,61,F,La Molina,Emergencia,05/11/2024,988.13
+P1306,Carlos Castillo,68,M,Miraflores,Cardiología,12/12/2024,979.68
+P1307,Pedro Robles,16,M,Surco,Odontología,04/08/2024,452.72
+P1308,Carlos Ortiz,88,M,La Molina,Ginecología,20/03/2024,821.97
+P1309,Roberto Jiménez,46,M,San Juan de Lurigancho,Cardiología,05/05/2024,141.19
+P1310,Isabel Pérez,11,M,Surco,NA,29/06/2024,62.8
+P1311,Fernando García,17,M,Callao,Odontología,11/04/2024,682.04
+P1312,Lucía Torres,8,M,Callao,Ginecología,NA,505.88
+P1313,Miguel Morales,60,F,La Molina,Cardiología,08/09/2024,406.18
+P1314,Luis Cruz,60,F,Lince,Consulta General,10/11/2024,679.6
+P1315,Álvaro Acosta,23,M,Lince,Cardiología,28/10/2024,865.86
+P1316,Sofía Guerrero,70,NA,Surco,Odontología,21/01/2024,673.79
+P1317,Alberto Pérez,31,M,San Juan de Lurigancho,Cardiología,28/10/2024,808.89
+P1318,Marta Soto,13,F,Callao,Odontología,04/12/2024,177.76
+P1319,Ricardo Suárez,43,NA,San Juan de Lurigancho,Ginecología,12/07/2024,NA
+P1320,Miguel Cruz,21,F,Lince,Cardiología,16/07/2024,940.84
+P1321,Pedro Rojas,63,M,Lince,Emergencia,08/03/2024,474.54
+P1322,Lorena Martínez,52,F,San Juan de Lurigancho,Pediatría,11/07/2024,555.94
+P1323,Raúl Robles,64,F,Lince,Consulta General,12/08/2024,877.72
+P1324,Natalia Martínez,90,F,Surco,Emergencia,14/03/2024,372.69
+P1325,Verónica Martínez,62,F,Callao,Odontología,18/03/2024,248.83
+P1326,Raúl Guerrero,68,M,San Isidro,Consulta General,10/04/2024,254.82
+P1327,Claudia Díaz,NA,M,Miraflores,Pediatría,11/02/2024,632.7
+P1328,Javier Flores,71,F,San Isidro,Pediatría,05/11/2024,439.27
+P1329,Fernando Ortiz,23,F,San Juan de Lurigancho,Consulta General,07/06/2024,425.17
+P1330,Andrés Acosta,60,M,Callao,Cardiología,30/11/2024,181.19
+P1331,Claudia Ramírez,68,M,Callao,Ginecología,13/10/2024,277.73
+P1332,Roberto Rodríguez,56,M,Callao,Emergencia,11/03/2024,272.29
+P1333,Andrés García,48,F,Lince,Odontología,03/07/2024,475.09
+P1334,NA,56,M,San Juan de Lurigancho,NA,07/04/2024,361.39
+P1335,Ricardo Martínez,18,F,Callao,Cardiología,18/10/2024,58.88
+P1336,Silvia Campos,89,M,San Isidro,Cardiología,26/04/2024,846.59
+P1337,Luis Sánchez,77,M,La Molina,Cardiología,01/11/2024,586.41
+P1338,Fernando Ramírez,32,M,Lince,Pediatría,29/11/2024,272.85
+P1339,Ana Cruz,58,M,San Isidro,Consulta General,03/01/2024,414.21
+P1340,Valeria Mendoza,NA,M,Callao,Ginecología,23/12/2024,502.64
+P1341,Silvia Ramos,46,F,Lince,Cardiología,27/02/2024,122.16
+P1342,Silvia Robles,NA,F,San Juan de Lurigancho,Cardiología,04/09/2024,996.66
+P1343,NA,37,F,Lince,Odontología,01/03/2024,274.17
+P1344,Andrés Suárez,9,M,Surco,NA,22/04/2024,463.46
+P1345,Juan Campos,57,F,San Juan de Lurigancho,Consulta General,28/01/2024,147.27
+P1346,Silvia Cabrera,76,M,San Juan de Lurigancho,Consulta General,24/08/2024,232.1
+P1347,Pedro Suárez,11,M,San Isidro,Ginecología,15/03/2024,372.94
+P1348,Fernando García,13,M,Callao,Consulta General,17/11/2024,100.79
+P1349,Roberto Campos,78,M,La Molina,Cardiología,30/09/2024,914.94
+P1350,Javier Castro,86,F,Miraflores,Emergencia,03/02/2024,873.28
+P1351,Verónica Gómez,15,M,Lince,Pediatría,10/11/2024,NA
+P1352,Álvaro Silva,10,F,San Juan de Lurigancho,Pediatría,27/07/2024,581.19
+P1353,Roberto Vargas,27,M,Lince,Pediatría,16/06/2024,610.57
+P1354,Claudia Navarro,71,M,Miraflores,Pediatría,09/10/2024,575.33
+P1355,Raúl Silva,40,M,San Isidro,Odontología,06/04/2024,331.86
+P1356,María Rodríguez,62,F,Callao,Cardiología,10/09/2024,709.89
+P1357,Alberto Ortiz,40,F,Callao,Pediatría,25/12/2024,169.68
+P1358,Lorena Vargas,40,M,NA,Emergencia,17/12/2024,363.92
+P1359,Daniela Cruz,46,M,La Molina,Pediatría,28/01/2024,866.51
+P1360,Juan Ortiz,11,M,Surco,Ginecología,23/11/2024,178.0
+P1361,Roberto Robles,59,F,La Molina,Emergencia,17/09/2024,633.71
+P1362,Jorge Hernández,15,M,La Molina,Emergencia,17/08/2024,444.98
+P1363,Ricardo Vega,54,M,Miraflores,Ginecología,07/02/2024,712.28
+P1364,Ricardo Mendoza,66,F,La Molina,Consulta General,16/06/2024,530.9
+P1365,Raúl Acosta,23,M,San Juan de Lurigancho,Emergencia,23/10/2024,417.46
+P1366,NA,46,M,Surco,Odontología,03/12/2024,438.47
+P1367,Javier Silva,15,M,San Isidro,Odontología,31/10/2024,190.96
+P1368,Silvia Soto,12,F,Lince,Consulta General,NA,790.32
+P1369,Silvia Castillo,74,M,Callao,Odontología,18/01/2024,458.2
+P1370,Valeria Díaz,39,M,NA,Ginecología,11/09/2024,515.24
+P1371,Ricardo Acosta,85,NA,San Juan de Lurigancho,Emergencia,06/08/2024,258.96
+P1372,Isabel Martínez,40,NA,Lince,Odontología,09/05/2024,706.44
+P1373,Roberto Castillo,31,M,NA,Cardiología,30/01/2024,709.7
+P1374,Luis Navarro,48,F,Lince,Consulta General,06/11/2024,872.27
+P1375,Marta Gómez,9,F,La Molina,Cardiología,14/09/2024,144.6
+P1376,Daniela Gómez,38,M,Lince,Cardiología,15/11/2024,NA
+P1377,Fernando Hernández,39,M,Lince,Ginecología,10/10/2024,275.6
+P1378,Ana Ramos,65,F,Lince,Pediatría,22/09/2024,956.47
+P1379,María Mendoza,50,F,San Isidro,Ginecología,06/05/2024,209.97
+P1380,Silvia Cruz,88,F,Miraflores,Cardiología,05/05/2024,473.04
+P1381,Alberto Alfaro,62,M,Callao,Odontología,01/09/2024,919.09
+P1382,Raúl Delgado,42,F,San Juan de Lurigancho,Cardiología,16/07/2024,415.13
+P1383,Lucía Morales,15,M,Lince,Odontología,28/01/2024,423.25
+P1384,Miguel Morales,31,M,Miraflores,Emergencia,NA,926.69
+P1385,Carmen Rodríguez,NA,M,San Juan de Lurigancho,Ginecología,19/07/2024,288.27
+P1386,Diego Suárez,69,F,San Isidro,Ginecología,28/09/2024,530.96
+P1387,Fernando Jiménez,82,F,Miraflores,Consulta General,23/02/2024,666.76
+P1388,Gabriela Sánchez,59,M,NA,Cardiología,07/06/2024,213.21
+P1389,Elena Hernández,43,F,La Molina,Ginecología,20/09/2024,613.34
+P1390,Lucía Castillo,55,M,Surco,Consulta General,06/06/2024,902.61
+P1391,Valeria Castillo,20,M,San Isidro,Odontología,06/03/2024,614.37
+P1392,Pedro Sánchez,22,M,San Isidro,Ginecología,25/04/2024,973.97
+P1393,Roberto Pérez,43,F,Miraflores,Emergencia,14/07/2024,215.64
+P1394,Jorge Castillo,74,M,La Molina,Odontología,09/11/2024,NA
+P1395,Daniela Martínez,79,F,San Juan de Lurigancho,Ginecología,08/07/2024,887.92
+P1396,Verónica Robles,86,F,Miraflores,Emergencia,23/02/2024,626.3
+P1397,Héctor Guerrero,13,F,Lince,Pediatría,01/06/2024,580.18
+P1398,Ricardo Soto,63,M,Miraflores,Pediatría,06/08/2024,77.72
+P1399,Natalia Hernández,NA,F,Miraflores,Ginecología,26/09/2024,675.45
+P1400,Ricardo Acosta,28,F,San Juan de Lurigancho,Odontología,NA,506.02
+P1401,Santiago Cabrera,12,M,Miraflores,Odontología,25/06/2024,772.62
+P1402,Santiago Navarro,45,M,San Juan de Lurigancho,Cardiología,NA,410.06
+P1403,Carlos Gómez,44,M,NA,Emergencia,09/05/2024,238.33
+P1404,Elena Morales,70,F,San Isidro,Emergencia,21/05/2024,418.43
+P1405,Roberto Sánchez,83,F,Lince,Odontología,01/02/2024,492.06
+P1406,Gabriela Rodríguez,46,F,Surco,Consulta General,07/06/2024,673.18
+P1407,Ricardo Flores,62,M,San Isidro,Pediatría,02/09/2024,757.32
+P1408,Javier Soto,37,M,NA,NA,04/01/2024,NA
+P1409,Jorge Díaz,82,M,Miraflores,Cardiología,24/01/2024,552.75
+P1410,Jorge Castro,25,F,Callao,Cardiología,30/04/2024,595.27
+P1411,Álvaro Morales,70,M,Surco,Consulta General,03/10/2024,448.7
+P1412,Silvia Ortiz,30,F,Callao,Emergencia,01/01/2024,83.91
+P1413,Carlos Ramos,71,F,San Isidro,Odontología,01/01/2024,922.87
+P1414,Ana Campos,82,F,Callao,Odontología,18/08/2024,954.66
+P1415,Elena Soto,33,F,Lince,Consulta General,02/08/2024,834.72
+P1416,Ricardo Jiménez,14,F,San Juan de Lurigancho,Pediatría,23/02/2024,644.54
+P1417,Raúl Rodríguez,68,NA,Surco,Pediatría,09/10/2024,717.91
+P1418,Diego Soto,50,NA,Callao,Odontología,06/02/2024,780.53
+P1419,Fernando Díaz,35,F,Callao,NA,30/07/2024,442.62
+P1420,Raúl Navarro,13,NA,Lince,Cardiología,04/11/2024,442.66
+P1421,Daniela Acosta,58,M,San Isidro,Odontología,28/11/2024,605.41
+P1422,Natalia Ramos,NA,F,Callao,Cardiología,12/01/2024,832.83
+P1423,Patricia Delgado,50,M,Callao,Odontología,28/09/2024,713.42
+P1424,Diego López,89,M,Callao,Pediatría,25/06/2024,126.5
+P1425,Ricardo Robles,8,M,La Molina,Odontología,28/10/2024,464.74
+P1426,Javier Cruz,53,M,Lince,Emergencia,08/04/2024,419.56
+P1427,Luis Morales,36,NA,Surco,Ginecología,24/02/2024,659.79
+P1428,Carmen Castillo,12,M,Surco,Ginecología,08/04/2024,NA
+P1429,Claudia Rodríguez,50,F,San Juan de Lurigancho,Odontología,27/02/2024,679.5
+P1430,Diego Torres,32,F,Callao,Pediatría,02/02/2024,470.65
+P1431,Daniela Pérez,54,F,Miraflores,Odontología,22/04/2024,200.21
+P1432,Sofía Castillo,9,M,San Juan de Lurigancho,Cardiología,21/10/2024,301.42
+P1433,Marta Vargas,36,M,Callao,Pediatría,06/09/2024,192.9
+P1434,Miguel Torres,80,M,La Molina,Ginecología,07/04/2024,562.63
+P1435,Diego Guerrero,31,F,Lince,Cardiología,29/09/2024,551.78
+P1436,Héctor Soto,57,M,San Isidro,Ginecología,12/08/2024,100.03
+P1437,Raúl López,85,F,Callao,Ginecología,19/07/2024,NA
+P1438,Isabel Suárez,72,F,Surco,Ginecología,18/03/2024,246.26
+P1439,Carlos Campos,25,NA,Lince,Pediatría,27/05/2024,139.03
+P1440,María Alfaro,43,M,Lince,Odontología,15/12/2024,363.99
+P1441,Raúl Silva,24,F,Surco,Ginecología,20/11/2024,846.04
+P1442,Juan Ortiz,34,M,San Isidro,Odontología,07/03/2024,152.13
+P1443,Carmen Romero,21,F,La Molina,Ginecología,14/11/2024,868.91
+P1444,Ana Flores,40,M,La Molina,Ginecología,15/01/2024,428.14
+P1445,Valeria López,9,M,Lince,Pediatría,13/04/2024,760.97
+P1446,Marta Martínez,23,M,Lince,NA,17/04/2024,934.83
+P1447,María Vega,43,F,Callao,Pediatría,19/06/2024,878.16
+P1448,Valeria López,46,M,Lince,Consulta General,26/05/2024,815.76
+P1449,Natalia Soto,88,F,Callao,Ginecología,21/11/2024,353.86
+P1450,Alberto López,59,M,Miraflores,Pediatría,24/09/2024,NA
+P1451,Elena Delgado,20,M,La Molina,Emergencia,30/08/2024,417.77
+P1452,Juan Navarro,68,F,Lince,Cardiología,27/08/2024,954.92
+P1453,Juan Hernández,28,M,San Juan de Lurigancho,Ginecología,21/05/2024,355.32
+P1454,Sofía Soto,42,M,Miraflores,Pediatría,07/08/2024,NA
+P1455,Lorena Silva,42,M,Surco,Consulta General,24/05/2024,770.34
+P1456,Álvaro Acosta,58,M,Surco,NA,01/11/2024,546.21
+P1457,Carlos Ramos,9,M,La Molina,Consulta General,18/10/2024,417.28
+P1458,Luis Navarro,20,M,La Molina,Pediatría,17/06/2024,591.86
+P1459,Sofía Vega,84,M,La Molina,Pediatría,13/03/2024,147.96
+P1460,Raúl García,13,M,San Juan de Lurigancho,Pediatría,24/01/2024,776.24
+P1461,Raúl Morales,86,M,Surco,Ginecología,25/10/2024,830.27
+P1462,Ricardo Navarro,69,M,NA,Odontología,25/03/2024,490.33
+P1463,Valeria Rojas,36,M,Lince,Pediatría,21/03/2024,102.35
+P1464,Ricardo Silva,25,F,La Molina,Consulta General,08/08/2024,480.94
+P1465,María Acosta,57,F,Lince,Pediatría,23/10/2024,615.29
+P1466,Roberto Acosta,81,M,Miraflores,Odontología,18/07/2024,401.32
+P1467,Santiago Castillo,63,F,Lince,Odontología,03/02/2024,960.42
+P1468,Miguel Flores,81,M,Miraflores,Ginecología,21/08/2024,175.35
+P1469,Santiago Morales,74,F,La Molina,Cardiología,15/11/2024,187.11
+P1470,Javier Ramos,43,F,San Juan de Lurigancho,Odontología,15/04/2024,380.35
+P1471,Gabriela Cabrera,34,F,La Molina,Emergencia,04/08/2024,453.26
+P1472,Jorge Pérez,35,M,Surco,Cardiología,27/11/2024,873.86
+P1473,Roberto Romero,9,F,Callao,Odontología,13/07/2024,930.17
+P1474,Isabel Martínez,28,M,La Molina,Consulta General,13/10/2024,493.49
+P1475,Valeria Ramos,64,M,Callao,Emergencia,06/12/2024,530.96
+P1476,Valeria Morales,17,F,Surco,Odontología,02/10/2024,74.18
+P1477,Miguel Castillo,53,F,Callao,Consulta General,24/03/2024,952.5
+P1478,Héctor Hernández,57,F,San Isidro,Consulta General,31/05/2024,344.51
+P1479,Lucía Torres,71,F,Lince,Ginecología,28/03/2024,978.47
+P1480,Verónica Jiménez,89,M,La Molina,Emergencia,09/03/2024,780.12
+P1481,Claudia Delgado,54,M,Callao,Pediatría,13/10/2024,218.94
+P1482,Fernando Pérez,29,F,La Molina,Ginecología,29/08/2024,587.36
+P1483,Javier Guerrero,67,M,Callao,Ginecología,09/08/2024,132.65
+P1484,Pedro Díaz,NA,M,Miraflores,Ginecología,22/11/2024,744.34
+P1485,Santiago Díaz,59,F,NA,Odontología,09/06/2024,476.91
+P1486,Lorena Soto,11,NA,Callao,Odontología,15/08/2024,532.04
+P1487,Juan Romero,30,M,Callao,Consulta General,15/02/2024,NA
+P1488,Carlos Flores,66,M,Miraflores,Cardiología,11/06/2024,553.25
+P1489,Carlos Navarro,73,M,Lince,NA,11/09/2024,697.37
+P1490,Héctor Castillo,18,F,San Isidro,Ginecología,26/10/2024,892.92
+P1491,Sofía Pérez,23,M,Miraflores,Odontología,03/05/2024,992.71
+P1492,Fernando Guerrero,41,F,La Molina,Cardiología,23/07/2024,971.44
+P1493,Daniela Delgado,26,F,San Juan de Lurigancho,Cardiología,26/11/2024,718.57
+P1494,NA,49,F,San Juan de Lurigancho,Pediatría,12/07/2024,745.82
+P1495,Silvia Campos,72,F,Surco,Consulta General,27/12/2024,218.08
+P1496,Sofía Ramos,32,F,Callao,Consulta General,14/05/2024,349.06
+P1497,Jorge Campos,89,M,San Isidro,Ginecología,16/10/2024,414.77
+P1498,Jorge Torres,41,M,Miraflores,Pediatría,04/12/2024,579.68
+P1499,Andrés Silva,32,M,Surco,Cardiología,24/02/2024,888.83
+P1500,Andrés Jiménez,24,M,La Molina,Consulta General,15/08/2024,640.86
+P1501,Fernando Ortiz,82,F,San Juan de Lurigancho,Cardiología,05/10/2024,602.63
+P1502,Gabriela Morales,82,M,San Juan de Lurigancho,Emergencia,12/06/2024,838.08
+P1503,Claudia Flores,48,F,Miraflores,Consulta General,07/07/2024,348.53
+P1504,Ana Vargas,56,M,Callao,Consulta General,04/01/2024,970.59
+P1505,Lucía Soto,11,M,San Juan de Lurigancho,Pediatría,11/09/2024,108.28
+P1506,Carmen Martínez,73,F,Lince,Emergencia,02/12/2024,871.25
+P1507,Raúl García,17,F,Surco,Odontología,22/03/2024,344.6
+P1508,Natalia Ortiz,NA,F,San Isidro,Odontología,26/10/2024,761.71
+P1509,Patricia Acosta,51,M,Callao,Cardiología,30/10/2024,64.22
+P1510,Pedro Soto,88,F,La Molina,Pediatría,26/03/2024,939.39
+P1511,Carmen Gómez,80,F,Lince,Ginecología,06/11/2024,182.34
+P1512,Miguel Díaz,80,F,Surco,Odontología,15/01/2024,911.15
+P1513,Roberto Vargas,78,F,San Isidro,Cardiología,24/01/2024,314.1
+P1514,Patricia Morales,8,M,San Isidro,Consulta General,17/03/2024,986.49
+P1515,Lorena Silva,60,F,Surco,Cardiología,27/05/2024,808.93
+P1516,Juan Morales,83,NA,Lince,Cardiología,25/07/2024,970.14
+P1517,Javier Sánchez,49,M,Miraflores,Pediatría,19/07/2024,779.0
+P1518,Pedro Cabrera,23,NA,San Juan de Lurigancho,Emergencia,24/12/2024,638.17
+P1519,Andrés Díaz,35,M,San Juan de Lurigancho,Ginecología,20/02/2024,165.74
+P1520,Verónica Rodríguez,65,F,Lince,Ginecología,12/11/2024,450.34
+P1521,Luis Pérez,61,F,Lince,Cardiología,22/01/2024,964.35
+P1522,Juan Alfaro,52,M,Surco,Pediatría,27/05/2024,926.43
+P1523,Daniela Morales,25,F,NA,Odontología,11/09/2024,778.32
+P1524,Javier Rojas,69,F,San Juan de Lurigancho,Consulta General,22/06/2024,159.07
+P1525,Ricardo Suárez,61,F,San Isidro,Cardiología,08/04/2024,NA
+P1526,Javier Ortiz,11,F,Miraflores,Cardiología,10/12/2024,718.29
+P1527,Fernando Pérez,69,NA,Lince,Emergencia,16/09/2024,780.49
+P1528,Raúl Alfaro,26,F,NA,Pediatría,27/03/2024,NA
+P1529,Carlos Martínez,85,M,Callao,Consulta General,23/03/2024,948.67
+P1530,Isabel Pérez,12,F,Callao,Consulta General,08/03/2024,726.64
+P1531,Silvia Castillo,49,F,NA,Emergencia,19/03/2024,668.14
+P1532,María Morales,90,M,La Molina,Ginecología,07/09/2024,832.88
+P1533,Gabriela Jiménez,30,M,La Molina,Ginecología,NA,322.03
+P1534,Claudia Flores,11,M,Surco,Ginecología,04/09/2024,589.86
+P1535,Claudia Silva,79,M,Surco,Consulta General,02/05/2024,767.09
+P1536,Carmen Vargas,NA,F,NA,Pediatría,15/07/2024,936.22
+P1537,Fernando Robles,72,M,Miraflores,NA,05/03/2024,516.59
+P1538,Verónica Castillo,30,M,San Isidro,Cardiología,14/08/2024,673.54
+P1539,Raúl Robles,84,M,Lince,Emergencia,30/08/2024,973.59
+P1540,Gabriela Mendoza,24,F,Lince,Ginecología,21/04/2024,185.06
+P1541,NA,46,NA,San Juan de Lurigancho,Consulta General,26/06/2024,908.5
+P1542,Silvia Rojas,44,M,San Juan de Lurigancho,Odontología,26/08/2024,567.93
+P1543,Claudia Martínez,34,M,La Molina,Emergencia,27/05/2024,674.18
+P1544,Roberto Jiménez,74,F,Miraflores,Odontología,13/08/2024,630.53
+P1545,Sofía Romero,33,M,Lince,Ginecología,07/10/2024,694.26
+P1546,Patricia Vargas,26,NA,Lince,Emergencia,29/06/2024,840.0
+P1547,Marta García,62,M,San Juan de Lurigancho,Pediatría,30/03/2024,452.39
+P1548,Jorge Alfaro,20,M,San Juan de Lurigancho,Pediatría,22/10/2024,533.65
+P1549,Sofía Pérez,64,M,Callao,Consulta General,03/10/2024,911.16
+P1550,Carmen Guerrero,21,M,San Juan de Lurigancho,Ginecología,27/04/2024,736.02
+P1551,Daniela Flores,56,M,NA,Cardiología,29/05/2024,573.76
+P1552,Claudia Díaz,89,M,San Juan de Lurigancho,Ginecología,29/05/2024,887.56
+P1553,Silvia Rodríguez,54,F,San Juan de Lurigancho,Emergencia,11/06/2024,491.37
+P1554,Carlos Ortiz,28,F,San Juan de Lurigancho,Cardiología,09/04/2024,505.72
+P1555,Carlos Gómez,14,F,Surco,Consulta General,21/06/2024,666.33
+P1556,Andrés Vega,31,F,Lince,Emergencia,19/03/2024,NA
+P1557,Santiago Ramos,NA,F,San Isidro,Cardiología,11/11/2024,285.49
+P1558,Santiago Morales,37,F,San Isidro,NA,23/06/2024,287.07
+P1559,Sofía Silva,36,M,Lince,Pediatría,30/04/2024,173.52
+P1560,Diego Vargas,17,M,Miraflores,Pediatría,01/08/2024,733.38
+P1561,Miguel García,77,M,Surco,NA,NA,199.86
+P1562,NA,45,M,San Juan de Lurigancho,Odontología,04/03/2024,219.17
+P1563,Álvaro Guerrero,8,M,Callao,Emergencia,27/01/2024,612.98
+P1564,Roberto Acosta,76,F,La Molina,Pediatría,25/03/2024,133.05
+P1565,Isabel Acosta,65,M,San Juan de Lurigancho,Odontología,08/11/2024,423.99
+P1566,Javier Acosta,62,F,Miraflores,Emergencia,05/04/2024,374.12
+P1567,Daniela Castro,14,F,San Juan de Lurigancho,Odontología,27/06/2024,314.01
+P1568,Fernando Pérez,77,M,Callao,Pediatría,04/06/2024,682.55
+P1569,Álvaro Sánchez,13,M,Miraflores,Odontología,23/10/2024,607.36
+P1570,Andrés Romero,76,M,San Juan de Lurigancho,Ginecología,09/08/2024,409.95
+P1571,Ana Alfaro,17,M,San Isidro,Cardiología,02/09/2024,624.66
+P1572,Lucía Campos,68,F,San Juan de Lurigancho,Ginecología,19/02/2024,67.6
+P1573,Claudia Ramírez,74,M,NA,Emergencia,NA,NA
+P1574,Pedro Ramos,26,M,San Isidro,Ginecología,29/04/2024,96.94
+P1575,Ana Rojas,87,M,San Isidro,Cardiología,29/10/2024,552.74
+P1576,Valeria Robles,59,F,Surco,Odontología,17/07/2024,464.72
+P1577,Héctor Alfaro,45,M,Surco,Consulta General,20/06/2024,301.06
+P1578,Marta Silva,46,M,Lince,Pediatría,17/06/2024,109.8
+P1579,Andrés Delgado,43,F,La Molina,Consulta General,02/12/2024,346.56
+P1580,Jorge Flores,18,F,Lince,Odontología,30/11/2024,622.07
+P1581,Sofía Rodríguez,42,F,NA,Emergencia,11/03/2024,124.51
+P1582,Javier Vega,25,F,Miraflores,Odontología,18/10/2024,844.59
+P1583,Ricardo Ortiz,84,F,Lince,Ginecología,31/07/2024,752.98
+P1584,Elena Suárez,60,M,Lince,Emergencia,20/04/2024,392.22
+P1585,Verónica Rodríguez,69,M,Miraflores,Consulta General,19/07/2024,NA
+P1586,María Campos,68,M,Callao,Cardiología,16/11/2024,686.62
+P1587,Ricardo Castro,70,M,Miraflores,Consulta General,29/06/2024,158.4
+P1588,Pedro Pérez,25,M,Callao,Cardiología,01/10/2024,170.46
+P1589,Pedro Romero,78,M,Miraflores,Emergencia,02/01/2024,921.02
+P1590,Valeria Ortiz,25,F,Miraflores,Emergencia,23/01/2024,517.69
+P1591,Silvia Torres,86,F,Callao,Cardiología,02/10/2024,166.41
+P1592,Ricardo Campos,14,F,Surco,Odontología,10/05/2024,672.91
+P1593,Ricardo Ramos,NA,M,San Isidro,Odontología,19/09/2024,501.63
+P1594,Miguel Mendoza,39,M,La Molina,Consulta General,27/01/2024,589.56
+P1595,Ricardo Castro,43,M,NA,Cardiología,18/12/2024,513.3
+P1596,Andrés Sánchez,65,F,San Juan de Lurigancho,Consulta General,01/04/2024,197.4
+P1597,Luis Pérez,77,M,Surco,Ginecología,01/12/2024,708.58
+P1598,Elena Castro,61,M,Lince,Odontología,03/12/2024,129.34
+P1599,Elena Jiménez,86,M,Surco,Odontología,06/04/2024,568.18
+P1600,Javier Cabrera,NA,M,San Juan de Lurigancho,Emergencia,NA,360.9
+P1601,Gabriela Ortiz,75,M,Miraflores,NA,05/11/2024,851.28
+P1602,Ana Torres,NA,F,Miraflores,Pediatría,16/05/2024,571.34
+P1603,Diego Díaz,55,F,Callao,Emergencia,17/07/2024,419.87
+P1604,Ana Ortiz,36,M,San Juan de Lurigancho,Cardiología,23/03/2024,716.71
+P1605,Héctor Delgado,70,M,NA,Pediatría,26/11/2024,756.09
+P1606,NA,87,M,Surco,Odontología,29/12/2024,131.37
+P1607,Roberto Guerrero,12,F,San Isidro,Pediatría,20/02/2024,953.52
+P1608,Lucía Rojas,86,M,Surco,Odontología,12/04/2024,156.66
+P1609,Valeria Robles,34,NA,San Juan de Lurigancho,Odontología,27/03/2024,295.35
+P1610,Miguel Ortiz,34,F,La Molina,Consulta General,08/02/2024,201.32
+P1611,Elena Sánchez,51,M,La Molina,Consulta General,18/04/2024,394.0
+P1612,Carlos Castro,39,F,Lince,Ginecología,13/05/2024,961.22
+P1613,Verónica Martínez,68,F,San Juan de Lurigancho,Pediatría,26/07/2024,635.84
+P1614,Daniela Romero,29,M,La Molina,Pediatría,13/12/2024,640.72
+P1615,Héctor Sánchez,71,F,San Juan de Lurigancho,Odontología,23/03/2024,456.99
+P1616,Elena Ortiz,72,M,La Molina,Ginecología,18/07/2024,886.29
+P1617,Verónica Gómez,28,F,La Molina,Ginecología,19/11/2024,660.96
+P1618,Gabriela Castro,72,F,La Molina,Pediatría,15/09/2024,996.85
+P1619,Claudia Campos,42,F,San Isidro,Odontología,07/01/2024,101.71
+P1620,Jorge Jiménez,89,F,Lince,NA,27/11/2024,NA
+P1621,Claudia Sánchez,85,M,NA,Consulta General,17/08/2024,416.43
+P1622,Gabriela Rodríguez,40,M,San Isidro,Cardiología,15/08/2024,878.04
+P1623,Alberto Ramos,15,F,Callao,Ginecología,07/06/2024,320.8
+P1624,Alberto Robles,70,F,Miraflores,Consulta General,14/04/2024,279.0
+P1625,Silvia Ramos,14,NA,Callao,Cardiología,NA,749.88
+P1626,Diego Flores,70,M,San Isidro,Pediatría,10/04/2024,310.96
+P1627,Luis Guerrero,35,F,Surco,Emergencia,01/12/2024,330.83
+P1628,Fernando Ortiz,41,F,Miraflores,Consulta General,27/06/2024,283.35
+P1629,Claudia Acosta,79,F,San Isidro,Cardiología,15/12/2024,852.53
+P1630,María López,15,M,NA,Pediatría,28/10/2024,542.16
+P1631,Héctor Vargas,NA,M,Lince,Ginecología,23/12/2024,891.9
+P1632,Carmen Ortiz,47,F,Surco,Consulta General,24/01/2024,504.55
+P1633,Lorena Castillo,47,F,Callao,Odontología,04/02/2024,225.25
+P1634,Elena Torres,87,M,Lince,NA,16/07/2024,614.74
+P1635,Carlos Ramírez,35,M,San Isidro,Emergencia,13/09/2024,630.94
+P1636,Natalia Sánchez,40,F,San Isidro,NA,12/08/2024,435.62
+P1637,Gabriela Castro,68,F,San Juan de Lurigancho,Odontología,14/11/2024,894.12
+P1638,Diego Silva,14,NA,Miraflores,Consulta General,09/01/2024,93.26
+P1639,Ana Flores,14,F,Surco,Pediatría,18/05/2024,983.2
+P1640,Juan Cruz,17,F,Surco,Emergencia,13/08/2024,932.39
+P1641,María Cabrera,33,M,San Juan de Lurigancho,Emergencia,08/11/2024,822.51
+P1642,Natalia Cabrera,23,F,Callao,Pediatría,NA,NA
+P1643,Claudia Soto,45,M,Surco,Pediatría,08/11/2024,511.99
+P1644,Juan Ramos,67,NA,Miraflores,Consulta General,23/08/2024,406.42
+P1645,NA,39,F,Surco,Ginecología,NA,919.85
+P1646,Andrés Guerrero,34,F,Callao,Pediatría,06/08/2024,58.34
+P1647,Javier Rodríguez,80,M,Surco,Cardiología,23/02/2024,305.38
+P1648,Juan Morales,84,M,San Isidro,Ginecología,10/03/2024,801.45
+P1649,Gabriela Mendoza,39,M,Miraflores,Pediatría,14/03/2024,839.24
+P1650,Elena Flores,33,NA,Lince,Pediatría,10/05/2024,932.59
+P1651,Luis Castro,89,F,Callao,Ginecología,31/07/2024,397.06
+P1652,NA,56,F,San Isidro,Cardiología,03/05/2024,310.66
+P1653,Elena Castro,71,F,San Isidro,Emergencia,23/01/2024,983.42
+P1654,Pedro Torres,86,M,Miraflores,Cardiología,12/04/2024,960.84
+P1655,Silvia Rojas,70,M,San Juan de Lurigancho,Emergencia,30/01/2024,340.74
+P1656,Alberto Gómez,42,M,Surco,Odontología,17/02/2024,NA
+P1657,Daniela Flores,49,F,San Isidro,Cardiología,04/02/2024,503.06
+P1658,Raúl Hernández,82,M,San Isidro,Ginecología,13/05/2024,NA
+P1659,Andrés Hernández,58,F,San Juan de Lurigancho,Odontología,31/05/2024,462.01
+P1660,Lorena Robles,43,F,Surco,Odontología,26/04/2024,529.97
+P1661,Carmen Soto,35,F,San Juan de Lurigancho,Odontología,30/08/2024,337.15
+P1662,Daniela Rojas,16,F,Miraflores,Pediatría,18/11/2024,145.2
+P1663,Claudia Flores,NA,M,Callao,Consulta General,23/09/2024,617.42
+P1664,Natalia Pérez,25,M,La Molina,Pediatría,06/04/2024,250.02
+P1665,Raúl Cabrera,63,F,La Molina,Emergencia,16/11/2024,379.6
+P1666,Andrés Navarro,42,M,Miraflores,Odontología,16/03/2024,877.08
+P1667,Pedro Guerrero,47,M,La Molina,Cardiología,19/06/2024,225.59
+P1668,Claudia Suárez,83,F,Callao,Odontología,28/10/2024,NA
+P1669,Fernando Romero,NA,F,Miraflores,Emergencia,05/07/2024,507.26
+P1670,Javier López,27,F,Surco,Odontología,23/10/2024,745.33
+P1671,Marta Díaz,NA,NA,Callao,Pediatría,20/08/2024,544.05
+P1672,Raúl Vega,27,M,Lince,Ginecología,03/06/2024,289.1
+P1673,NA,53,M,Surco,Consulta General,08/07/2024,366.87
+P1674,Valeria Hernández,42,M,Miraflores,Odontología,20/08/2024,138.82
+P1675,Luis Campos,90,F,La Molina,Pediatría,29/05/2024,218.77
+P1676,Juan Díaz,61,M,La Molina,Pediatría,18/11/2024,588.28
+P1677,Diego Jiménez,60,M,San Isidro,Pediatría,30/07/2024,NA
+P1678,Valeria Castillo,79,NA,Miraflores,Pediatría,18/10/2024,NA
+P1679,Lucía Gómez,NA,M,NA,Odontología,22/10/2024,474.3
+P1680,Lorena Alfaro,80,M,La Molina,Emergencia,19/02/2024,145.81
+P1681,Luis López,72,M,Miraflores,Consulta General,10/10/2024,322.89
+P1682,Álvaro Pérez,25,F,Surco,Cardiología,07/07/2024,737.35
+P1683,Luis Romero,43,M,Miraflores,Cardiología,31/08/2024,277.25
+P1684,Marta Alfaro,57,M,San Juan de Lurigancho,Cardiología,20/03/2024,968.99
+P1685,Silvia Campos,11,NA,NA,NA,22/03/2024,477.98
+P1686,Gabriela García,90,F,Lince,Ginecología,21/07/2024,536.2
+P1687,Elena Pérez,55,F,Surco,Cardiología,13/02/2024,668.87
+P1688,Jorge Ramos,26,M,Miraflores,Ginecología,09/08/2024,NA
+P1689,Patricia Ortiz,14,F,San Isidro,Cardiología,19/11/2024,908.53
+P1690,Carlos Castro,35,M,La Molina,Ginecología,31/12/2024,865.78
+P1691,Claudia Romero,22,M,Callao,Odontología,31/12/2024,376.28
+P1692,Silvia Gómez,8,M,La Molina,Emergencia,26/05/2024,856.72
+P1693,María Delgado,57,M,Miraflores,Odontología,23/01/2024,886.45
+P1694,Alberto Pérez,85,F,San Isidro,Pediatría,25/01/2024,682.46
+P1695,Juan Romero,54,F,San Juan de Lurigancho,Cardiología,07/11/2024,673.97
+P1696,Diego Cruz,9,F,Miraflores,Cardiología,16/10/2024,189.02
+P1697,Valeria Hernández,12,M,Lince,Odontología,14/05/2024,887.12
+P1698,Jorge Vega,48,F,San Isidro,Consulta General,22/01/2024,NA
+P1699,Andrés Campos,65,F,Surco,Odontología,20/01/2024,959.34
+P1700,Ana Morales,60,F,Surco,Odontología,15/04/2024,594.86
+P1701,Jorge Navarro,59,M,San Juan de Lurigancho,NA,02/12/2024,157.97
+P1702,Andrés Hernández,46,F,La Molina,Cardiología,30/09/2024,593.35
+P1703,Silvia Ortiz,12,F,San Juan de Lurigancho,Pediatría,09/03/2024,911.57
+P1704,NA,49,M,La Molina,Ginecología,25/11/2024,742.39
+P1705,Carlos Ramos,21,F,Lince,Ginecología,31/03/2024,493.53
+P1706,Marta Robles,42,M,San Juan de Lurigancho,Pediatría,23/09/2024,866.12
+P1707,Sofía Hernández,80,M,NA,Emergencia,23/09/2024,131.74
+P1708,Carmen Jiménez,14,F,Surco,Odontología,27/08/2024,446.88
+P1709,Javier López,13,F,Surco,Cardiología,09/04/2024,625.29
+P1710,Javier Hernández,85,F,San Juan de Lurigancho,Ginecología,27/07/2024,801.92
+P1711,Verónica Castillo,68,M,Callao,Cardiología,27/01/2024,339.13
+P1712,Daniela Pérez,85,F,La Molina,Cardiología,11/03/2024,521.85
+P1713,Álvaro Ramírez,30,M,San Isidro,Pediatría,17/04/2024,533.05
+P1714,Fernando Silva,59,NA,Callao,Odontología,17/12/2024,701.36
+P1715,Raúl Ramos,48,M,Surco,Emergencia,13/06/2024,758.16
+P1716,Marta Jiménez,NA,M,Lince,Pediatría,19/11/2024,277.46
+P1717,Pedro Acosta,10,F,San Isidro,Ginecología,12/06/2024,488.88
+P1718,Pedro Morales,66,M,La Molina,Cardiología,25/07/2024,129.33
+P1719,Valeria Vargas,NA,F,La Molina,Consulta General,14/03/2024,969.59
+P1720,Elena Navarro,40,M,La Molina,Consulta General,20/09/2024,363.72
+P1721,Carlos Ortiz,88,F,Lince,Cardiología,16/01/2024,956.15
+P1722,Javier Díaz,81,F,San Isidro,Pediatría,24/12/2024,645.33
+P1723,Lorena López,25,F,San Juan de Lurigancho,Ginecología,29/05/2024,605.2
+P1724,Marta Alfaro,26,F,Lince,Odontología,29/05/2024,198.99
+P1725,Raúl Jiménez,34,F,Callao,Odontología,28/06/2024,678.5
+P1726,Ricardo Rodríguez,85,NA,San Juan de Lurigancho,Emergencia,04/04/2024,825.05
+P1727,Raúl Gómez,45,F,La Molina,Pediatría,27/07/2024,162.12
+P1728,Miguel Acosta,45,M,San Isidro,Consulta General,17/04/2024,528.39
+P1729,Raúl López,41,F,Callao,Consulta General,28/12/2024,NA
+P1730,Claudia Rodríguez,77,M,Callao,Cardiología,28/02/2024,790.81
+P1731,Lorena Hernández,44,M,La Molina,Cardiología,16/06/2024,320.2
+P1732,Ricardo Ramos,50,F,Miraflores,Cardiología,01/09/2024,479.59
+P1733,Carmen Romero,41,F,San Isidro,NA,22/01/2024,117.39
+P1734,Isabel Cruz,12,F,San Juan de Lurigancho,Pediatría,03/07/2024,371.41
+P1735,Jorge Navarro,25,M,La Molina,Consulta General,10/09/2024,283.99
+P1736,Carmen Vargas,21,M,Lince,Consulta General,16/06/2024,513.62
+P1737,María Acosta,22,F,San Juan de Lurigancho,Emergencia,15/05/2024,361.89
+P1738,Andrés Rodríguez,36,M,La Molina,Emergencia,20/10/2024,884.43
+P1739,NA,20,M,La Molina,Pediatría,14/11/2024,289.16
+P1740,Lucía Robles,78,F,Lince,Pediatría,18/07/2024,287.48
+P1741,Valeria Pérez,52,NA,La Molina,Odontología,26/05/2024,805.92
+P1742,Raúl Acosta,21,F,San Juan de Lurigancho,Ginecología,23/08/2024,494.88
+P1743,Claudia Mendoza,75,M,Surco,Ginecología,24/09/2024,297.81
+P1744,Álvaro Torres,42,M,Lince,Ginecología,07/11/2024,682.96
+P1745,Gabriela Guerrero,26,F,San Juan de Lurigancho,Pediatría,29/05/2024,240.32
+P1746,Miguel Silva,18,M,Lince,Pediatría,05/03/2024,537.36
+P1747,Isabel Jiménez,45,M,Callao,Consulta General,29/06/2024,298.2
+P1748,Javier Jiménez,33,F,Callao,Cardiología,14/07/2024,739.69
+P1749,Natalia Robles,79,M,San Juan de Lurigancho,Odontología,03/05/2024,295.03
+P1750,Diego Campos,71,F,NA,Consulta General,19/05/2024,797.29
+P1751,Ana Sánchez,38,F,Surco,Consulta General,01/03/2024,663.48
+P1752,Alberto Silva,30,NA,San Isidro,Odontología,21/04/2024,140.13
+P1753,Patricia Castro,32,M,La Molina,NA,15/06/2024,716.7
+P1754,Isabel Navarro,61,M,San Juan de Lurigancho,Ginecología,01/12/2024,798.84
+P1755,Claudia Morales,88,F,Callao,Emergencia,07/04/2024,400.2
+P1756,Sofía Jiménez,10,F,Lince,Cardiología,19/07/2024,128.91
+P1757,María Flores,76,M,San Isidro,Pediatría,24/05/2024,556.71
+P1758,Santiago Pérez,60,M,Surco,Cardiología,19/01/2024,204.5
+P1759,Raúl Pérez,NA,F,Surco,NA,31/05/2024,915.76
+P1760,Álvaro Silva,62,M,San Isidro,Emergencia,16/01/2024,250.12
+P1761,Silvia Ortiz,53,M,NA,Pediatría,17/12/2024,609.62
+P1762,Carmen Guerrero,14,F,La Molina,Pediatría,01/07/2024,733.37
+P1763,Ricardo Delgado,48,F,NA,Ginecología,03/11/2024,737.67
+P1764,Silvia Alfaro,16,M,Surco,Cardiología,24/08/2024,986.67
+P1765,Lorena Hernández,79,M,Surco,NA,02/02/2024,438.63
+P1766,Fernando Cruz,70,M,La Molina,Cardiología,28/12/2024,537.54
+P1767,Ana Navarro,80,M,Miraflores,Emergencia,19/08/2024,NA
+P1768,Carmen Gómez,70,F,Callao,Emergencia,05/01/2024,301.55
+P1769,Daniela Delgado,83,M,La Molina,Odontología,24/03/2024,132.39
+P1770,Claudia Cabrera,48,F,San Isidro,Odontología,11/11/2024,678.26
+P1771,Patricia López,31,M,Surco,Odontología,05/12/2024,268.62
+P1772,Javier Silva,35,F,La Molina,Cardiología,13/08/2024,320.08
+P1773,Patricia Ortiz,18,F,Surco,Consulta General,23/11/2024,617.37
+P1774,Miguel Campos,41,M,San Juan de Lurigancho,Pediatría,01/07/2024,234.91
+P1775,Silvia Ramos,48,F,San Isidro,Odontología,08/03/2024,139.46
+P1776,Jorge Jiménez,12,F,Miraflores,Emergencia,06/08/2024,NA
+P1777,Carmen López,37,F,Miraflores,Odontología,03/06/2024,192.94
+P1778,Diego Castillo,44,F,Miraflores,Cardiología,31/05/2024,803.62
+P1779,Ricardo Cabrera,83,M,Surco,Ginecología,25/11/2024,220.81
+P1780,Isabel Torres,37,M,San Juan de Lurigancho,Pediatría,05/08/2024,663.94
+P1781,Ana Guerrero,56,M,Callao,Emergencia,02/02/2024,962.9
+P1782,Luis Acosta,80,F,Lince,Pediatría,23/02/2024,500.91
+P1783,Gabriela Sánchez,24,M,San Isidro,Consulta General,16/12/2024,897.51
+P1784,Isabel Guerrero,58,M,Surco,Consulta General,08/10/2024,227.88
+P1785,Lorena Martínez,47,F,Surco,Odontología,13/05/2024,785.1
+P1786,Carmen Delgado,87,F,Lince,Odontología,22/02/2024,509.99
+P1787,Ricardo Jiménez,81,F,Surco,NA,04/01/2024,436.52
+P1788,Carlos Ortiz,55,F,San Isidro,Emergencia,15/11/2024,856.75
+P1789,Javier Torres,83,F,NA,Odontología,14/12/2024,662.25
+P1790,Sofía Navarro,NA,F,Lince,Consulta General,12/12/2024,546.93
+P1791,Santiago Vega,86,F,La Molina,Pediatría,09/05/2024,126.14
+P1792,Sofía Castro,36,M,Callao,Cardiología,10/08/2024,120.18
+P1793,Gabriela Cabrera,54,M,Miraflores,Ginecología,06/09/2024,222.52
+P1794,Javier Flores,28,NA,Miraflores,Emergencia,04/01/2024,456.3
+P1795,Raúl Ramos,16,M,San Isidro,Pediatría,30/11/2024,275.48
+P1796,Lorena Jiménez,63,M,Callao,Consulta General,15/01/2024,55.52
+P1797,Javier Ramírez,36,M,Miraflores,Emergencia,06/05/2024,228.35
+P1798,María Rojas,17,F,Miraflores,Ginecología,28/04/2024,784.19
+P1799,Patricia Ramírez,41,F,San Juan de Lurigancho,Pediatría,13/09/2024,130.05
+P1800,Patricia Rodríguez,71,F,San Juan de Lurigancho,Odontología,28/05/2024,50.01
+P1801,Ana Romero,56,F,San Isidro,Pediatría,15/06/2024,564.76
+P1802,Pedro Guerrero,65,M,La Molina,Ginecología,31/03/2024,249.56
+P1803,Silvia Soto,55,F,San Isidro,Emergencia,09/08/2024,NA
+P1804,Gabriela Robles,32,M,Miraflores,Odontología,14/04/2024,205.24
+P1805,Verónica Pérez,40,F,Callao,Ginecología,26/11/2024,854.94
+P1806,Miguel Rodríguez,88,F,San Isidro,Ginecología,23/05/2024,442.7
+P1807,Claudia Vargas,82,M,La Molina,Emergencia,13/08/2024,767.81
+P1808,Claudia Alfaro,44,M,Lince,Pediatría,23/03/2024,317.32
+P1809,Andrés Suárez,80,M,San Juan de Lurigancho,Cardiología,21/06/2024,469.52
+P1810,Álvaro Soto,75,M,La Molina,Emergencia,03/10/2024,896.21
+P1811,Jorge Navarro,44,M,Surco,Consulta General,NA,NA
+P1812,NA,25,M,Miraflores,Odontología,09/12/2024,467.22
+P1813,Lucía Flores,NA,M,Miraflores,Emergencia,09/06/2024,710.13
+P1814,Luis Acosta,77,M,Surco,Odontología,15/08/2024,NA
+P1815,Patricia Soto,27,M,Miraflores,Ginecología,19/04/2024,90.32
+P1816,Santiago Navarro,45,M,Surco,Ginecología,23/03/2024,968.93
+P1817,Héctor Campos,50,NA,Lince,Consulta General,23/06/2024,181.37
+P1818,Natalia Alfaro,62,M,San Isidro,Cardiología,01/06/2024,330.39
+P1819,Juan García,79,M,San Juan de Lurigancho,Odontología,21/01/2024,64.2
+P1820,Diego Díaz,14,M,Callao,Cardiología,19/07/2024,687.66
+P1821,Miguel Ramírez,53,F,San Juan de Lurigancho,Cardiología,12/12/2024,599.17
+P1822,Gabriela Vargas,62,F,Miraflores,Emergencia,03/01/2024,695.59
+P1823,Valeria Gómez,22,M,Callao,Consulta General,05/07/2024,353.73
+P1824,Lucía García,88,F,La Molina,Cardiología,17/07/2024,303.48
+P1825,Héctor Silva,37,M,La Molina,Ginecología,25/10/2024,959.67
+P1826,Elena Cabrera,64,F,San Isidro,Cardiología,06/07/2024,191.72
+P1827,Diego Guerrero,32,M,Surco,Ginecología,30/09/2024,NA
+P1828,Silvia Delgado,89,F,La Molina,Consulta General,NA,162.88
+P1829,Ricardo Ortiz,32,M,La Molina,Odontología,24/11/2024,562.68
+P1830,Isabel Cabrera,50,F,Callao,Cardiología,17/04/2024,660.93
+P1831,Andrés Gómez,45,F,Surco,Odontología,27/01/2024,581.4
+P1832,Miguel Díaz,62,F,San Isidro,Cardiología,26/01/2024,483.35
+P1833,Ana Alfaro,27,M,Surco,Pediatría,05/06/2024,136.22
+P1834,Sofía Ramírez,11,F,Surco,Ginecología,30/12/2024,377.37
+P1835,Álvaro Sánchez,69,M,Miraflores,Ginecología,15/06/2024,767.52
+P1836,Santiago Robles,51,M,La Molina,Consulta General,17/04/2024,703.77
+P1837,Sofía Castillo,88,M,Callao,Pediatría,30/03/2024,928.23
+P1838,Andrés Jiménez,30,M,Lince,Cardiología,14/01/2024,335.45
+P1839,Sofía Morales,NA,F,Callao,NA,30/12/2024,767.99
+P1840,Sofía Guerrero,12,F,Surco,Odontología,26/12/2024,585.83
+P1841,Verónica Robles,56,M,Lince,Pediatría,09/07/2024,747.13
+P1842,Lorena Torres,33,M,San Juan de Lurigancho,Ginecología,11/03/2024,321.77
+P1843,Patricia Castro,61,F,San Juan de Lurigancho,Consulta General,03/03/2024,583.33
+P1844,Carmen Morales,85,M,San Juan de Lurigancho,Pediatría,31/05/2024,277.82
+P1845,Fernando López,56,NA,San Isidro,Ginecología,11/08/2024,770.85
+P1846,Carmen Gómez,50,NA,San Juan de Lurigancho,Pediatría,17/01/2024,638.31
+P1847,Natalia Rodríguez,10,M,NA,Ginecología,13/05/2024,528.66
+P1848,Claudia Ortiz,27,F,Lince,NA,18/11/2024,831.75
+P1849,Carmen Silva,55,M,Miraflores,Cardiología,26/12/2024,365.69
+P1850,Miguel Gómez,42,M,Callao,Emergencia,02/06/2024,88.34
+P1851,Valeria Gómez,16,M,Lince,Pediatría,20/01/2024,131.7
+P1852,Santiago Castro,25,M,NA,Pediatría,12/08/2024,NA
+P1853,Pedro Alfaro,72,M,Miraflores,Pediatría,15/05/2024,971.9
+P1854,NA,24,M,San Juan de Lurigancho,Ginecología,NA,717.49
+P1855,Fernando Soto,19,M,La Molina,Odontología,05/04/2024,275.82
+P1856,Claudia Gómez,14,F,La Molina,Pediatría,11/03/2024,544.74
+P1857,Lucía Ortiz,79,F,Miraflores,Consulta General,14/01/2024,836.36
+P1858,Luis García,46,M,San Isidro,Odontología,23/10/2024,124.68
+P1859,Juan Alfaro,18,F,San Isidro,Odontología,07/08/2024,226.63
+P1860,Miguel Morales,NA,F,Lince,NA,27/10/2024,772.25
+P1861,Elena Castillo,21,M,Surco,NA,27/10/2024,219.4
+P1862,Valeria Campos,27,M,San Juan de Lurigancho,Consulta General,10/05/2024,215.82
+P1863,Miguel Ramírez,85,M,San Juan de Lurigancho,Ginecología,18/08/2024,117.21
+P1864,Javier Acosta,22,F,Surco,Pediatría,11/01/2024,177.98
+P1865,Carmen Suárez,77,F,La Molina,Consulta General,09/12/2024,784.17
+P1866,Lucía Alfaro,34,M,Lince,Odontología,02/05/2024,461.45
+P1867,Pedro Castillo,45,F,San Isidro,Emergencia,23/10/2024,154.73
+P1868,Raúl Hernández,15,F,Miraflores,Cardiología,19/05/2024,764.79
+P1869,Fernando Ortiz,82,M,Surco,Cardiología,02/10/2024,916.31
+P1870,Valeria Ramos,90,F,NA,Emergencia,27/03/2024,891.62
+P1871,Daniela Rojas,9,F,Callao,Consulta General,18/03/2024,396.42
+P1872,Miguel Ortiz,36,M,NA,Ginecología,24/02/2024,203.02
+P1873,Luis Flores,37,M,NA,Odontología,20/07/2024,220.59
+P1874,Ricardo Pérez,73,M,San Juan de Lurigancho,Cardiología,16/03/2024,408.39
+P1875,Raúl Jiménez,84,F,Lince,Cardiología,01/01/2024,469.99
+P1876,Daniela Delgado,59,F,Callao,Odontología,21/07/2024,95.11
+P1877,Gabriela Soto,75,F,Surco,Emergencia,07/09/2024,128.39
+P1878,Ricardo Martínez,88,M,Callao,Emergencia,15/11/2024,323.54
+P1879,Miguel Castillo,9,F,Callao,Cardiología,18/01/2024,777.22
+P1880,Patricia Morales,69,M,San Juan de Lurigancho,Pediatría,18/04/2024,190.3
+P1881,Héctor Mendoza,26,M,San Isidro,Pediatría,16/10/2024,609.55
+P1882,Raúl Flores,12,M,La Molina,Consulta General,10/05/2024,766.84
+P1883,Lorena Gómez,18,M,Miraflores,Pediatría,13/10/2024,503.92
+P1884,Ana Ramírez,43,NA,Surco,Emergencia,22/01/2024,721.16
+P1885,Carlos Campos,89,NA,San Juan de Lurigancho,Pediatría,17/05/2024,547.9
+P1886,Santiago Rodríguez,82,M,San Isidro,Ginecología,27/07/2024,766.55
+P1887,Héctor Cabrera,35,M,La Molina,NA,11/02/2024,80.76
+P1888,Patricia Castro,70,M,San Juan de Lurigancho,Ginecología,24/10/2024,967.02
+P1889,Juan Delgado,36,F,Lince,Emergencia,26/11/2024,703.71
+P1890,Silvia Romero,23,M,Miraflores,Pediatría,17/02/2024,NA
+P1891,Lucía Campos,10,M,Lince,Cardiología,03/11/2024,485.39
+P1892,Claudia Acosta,82,F,Surco,Pediatría,25/06/2024,648.61
+P1893,Sofía Rodríguez,39,M,San Juan de Lurigancho,Pediatría,18/03/2024,398.63
+P1894,Natalia Delgado,18,M,San Isidro,NA,27/12/2024,82.69
+P1895,Valeria Acosta,54,M,Callao,Odontología,14/12/2024,936.16
+P1896,Lorena Mendoza,78,M,Miraflores,Ginecología,21/03/2024,452.81
+P1897,Santiago Vargas,17,F,Lince,Cardiología,05/04/2024,692.94
+P1898,Verónica Ortiz,24,M,Surco,Cardiología,NA,701.3
+P1899,Valeria Vega,12,M,Lince,Emergencia,30/06/2024,921.48
+P1900,Jorge Sánchez,58,F,La Molina,NA,11/02/2024,806.1
+P1901,Álvaro Pérez,59,F,La Molina,Pediatría,01/06/2024,963.37
+P1902,Carlos Acosta,45,M,Lince,Odontología,11/12/2024,506.55
+P1903,Alberto García,14,M,Miraflores,Emergencia,26/01/2024,106.9
+P1904,Héctor Vargas,15,M,La Molina,Ginecología,09/02/2024,893.95
+P1905,Valeria Guerrero,54,F,Surco,Consulta General,25/03/2024,592.34
+P1906,Carmen Suárez,48,M,San Juan de Lurigancho,Emergencia,07/05/2024,71.37
+P1907,Ricardo Vega,65,M,Surco,Ginecología,20/04/2024,548.75
+P1908,Roberto Acosta,70,NA,San Isidro,Odontología,11/07/2024,459.28
+P1909,Lorena Castro,46,M,Surco,Odontología,06/05/2024,513.56
+P1910,Gabriela Vega,61,F,Miraflores,Ginecología,02/08/2024,921.72
+P1911,Carlos Soto,90,M,NA,Emergencia,24/07/2024,520.94
+P1912,Pedro Acosta,77,M,Miraflores,Emergencia,06/11/2024,707.71
+P1913,Miguel Sánchez,10,F,Lince,Pediatría,NA,224.52
+P1914,Ana López,42,F,Surco,Ginecología,10/02/2024,NA
+P1915,Andrés Martínez,36,F,Surco,Emergencia,18/11/2024,918.29
+P1916,Héctor Cruz,85,F,Miraflores,Ginecología,01/09/2024,776.16
+P1917,Carmen Mendoza,84,F,Miraflores,Emergencia,10/06/2024,163.58
+P1918,Daniela Rodríguez,NA,F,Callao,Pediatría,28/03/2024,NA
+P1919,Natalia Sánchez,29,M,San Juan de Lurigancho,Odontología,NA,431.54
+P1920,Héctor Guerrero,32,F,Callao,Cardiología,27/11/2024,618.58
+P1921,Jorge Sánchez,67,M,Lince,Pediatría,19/07/2024,826.32
+P1922,Luis Jiménez,81,M,Miraflores,Emergencia,26/06/2024,472.25
+P1923,Claudia Robles,50,M,San Juan de Lurigancho,Consulta General,05/07/2024,131.53
+P1924,Javier Guerrero,NA,M,Lince,Ginecología,30/12/2024,728.51
+P1925,Luis Martínez,54,F,Surco,Pediatría,13/03/2024,137.21
+P1926,Patricia Campos,11,F,Surco,Pediatría,25/02/2024,651.2
+P1927,Claudia Guerrero,41,M,San Isidro,Pediatría,10/09/2024,114.56
+P1928,Héctor Ramírez,14,M,Miraflores,Ginecología,23/07/2024,668.86
+P1929,Carmen Hernández,55,M,La Molina,Pediatría,09/03/2024,528.85
+P1930,Diego Gómez,72,F,Callao,Pediatría,29/10/2024,448.85
+P1931,Lucía Flores,30,F,Miraflores,Emergencia,07/12/2024,187.68
+P1932,Ana Hernández,26,M,San Isidro,Ginecología,23/06/2024,276.96
+P1933,Carlos Hernández,42,M,San Juan de Lurigancho,Pediatría,26/08/2024,165.93
+P1934,Carlos García,24,M,La Molina,Consulta General,01/03/2024,361.56
+P1935,Marta Silva,39,F,Callao,Pediatría,14/09/2024,648.63
+P1936,Miguel Cabrera,54,F,La Molina,Cardiología,03/12/2024,791.32
+P1937,Gabriela Acosta,89,F,Callao,Pediatría,30/05/2024,638.34
+P1938,Miguel Gómez,72,F,Lince,Pediatría,13/01/2024,444.26
+P1939,Verónica Mendoza,72,M,La Molina,Ginecología,01/08/2024,54.51
+P1940,Silvia Vargas,78,M,Lince,Ginecología,05/01/2024,114.1
+P1941,Natalia Flores,46,F,Lince,Ginecología,08/05/2024,NA
+P1942,Valeria Alfaro,25,F,La Molina,Cardiología,27/11/2024,164.36
+P1943,Héctor Rodríguez,32,M,Callao,Ginecología,24/10/2024,NA
+P1944,Lucía Flores,49,M,Miraflores,Emergencia,31/05/2024,714.63
+P1945,Lorena Sánchez,60,M,San Juan de Lurigancho,Cardiología,23/01/2024,256.41
+P1946,Sofía Vargas,21,M,San Isidro,Emergencia,26/07/2024,801.03
+P1947,Diego Acosta,74,F,La Molina,Consulta General,09/12/2024,568.75
+P1948,Jorge Pérez,50,M,Surco,Ginecología,05/06/2024,NA
+P1949,Fernando Martínez,40,F,San Isidro,Pediatría,29/11/2024,157.49
+P1950,Sofía Rodríguez,13,M,San Isidro,Consulta General,25/04/2024,441.34
+P1951,Diego Jiménez,75,F,San Isidro,Odontología,02/08/2024,848.67
+P1952,Sofía Ramos,36,F,Surco,Cardiología,24/02/2024,685.87
+P1953,Héctor Acosta,28,F,La Molina,Emergencia,15/02/2024,531.3
+P1954,Natalia Jiménez,NA,F,San Isidro,Consulta General,28/03/2024,474.96
+P1955,Juan Campos,73,M,Lince,Consulta General,05/05/2024,290.92
+P1956,María Torres,22,F,Callao,Consulta General,12/06/2024,808.7
+P1957,Elena Torres,61,M,San Isidro,Emergencia,18/07/2024,344.84
+P1958,Javier Torres,88,F,San Juan de Lurigancho,Pediatría,22/02/2024,463.92
+P1959,Isabel Castro,20,F,Surco,Consulta General,17/04/2024,867.06
+P1960,Carlos Cabrera,67,M,Surco,NA,15/01/2024,981.36
+P1961,Javier López,85,F,La Molina,Odontología,17/04/2024,792.23
+P1962,Patricia Sánchez,44,M,San Isidro,Emergencia,06/12/2024,860.37
+P1963,Isabel Guerrero,59,M,NA,Odontología,03/10/2024,94.39
+P1964,Carlos Flores,24,M,San Juan de Lurigancho,Odontología,28/08/2024,572.14
+P1965,Héctor Pérez,14,F,Callao,Cardiología,14/08/2024,473.66
+P1966,Fernando Jiménez,25,M,Surco,Pediatría,02/12/2024,NA
+P1967,Silvia Ortiz,84,F,San Isidro,Odontología,06/09/2024,950.79
+P1968,Sofía Martínez,37,M,Callao,Emergencia,07/01/2024,765.43
+P1969,María Díaz,20,F,San Isidro,NA,03/01/2024,734.2
+P1970,Diego Torres,47,F,San Isidro,Consulta General,02/01/2024,324.75
+P1971,Miguel Cruz,10,F,Lince,Ginecología,08/10/2024,401.37
+P1972,Fernando Pérez,64,M,San Juan de Lurigancho,Odontología,21/06/2024,121.73
+P1973,Verónica Hernández,55,M,Miraflores,Consulta General,18/11/2024,401.63
+P1974,Andrés Mendoza,12,F,Surco,Pediatría,30/06/2024,562.31
+P1975,Marta Guerrero,29,F,Lince,Emergencia,25/12/2024,712.42
+P1976,Lucía Hernández,54,M,Lince,Consulta General,03/04/2024,920.55
+P1977,Roberto Sánchez,24,M,San Isidro,Pediatría,11/01/2024,NA
+P1978,Elena Castillo,88,F,San Isidro,Ginecología,16/02/2024,501.93
+P1979,Carlos Alfaro,17,M,Miraflores,Odontología,15/08/2024,632.43
+P1980,Andrés Alfaro,25,F,San Isidro,Cardiología,12/10/2024,147.2
+P1981,Ricardo Soto,73,F,Callao,Odontología,22/03/2024,485.58
+P1982,Claudia Silva,55,M,La Molina,Ginecología,26/11/2024,201.62
+P1983,Lorena Soto,73,F,Lince,Emergencia,27/06/2024,396.18
+P1984,Gabriela Guerrero,31,M,Lince,Emergencia,23/01/2024,787.79
+P1985,Silvia Hernández,62,F,San Isidro,Consulta General,08/01/2024,392.02
+P1986,NA,43,M,San Isidro,Emergencia,21/05/2024,627.37
+P1987,Carlos Cabrera,19,F,Surco,Cardiología,19/08/2024,632.49
+P1988,Miguel Torres,73,F,San Juan de Lurigancho,NA,22/03/2024,921.69
+P1989,María Romero,82,M,Miraflores,Emergencia,18/07/2024,649.71
+P1990,Pedro Pérez,14,F,Lince,Consulta General,11/07/2024,424.12
+P1991,Luis Rodríguez,79,M,San Juan de Lurigancho,Emergencia,30/10/2024,666.7
+P1992,Andrés Díaz,25,M,Miraflores,Consulta General,09/05/2024,742.32
+P1993,Héctor Díaz,68,M,San Isidro,Ginecología,NA,378.27
+P1994,Raúl García,72,M,Miraflores,Emergencia,05/05/2024,635.21
+P1995,Héctor Rodríguez,77,M,San Isidro,NA,NA,246.8
+P1996,Silvia Martínez,27,F,Surco,Consulta General,22/08/2024,134.66
+P1997,Claudia Robles,34,M,Callao,Odontología,NA,432.61
+P1998,Verónica Vega,33,F,Callao,Emergencia,28/02/2024,412.79
+P1999,Ana Alfaro,86,M,San Juan de Lurigancho,Cardiología,31/12/2024,808.81
+P2000,Juan Castro,68,M,Surco,Emergencia,22/12/2024,638.85
+P2001,Javier Flores,74,M,San Juan de Lurigancho,Pediatría,29/09/2024,476.91
+P2002,Pedro Soto,21,NA,San Isidro,Cardiología,04/02/2024,684.19
+P2003,Isabel Guerrero,85,F,Surco,Emergencia,15/10/2024,NA
+P2004,Diego Delgado,83,F,Lince,Cardiología,08/10/2024,588.65
+P2005,Gabriela Mendoza,29,F,Callao,Consulta General,29/11/2024,345.06
+P2006,María Mendoza,51,M,Lince,Consulta General,24/03/2024,684.17
+P2007,María López,30,F,Lince,Emergencia,08/06/2024,879.38
+P2008,Carmen Díaz,68,M,Miraflores,Consulta General,07/08/2024,904.45
+P2009,Javier Cabrera,58,M,San Isidro,NA,16/05/2024,585.54
+P2010,Pedro Alfaro,56,F,Miraflores,Cardiología,22/05/2024,NA
+P2011,Alberto Alfaro,72,F,Lince,Emergencia,02/02/2024,828.78
+P2012,Alberto Morales,57,M,Callao,Odontología,23/03/2024,77.91
+P2013,Silvia Suárez,83,F,Surco,NA,30/04/2024,236.35
+P2014,Marta Torres,69,M,Lince,Consulta General,26/07/2024,603.95
+P2015,Gabriela Morales,40,M,Surco,Ginecología,18/02/2024,934.05
+P2016,Valeria Ortiz,33,F,Callao,Pediatría,09/10/2024,326.26
+P2017,Luis Castro,63,M,Surco,Pediatría,06/07/2024,392.07
+P2018,Lorena Martínez,89,M,Surco,Cardiología,29/06/2024,532.32
+P2019,Lorena Rojas,63,M,NA,Emergencia,23/07/2024,390.2
+P2020,Patricia Silva,28,F,San Juan de Lurigancho,NA,07/07/2024,997.55
+P2021,Lorena Flores,54,F,Surco,Consulta General,17/11/2024,742.76
+P2022,Juan Vega,67,F,Callao,Pediatría,NA,117.49
+P2023,Lucía Díaz,62,F,San Isidro,Ginecología,04/11/2024,150.61
+P2024,Sofía Mendoza,69,F,Callao,Cardiología,31/01/2024,781.69
+P2025,Natalia Vargas,81,M,Surco,Pediatría,21/10/2024,816.1
+P2026,Ricardo Campos,57,F,Lince,Ginecología,31/03/2024,679.88
+P2027,Isabel Castro,83,M,Miraflores,Consulta General,02/06/2024,196.18
+P2028,Sofía Acosta,82,M,Callao,Ginecología,09/01/2024,239.84
+P2029,Juan López,87,M,San Isidro,Pediatría,03/03/2024,809.72
+P2030,Elena López,10,M,Miraflores,Cardiología,27/07/2024,777.25
+P2031,NA,NA,F,NA,Consulta General,12/02/2024,681.56
+P2032,Javier Cruz,42,F,San Isidro,Ginecología,24/06/2024,666.35
+P2033,Verónica López,23,F,San Isidro,Consulta General,14/01/2024,550.4
+P2034,Claudia Jiménez,30,F,San Juan de Lurigancho,Odontología,31/01/2024,445.46
+P2035,Daniela Delgado,83,F,Callao,Odontología,14/11/2024,423.72
+P2036,Santiago Flores,29,F,La Molina,Cardiología,11/01/2024,269.08
+P2037,Fernando Cabrera,44,NA,Miraflores,Emergencia,05/05/2024,873.27
+P2038,Verónica Rojas,46,M,Miraflores,Ginecología,08/12/2024,900.81
+P2039,Santiago Alfaro,82,F,San Isidro,Emergencia,09/06/2024,371.29
+P2040,Javier Suárez,52,M,Miraflores,Emergencia,20/03/2024,92.75
+P2041,María Morales,85,F,Miraflores,Ginecología,18/04/2024,364.56
+P2042,Ricardo Romero,NA,F,Miraflores,Consulta General,05/04/2024,733.3
+P2043,María Delgado,67,M,San Isidro,Ginecología,22/08/2024,121.91
+P2044,Santiago Acosta,24,M,San Isidro,Cardiología,23/04/2024,578.06
+P2045,Héctor Romero,21,M,Miraflores,Pediatría,28/12/2024,733.6
+P2046,Elena Sánchez,76,M,Miraflores,Consulta General,27/09/2024,191.06
+P2047,Ana Jiménez,20,M,San Juan de Lurigancho,Ginecología,17/01/2024,479.37
+P2048,Claudia Pérez,13,F,San Isidro,Ginecología,12/08/2024,701.61
+P2049,Santiago Vega,28,F,Surco,Cardiología,29/12/2024,980.75
+P2050,Juan Castro,21,F,San Isidro,Cardiología,09/02/2024,284.22
+P2051,Silvia López,39,F,San Juan de Lurigancho,Odontología,29/03/2024,610.57
+P2052,Gabriela Cruz,15,F,La Molina,Ginecología,30/01/2024,561.7
+P2053,Ana Ramos,77,M,San Juan de Lurigancho,Consulta General,11/05/2024,983.65
+P2054,Andrés Castro,57,F,La Molina,Consulta General,03/12/2024,601.69
+P2055,Juan Soto,NA,NA,Callao,Ginecología,18/02/2024,745.82
+P2056,María Campos,75,M,Miraflores,Pediatría,27/03/2024,117.78
+P2057,Claudia Jiménez,33,M,Callao,Cardiología,11/06/2024,NA
+P2058,Roberto Robles,55,NA,La Molina,Emergencia,13/02/2024,338.89
+P2059,Andrés Campos,69,M,Lince,Cardiología,08/11/2024,679.61
+P2060,Claudia Guerrero,59,M,Callao,Ginecología,06/04/2024,788.31
+P2061,Claudia Navarro,41,M,Callao,Odontología,02/01/2024,845.48
+P2062,Claudia Díaz,25,M,NA,Consulta General,NA,925.38
+P2063,Alberto Campos,83,M,Miraflores,Consulta General,15/05/2024,161.18
+P2064,Pedro Silva,27,F,San Juan de Lurigancho,Odontología,07/08/2024,905.82
+P2065,Carlos Hernández,81,F,Lince,Cardiología,21/09/2024,651.72
+P2066,Roberto Cruz,22,M,Miraflores,Emergencia,27/04/2024,938.93
+P2067,María Alfaro,NA,F,Lince,Pediatría,22/02/2024,348.99
+P2068,Javier Martínez,14,M,San Juan de Lurigancho,Emergencia,07/10/2024,906.0
+P2069,Roberto Vargas,27,F,San Isidro,Odontología,16/12/2024,626.43
+P2070,Gabriela Suárez,51,M,Callao,Pediatría,26/10/2024,965.23
+P2071,Santiago Ramos,77,M,Miraflores,Odontología,24/02/2024,877.81
+P2072,Lucía Suárez,14,F,Lince,Cardiología,22/08/2024,919.83
+P2073,NA,57,F,NA,Odontología,28/11/2024,86.33
+P2074,Ana Cruz,47,F,Surco,Odontología,29/08/2024,269.67
+P2075,Juan Romero,8,M,Miraflores,Cardiología,25/10/2024,761.46
+P2076,Isabel Acosta,53,M,San Juan de Lurigancho,NA,25/01/2024,371.88
+P2077,Héctor Sánchez,43,M,San Juan de Lurigancho,Pediatría,31/05/2024,559.14
+P2078,Fernando Cabrera,34,M,San Juan de Lurigancho,Cardiología,NA,336.84
+P2079,Isabel Campos,NA,F,Miraflores,NA,02/08/2024,947.1
+P2080,Patricia Hernández,53,F,Miraflores,Consulta General,01/01/2024,140.97
+P2081,María Flores,69,F,La Molina,Ginecología,25/01/2024,NA
+P2082,Diego Silva,38,M,NA,Cardiología,25/10/2024,271.29
+P2083,Carmen Castillo,84,M,Surco,Consulta General,31/03/2024,554.82
+P2084,Javier Vargas,12,F,San Isidro,Odontología,09/08/2024,258.13
+P2085,Isabel Soto,61,M,La Molina,Odontología,13/12/2024,608.59
+P2086,Natalia Cabrera,30,M,San Isidro,Cardiología,11/03/2024,NA
+P2087,Héctor Campos,83,F,La Molina,Pediatría,09/11/2024,870.11
+P2088,Valeria Vargas,42,F,Callao,Ginecología,14/07/2024,102.16
+P2089,Roberto Suárez,20,F,La Molina,NA,10/10/2024,536.51
+P2090,Sofía Vargas,84,F,San Isidro,Pediatría,23/05/2024,968.97
+P2091,Natalia Castro,84,F,La Molina,Cardiología,14/10/2024,761.6
+P2092,Carmen Morales,83,F,San Juan de Lurigancho,Consulta General,20/03/2024,914.61
+P2093,Verónica Gómez,42,F,Lince,Odontología,25/03/2024,436.22
+P2094,Roberto Ramos,42,M,San Juan de Lurigancho,Consulta General,12/09/2024,864.31
+P2095,Ricardo Torres,75,M,Surco,Pediatría,31/01/2024,506.63
+P2096,Isabel Romero,39,F,Lince,Cardiología,15/12/2024,682.43
+P2097,Andrés Castillo,70,M,Surco,Odontología,21/12/2024,57.05
+P2098,Diego Jiménez,83,F,Miraflores,Ginecología,05/03/2024,535.19
+P2099,Silvia Flores,15,F,Lince,Emergencia,22/04/2024,199.92
+P2100,Daniela López,77,M,San Juan de Lurigancho,Pediatría,NA,137.2
+P2101,Lorena Rojas,71,M,Surco,NA,NA,542.43
+P2102,Diego Campos,47,F,Lince,Pediatría,31/08/2024,478.21
+P2103,Juan Campos,33,M,San Isidro,Consulta General,12/12/2024,403.56
+P2104,Santiago Jiménez,75,F,Callao,Ginecología,17/08/2024,601.17
+P2105,Claudia Acosta,19,M,San Juan de Lurigancho,Consulta General,27/09/2024,561.21
+P2106,Daniela Ortiz,37,M,Lince,NA,NA,432.22
+P2107,Pedro Pérez,19,NA,San Isidro,Emergencia,15/02/2024,830.6
+P2108,Elena Jiménez,65,F,San Juan de Lurigancho,Consulta General,02/07/2024,283.07
+P2109,Miguel Suárez,90,F,Miraflores,Cardiología,12/08/2024,186.89
+P2110,Lucía Campos,32,M,Lince,Consulta General,19/06/2024,434.82
+P2111,Elena Guerrero,59,M,Surco,Cardiología,24/01/2024,245.34
+P2112,Raúl Ramírez,54,M,San Isidro,Odontología,31/03/2024,906.97
+P2113,Isabel Morales,NA,M,Lince,Odontología,03/07/2024,843.38
+P2114,Sofía Rojas,53,M,San Isidro,NA,30/06/2024,524.04
+P2115,Miguel Navarro,90,NA,La Molina,Cardiología,09/11/2024,771.61
+P2116,Santiago Martínez,84,M,San Isidro,Pediatría,05/04/2024,289.41
+P2117,Diego Morales,90,F,San Isidro,Odontología,18/09/2024,441.15
+P2118,Silvia Ramírez,67,F,Callao,Pediatría,27/02/2024,108.26
+P2119,María Guerrero,59,M,San Juan de Lurigancho,Odontología,NA,550.27
+P2120,Juan Sánchez,31,M,Callao,Emergencia,11/09/2024,324.29
+P2121,Isabel García,23,F,Callao,Consulta General,20/12/2024,196.42
+P2122,Roberto Gómez,79,M,San Isidro,Cardiología,14/05/2024,898.62
+P2123,Carmen Rojas,65,F,Miraflores,Pediatría,18/08/2024,378.35
+P2124,Jorge Gómez,53,M,Callao,Emergencia,29/02/2024,605.71
+P2125,Álvaro Gómez,87,F,Miraflores,Pediatría,22/09/2024,563.75
+P2126,Patricia Castillo,NA,M,San Isidro,Emergencia,28/10/2024,751.52
+P2127,Diego Rodríguez,71,F,Miraflores,Consulta General,02/02/2024,565.54
+P2128,Diego Torres,48,F,La Molina,NA,10/11/2024,548.35
+P2129,Carmen García,20,M,La Molina,Pediatría,30/03/2024,378.46
+P2130,Miguel Martínez,54,F,Callao,Pediatría,10/09/2024,141.82
+P2131,Claudia Pérez,21,F,La Molina,Odontología,01/05/2024,513.4
+P2132,Gabriela Cabrera,89,M,Lince,Cardiología,07/10/2024,957.35
+P2133,Marta Ramírez,46,M,Lince,Odontología,11/01/2024,848.29
+P2134,Fernando Castillo,16,F,La Molina,Odontología,04/09/2024,699.02
+P2135,Luis Gómez,71,M,Miraflores,Odontología,21/03/2024,872.7
+P2136,Sofía Vega,73,M,San Isidro,Consulta General,22/09/2024,883.83
+P2137,Luis Vega,8,NA,Lince,NA,22/07/2024,856.15
+P2138,Jorge Castro,16,M,La Molina,Pediatría,12/02/2024,473.73
+P2139,Roberto López,71,M,Callao,Ginecología,04/11/2024,859.88
+P2140,María Rodríguez,85,F,Surco,NA,08/12/2024,784.9
+P2141,Isabel Vargas,52,M,Callao,Pediatría,20/07/2024,355.08
+P2142,Carlos Flores,81,F,NA,Emergencia,01/08/2024,673.54
+P2143,Valeria Navarro,17,M,Lince,Ginecología,14/08/2024,81.23
+P2144,Diego Campos,53,M,La Molina,Ginecología,03/04/2024,168.62
+P2145,Roberto Jiménez,22,M,San Isidro,Cardiología,03/08/2024,876.36
+P2146,Claudia Hernández,NA,M,Miraflores,Emergencia,05/10/2024,534.92
+P2147,Juan Sánchez,70,F,San Isidro,Odontología,01/02/2024,712.92
+P2148,Lucía García,81,F,Surco,Odontología,30/06/2024,389.62
+P2149,Pedro Suárez,37,F,Lince,Pediatría,01/12/2024,NA
+P2150,Natalia López,9,F,Miraflores,Emergencia,30/07/2024,834.73
+P2151,Natalia Rodríguez,45,M,San Isidro,Pediatría,27/04/2024,498.44
+P2152,Carmen Soto,62,M,Lince,Cardiología,18/04/2024,177.84
+P2153,Roberto Flores,11,M,La Molina,Pediatría,07/06/2024,210.02
+P2154,Lucía Romero,52,M,Miraflores,Emergencia,10/03/2024,514.9
+P2155,Álvaro Vega,18,F,La Molina,Emergencia,26/08/2024,246.69
+P2156,Ricardo Campos,27,M,Callao,Emergencia,21/11/2024,181.2
+P2157,Patricia Guerrero,85,F,Callao,Cardiología,27/05/2024,659.65
+P2158,Patricia Guerrero,90,NA,San Juan de Lurigancho,Emergencia,25/06/2024,887.7
+P2159,Álvaro Silva,48,M,San Juan de Lurigancho,Ginecología,04/07/2024,120.03
+P2160,Juan Castillo,83,F,La Molina,Cardiología,23/09/2024,504.23
+P2161,María García,NA,F,San Isidro,Pediatría,28/06/2024,770.92
+P2162,Marta Silva,75,F,San Isidro,Cardiología,08/05/2024,384.21
+P2163,Elena Alfaro,22,F,Lince,Consulta General,29/06/2024,237.34
+P2164,Carmen Guerrero,60,F,Surco,Cardiología,29/08/2024,106.89
+P2165,Juan Cruz,58,F,Surco,Consulta General,04/05/2024,350.72
+P2166,María Mendoza,NA,F,Miraflores,Ginecología,22/11/2024,150.64
+P2167,Fernando Sánchez,49,NA,San Juan de Lurigancho,NA,13/03/2024,896.23
+P2168,Lucía Ortiz,80,M,La Molina,Odontología,NA,893.58
+P2169,Álvaro Ramírez,42,M,Callao,Odontología,29/09/2024,752.89
+P2170,Héctor Soto,27,M,Lince,Cardiología,01/03/2024,230.63
+P2171,Andrés García,11,F,San Juan de Lurigancho,Emergencia,01/02/2024,735.0
+P2172,María Rodríguez,37,M,Miraflores,Pediatría,02/02/2024,NA
+P2173,Luis Cruz,25,F,San Juan de Lurigancho,NA,12/12/2024,NA
+P2174,Diego García,31,M,San Isidro,Emergencia,28/04/2024,287.43
+P2175,Patricia Vargas,81,M,Callao,Ginecología,22/03/2024,960.51
+P2176,Alberto Jiménez,71,F,NA,Emergencia,09/12/2024,577.32
+P2177,Lorena Suárez,NA,F,San Isidro,Pediatría,16/09/2024,362.97
+P2178,Marta Cruz,24,F,Lince,Cardiología,07/06/2024,642.26
+P2179,Isabel Hernández,38,M,Miraflores,Consulta General,21/03/2024,828.96
+P2180,Miguel Cruz,56,F,Miraflores,Emergencia,07/09/2024,811.85
+P2181,Javier Díaz,NA,F,San Isidro,Consulta General,07/07/2024,220.47
+P2182,Lucía Campos,45,F,Miraflores,Ginecología,16/07/2024,545.26
+P2183,Lucía García,63,F,La Molina,Odontología,09/06/2024,839.63
+P2184,Natalia Castro,65,F,Callao,Emergencia,29/02/2024,NA
+P2185,María López,77,F,Lince,Emergencia,14/04/2024,561.58
+P2186,Alberto Hernández,65,F,Miraflores,Consulta General,21/07/2024,601.84
+P2187,Valeria Rojas,51,F,La Molina,Odontología,25/04/2024,63.76
+P2188,Marta García,87,M,Lince,Emergencia,20/01/2024,929.21
+P2189,Gabriela Rodríguez,20,F,Miraflores,Ginecología,13/12/2024,537.7
+P2190,Ricardo Ramírez,22,M,La Molina,Ginecología,03/06/2024,NA
+P2191,Patricia Vargas,31,M,Miraflores,Emergencia,04/11/2024,191.65
+P2192,Luis Suárez,65,M,Callao,Odontología,12/09/2024,950.33
+P2193,Juan Ramírez,34,F,Lince,Odontología,12/02/2024,665.16
+P2194,Daniela Hernández,55,F,San Isidro,Pediatría,16/09/2024,463.26
+P2195,Lorena Díaz,85,M,Surco,Ginecología,01/01/2025,517.15
+P2196,Valeria Gómez,80,M,San Juan de Lurigancho,Pediatría,30/03/2024,454.04
+P2197,Claudia Hernández,46,F,San Isidro,Pediatría,16/12/2024,323.09
+P2198,Fernando Soto,27,M,La Molina,Odontología,21/02/2024,639.2
+P2199,Santiago Pérez,9,F,Miraflores,Consulta General,22/01/2024,797.62
+P2200,Patricia Pérez,90,F,La Molina,Emergencia,01/09/2024,470.38
+P2201,Gabriela Soto,59,M,NA,Cardiología,20/11/2024,420.78
+P2202,Claudia Ramírez,80,M,San Juan de Lurigancho,Odontología,14/08/2024,864.97
+P2203,Javier Díaz,40,M,San Juan de Lurigancho,Cardiología,22/02/2024,499.45
+P2204,María Castro,14,NA,Miraflores,Ginecología,09/08/2024,246.21
+P2205,Carmen Ramírez,89,F,La Molina,Consulta General,13/11/2024,982.57
+P2206,Ricardo Alfaro,77,M,Surco,Pediatría,05/02/2024,314.86
+P2207,Héctor Ortiz,81,F,La Molina,Emergencia,11/08/2024,864.53
+P2208,Andrés Silva,36,F,San Juan de Lurigancho,Cardiología,NA,932.64
+P2209,Daniela Guerrero,24,M,Surco,Ginecología,14/12/2024,899.46
+P2210,Miguel Díaz,24,F,San Juan de Lurigancho,Pediatría,24/07/2024,68.27
+P2211,María Cruz,16,M,Miraflores,Ginecología,21/10/2024,418.76
+P2212,Claudia Ramírez,89,M,Lince,Pediatría,13/02/2024,609.54
+P2213,Javier Romero,60,M,Lince,Cardiología,28/07/2024,675.58
+P2214,Alberto Morales,41,F,Lince,Consulta General,07/08/2024,525.93
+P2215,Marta Torres,21,F,Surco,Pediatría,18/07/2024,950.17
+P2216,Jorge Cruz,9,M,Surco,Ginecología,13/08/2024,386.37
+P2217,Jorge Pérez,20,F,San Juan de Lurigancho,Pediatría,10/08/2024,209.52
+P2218,Sofía Mendoza,58,M,La Molina,Cardiología,19/07/2024,282.4
+P2219,Álvaro García,34,F,San Juan de Lurigancho,Cardiología,07/09/2024,262.77
+P2220,Juan Sánchez,49,NA,La Molina,Consulta General,11/09/2024,897.25
+P2221,Gabriela López,21,F,Lince,Odontología,25/06/2024,968.87
+P2222,Diego Soto,24,M,Callao,Cardiología,08/01/2024,387.32
+P2223,Héctor García,67,F,Callao,Odontología,21/07/2024,576.55
+P2224,Fernando Alfaro,15,M,San Juan de Lurigancho,Cardiología,15/05/2024,208.01
+P2225,Daniela García,43,F,Miraflores,Cardiología,17/11/2024,220.65
+P2226,Diego Vargas,41,M,La Molina,Ginecología,29/07/2024,185.94
+P2227,Roberto Vargas,28,F,San Isidro,Pediatría,10/03/2024,542.31
+P2228,María Suárez,46,M,San Juan de Lurigancho,Consulta General,05/08/2024,708.9
+P2229,Isabel Cruz,74,M,Callao,Odontología,27/07/2024,916.4
+P2230,Miguel Sánchez,85,F,La Molina,Emergencia,26/11/2024,307.44
+P2231,NA,31,F,Callao,Ginecología,04/03/2024,300.82
+P2232,Andrés Suárez,41,M,Miraflores,Consulta General,26/03/2024,598.72
+P2233,Valeria Vega,86,F,Miraflores,Cardiología,16/03/2024,701.98
+P2234,Roberto Ortiz,60,F,Surco,Cardiología,08/12/2024,513.99
+P2235,Marta Soto,39,M,Miraflores,Cardiología,15/05/2024,94.77
+P2236,Héctor Guerrero,64,F,Surco,Odontología,18/07/2024,802.55
+P2237,Diego Torres,NA,F,Lince,Emergencia,30/01/2024,600.71
+P2238,Sofía Ortiz,81,M,Miraflores,Pediatría,03/05/2024,446.2
+P2239,Elena Silva,76,F,Callao,Odontología,22/07/2024,418.81
+P2240,Gabriela Castillo,10,NA,Miraflores,Consulta General,07/12/2024,922.07
+P2241,Valeria Suárez,90,F,Miraflores,Emergencia,21/02/2024,252.24
+P2242,Álvaro Soto,81,M,La Molina,Odontología,27/08/2024,NA
+P2243,Lucía Díaz,26,F,San Juan de Lurigancho,Consulta General,16/09/2024,910.71
+P2244,Silvia Mendoza,76,M,Miraflores,Ginecología,15/05/2024,215.23
+P2245,Natalia Díaz,24,F,Miraflores,Emergencia,15/05/2024,378.11
+P2246,Héctor Morales,15,M,NA,Ginecología,07/04/2024,558.89
+P2247,Ricardo Jiménez,NA,F,Miraflores,Cardiología,17/03/2024,567.63
+P2248,Álvaro Mendoza,32,F,NA,Consulta General,16/10/2024,844.21
+P2249,Claudia Cruz,44,F,La Molina,Ginecología,03/06/2024,438.54
+P2250,Luis Mendoza,84,F,Lince,Ginecología,20/10/2024,938.87
+P2251,Ana Robles,9,M,Lince,Emergencia,02/09/2024,669.74
+P2252,Valeria Alfaro,38,M,San Juan de Lurigancho,Emergencia,13/03/2024,121.45
+P2253,Patricia Delgado,35,F,San Juan de Lurigancho,Ginecología,20/06/2024,104.54
+P2254,Miguel Delgado,13,F,San Isidro,Cardiología,04/03/2024,370.36
+P2255,Álvaro Torres,46,F,Miraflores,Ginecología,16/06/2024,219.32
+P2256,Roberto Ramos,84,F,Lince,Pediatría,12/06/2024,541.39
+P2257,Marta Torres,37,F,Lince,NA,24/10/2024,NA
+P2258,Raúl Silva,80,M,La Molina,Cardiología,24/09/2024,242.01
+P2259,NA,17,F,Lince,Consulta General,10/10/2024,154.3
+P2260,Pedro Morales,83,M,Miraflores,Pediatría,18/11/2024,898.09
+P2261,Ana Alfaro,61,F,Callao,Consulta General,30/05/2024,722.38
+P2262,Fernando Romero,48,M,San Juan de Lurigancho,Consulta General,12/08/2024,965.11
+P2263,Raúl López,17,F,La Molina,Pediatría,25/11/2024,271.25
+P2264,Luis Alfaro,61,F,La Molina,Cardiología,07/02/2024,977.49
+P2265,Pedro Acosta,47,F,Callao,Pediatría,21/06/2024,906.91
+P2266,Héctor Morales,26,F,Surco,Cardiología,25/12/2024,770.56
+P2267,Lorena Pérez,10,F,La Molina,Pediatría,24/08/2024,582.81
+P2268,Jorge Jiménez,35,M,San Juan de Lurigancho,Pediatría,06/04/2024,307.03
+P2269,Patricia Mendoza,63,F,Surco,Ginecología,20/09/2024,296.36
+P2270,Gabriela Mendoza,80,F,Miraflores,Odontología,01/09/2024,442.0
+P2271,Juan Rodríguez,67,F,San Juan de Lurigancho,Odontología,03/12/2024,626.66
+P2272,Santiago Robles,26,F,Miraflores,Pediatría,28/08/2024,587.62
+P2273,Lucía Jiménez,87,M,Callao,Consulta General,29/09/2024,462.59
+P2274,Sofía Robles,60,M,Lince,Consulta General,18/05/2024,856.01
+P2275,Elena Jiménez,47,F,San Isidro,Ginecología,30/06/2024,504.96
+P2276,Lucía Acosta,45,F,Surco,Odontología,27/12/2024,NA
+P2277,Lucía Silva,88,F,Callao,Pediatría,30/09/2024,192.56
+P2278,Natalia Torres,8,F,La Molina,Odontología,11/06/2024,647.93
+P2279,Carlos Mendoza,30,F,Surco,Odontología,31/07/2024,548.21
+P2280,Carlos Navarro,71,M,NA,Odontología,13/08/2024,886.52
+P2281,Diego Romero,9,M,La Molina,Cardiología,13/02/2024,182.8
+P2282,Pedro Rodríguez,63,M,Surco,Odontología,30/04/2024,711.39
+P2283,Valeria Morales,70,M,La Molina,Consulta General,03/10/2024,580.0
+P2284,Álvaro Mendoza,24,F,NA,Ginecología,01/05/2024,318.37
+P2285,María Vargas,9,M,Callao,Odontología,24/04/2024,252.7
+P2286,Fernando Soto,49,F,NA,Ginecología,23/03/2024,478.04
+P2287,Marta López,89,M,Miraflores,Cardiología,28/09/2024,582.97
+P2288,Álvaro Ramos,NA,M,Surco,Ginecología,18/07/2024,635.06
+P2289,Carmen Morales,35,F,Lince,Pediatría,14/12/2024,NA
+P2290,Isabel García,12,F,San Juan de Lurigancho,Odontología,25/10/2024,611.05
+P2291,Miguel Gómez,82,F,San Juan de Lurigancho,Emergencia,28/12/2024,167.23
+P2292,Héctor Torres,69,M,San Juan de Lurigancho,Pediatría,31/10/2024,487.09
+P2293,Javier Ramos,90,M,San Isidro,Emergencia,04/05/2024,370.74
+P2294,Claudia Pérez,84,F,San Isidro,Emergencia,04/06/2024,764.46
+P2295,NA,66,F,La Molina,Emergencia,06/01/2024,129.21
+P2296,Ricardo Vargas,81,F,NA,Cardiología,29/05/2024,985.95
+P2297,Elena Guerrero,8,M,San Isidro,Cardiología,17/02/2024,938.39
+P2298,Claudia Morales,49,M,San Isidro,Consulta General,08/07/2024,320.55
+P2299,Sofía López,56,F,San Isidro,Ginecología,18/02/2024,64.61
+P2300,Fernando Ramos,26,M,Miraflores,Emergencia,30/07/2024,573.54
+P2301,Sofía Ortiz,31,M,Surco,Pediatría,13/05/2024,399.63
+P2302,Isabel Martínez,76,M,Callao,Ginecología,29/01/2024,846.07
+P2303,Andrés Mendoza,86,M,La Molina,Cardiología,27/02/2024,92.43
+P2304,Patricia Cabrera,82,M,Callao,Cardiología,20/04/2024,720.14
+P2305,Pedro Campos,85,F,San Juan de Lurigancho,Consulta General,24/04/2024,476.78
+P2306,Andrés Romero,90,M,San Isidro,Ginecología,08/09/2024,495.89
+P2307,Raúl Hernández,24,M,Surco,Odontología,18/03/2024,297.66
+P2308,María López,75,F,Miraflores,Cardiología,15/06/2024,71.64
+P2309,Ricardo Castillo,82,F,Callao,Cardiología,01/10/2024,NA
+P2310,Juan Cabrera,64,M,San Isidro,Ginecología,02/04/2024,526.44
+P2311,Ana Navarro,22,M,La Molina,Cardiología,04/12/2024,374.34
+P2312,Diego Acosta,29,M,NA,Cardiología,20/02/2024,279.97
+P2313,Isabel Guerrero,13,M,San Isidro,Emergencia,07/12/2024,463.02
+P2314,Marta Vargas,34,M,NA,Ginecología,21/02/2024,830.64
+P2315,Lucía López,47,F,NA,Emergencia,11/01/2024,677.16
+P2316,Ana Soto,23,M,Lince,Cardiología,21/10/2024,175.74
+P2317,Sofía Martínez,78,F,NA,Odontología,01/03/2024,971.46
+P2318,Roberto Jiménez,26,F,Miraflores,Emergencia,27/02/2024,955.07
+P2319,Javier Vega,18,NA,San Isidro,Cardiología,23/02/2024,746.52
+P2320,Ana Robles,39,M,Surco,Pediatría,14/03/2024,468.88
+P2321,Sofía Rodríguez,83,M,San Juan de Lurigancho,Pediatría,04/04/2024,318.01
+P2322,Juan Romero,37,M,San Isidro,Odontología,15/03/2024,372.9
+P2323,Roberto Acosta,50,F,San Juan de Lurigancho,Consulta General,15/04/2024,732.65
+P2324,Miguel Alfaro,29,M,Miraflores,Emergencia,07/11/2024,282.31
+P2325,Alberto Hernández,9,M,Callao,Consulta General,12/12/2024,750.28
+P2326,Fernando Mendoza,36,M,Callao,Consulta General,17/12/2024,924.94
+P2327,Lucía López,71,M,San Isidro,Consulta General,28/12/2024,600.67
+P2328,Valeria Ramírez,71,F,La Molina,Consulta General,05/04/2024,NA
+P2329,Daniela Cabrera,60,F,La Molina,Cardiología,23/05/2024,392.81
+P2330,Carmen Mendoza,28,M,Miraflores,Emergencia,18/11/2024,974.19
+P2331,Santiago Robles,20,M,San Juan de Lurigancho,Consulta General,20/08/2024,652.24
+P2332,Natalia Romero,67,F,Lince,Consulta General,04/04/2024,895.09
+P2333,Carmen Ramos,26,M,Miraflores,Ginecología,26/08/2024,863.46
+P2334,Andrés Delgado,8,F,San Isidro,Odontología,24/08/2024,498.1
+P2335,Pedro Robles,13,F,Surco,Ginecología,18/11/2024,662.81
+P2336,Fernando López,NA,M,Lince,NA,03/10/2024,935.03
+P2337,Ricardo Martínez,72,F,Surco,Cardiología,03/03/2024,942.05
+P2338,Sofía Silva,32,M,Surco,Odontología,05/02/2024,913.21
+P2339,María Vargas,38,M,Callao,Ginecología,03/04/2024,217.11
+P2340,Raúl Jiménez,46,F,Miraflores,Consulta General,11/01/2024,470.07
+P2341,Juan Flores,57,F,Callao,Odontología,19/09/2024,558.31
+P2342,Verónica Díaz,65,M,La Molina,Pediatría,01/07/2024,515.91
+P2343,Javier Silva,63,F,Surco,NA,18/03/2024,616.08
+P2344,Claudia Mendoza,62,F,La Molina,Pediatría,30/08/2024,657.25
+P2345,Gabriela Campos,49,F,San Isidro,Ginecología,19/12/2024,733.12
+P2346,Valeria Torres,72,F,San Isidro,NA,28/08/2024,823.85
+P2347,Javier Cabrera,82,M,Surco,Ginecología,07/05/2024,516.1
+P2348,Ricardo Robles,75,F,San Juan de Lurigancho,Consulta General,29/11/2024,667.3
+P2349,Claudia Vargas,87,M,San Juan de Lurigancho,Pediatría,10/03/2024,569.87
+P2350,Juan Torres,57,M,La Molina,Odontología,13/09/2024,521.6
+P2351,Lorena Robles,73,F,La Molina,Odontología,14/09/2024,583.67
+P2352,Ana Vargas,63,M,Lince,Odontología,16/07/2024,545.27
+P2353,Gabriela Rojas,56,F,San Juan de Lurigancho,Odontología,26/01/2024,72.38
+P2354,Miguel Sánchez,39,F,San Juan de Lurigancho,Pediatría,07/10/2024,441.81
+P2355,Isabel Ortiz,81,M,La Molina,Cardiología,04/12/2024,NA
+P2356,Gabriela Cabrera,61,M,Miraflores,Odontología,27/06/2024,126.58
+P2357,Luis Silva,23,M,San Isidro,Odontología,29/10/2024,85.4
+P2358,Ana Soto,28,F,La Molina,Pediatría,25/08/2024,851.52
+P2359,Claudia Torres,29,M,Miraflores,Pediatría,30/11/2024,544.99
+P2360,Elena Vargas,12,M,Lince,Pediatría,17/05/2024,130.46
+P2361,Roberto Mendoza,57,M,Callao,Pediatría,07/04/2024,302.9
+P2362,Verónica Romero,NA,M,Surco,Pediatría,14/01/2024,508.87
+P2363,Andrés Suárez,87,M,Miraflores,Pediatría,28/02/2024,418.99
+P2364,Patricia Soto,81,M,San Isidro,Odontología,18/01/2024,920.98
+P2365,Andrés Castillo,20,F,Lince,Ginecología,03/06/2024,102.48
+P2366,Ricardo Pérez,14,M,Miraflores,Pediatría,16/05/2024,983.05
+P2367,Diego Flores,26,M,Surco,Emergencia,22/04/2024,NA
+P2368,Silvia Ramírez,13,M,San Juan de Lurigancho,Emergencia,25/04/2024,415.47
+P2369,Javier Vega,52,F,Surco,Cardiología,23/01/2024,368.95
+P2370,Héctor Gómez,55,M,Callao,Consulta General,08/07/2024,776.13
+P2371,Roberto Guerrero,51,M,Lince,Emergencia,20/02/2024,580.86
+P2372,Álvaro Díaz,NA,M,San Isidro,Cardiología,11/07/2024,622.42
+P2373,Álvaro Ortiz,79,F,Miraflores,Odontología,04/05/2024,803.53
+P2374,Javier Acosta,26,M,San Juan de Lurigancho,Pediatría,28/01/2024,822.0
+P2375,Daniela Díaz,65,NA,Surco,Odontología,30/08/2024,65.15
+P2376,Marta García,18,M,Lince,Consulta General,28/10/2024,937.35
+P2377,Carmen Rodríguez,32,M,Miraflores,Cardiología,11/03/2024,374.86
+P2378,Alberto Pérez,41,M,La Molina,Emergencia,01/01/2024,387.5
+P2379,Alberto Mendoza,17,F,Surco,Pediatría,24/10/2024,976.2
+P2380,Lorena Navarro,11,F,Surco,Cardiología,16/04/2024,256.99
+P2381,Raúl Ortiz,8,M,Miraflores,Pediatría,14/12/2024,NA
+P2382,Roberto Ortiz,8,F,Lince,Odontología,05/10/2024,812.56
+P2383,Juan Ramírez,48,F,Surco,Odontología,14/06/2024,888.72
+P2384,Valeria Ortiz,NA,F,Lince,Emergencia,23/07/2024,NA
+P2385,Patricia Morales,68,M,Miraflores,Emergencia,11/12/2024,660.62
+P2386,Ana Díaz,84,M,Lince,Ginecología,01/05/2024,554.62
+P2387,Andrés Soto,43,NA,Callao,Consulta General,24/11/2024,577.77
+P2388,Isabel García,74,M,Miraflores,Consulta General,02/07/2024,507.1
+P2389,Luis Rojas,25,M,Callao,Odontología,28/07/2024,848.14
+P2390,Javier Flores,22,F,La Molina,Ginecología,23/01/2024,597.72
+P2391,NA,23,F,La Molina,Pediatría,02/08/2024,412.75
+P2392,Ricardo Morales,8,M,Callao,Ginecología,13/07/2024,725.19
+P2393,Carlos Rojas,19,F,La Molina,Odontología,11/03/2024,NA
+P2394,Pedro Castillo,48,F,Miraflores,Consulta General,04/12/2024,559.43
+P2395,Marta Suárez,83,F,Callao,Odontología,25/01/2024,193.03
+P2396,Javier López,56,F,San Isidro,Ginecología,21/08/2024,399.73
+P2397,Daniela Cabrera,66,M,Callao,Emergencia,31/08/2024,824.28
+P2398,Valeria Flores,17,F,Surco,Ginecología,19/11/2024,266.9
+P2399,Silvia Romero,80,F,San Juan de Lurigancho,Cardiología,28/12/2024,704.38
+P2400,Diego Flores,90,M,Callao,Cardiología,09/07/2024,NA
+P2401,Daniela Mendoza,25,F,San Isidro,Cardiología,01/03/2024,168.54
+P2402,Raúl Sánchez,44,F,Surco,Emergencia,01/07/2024,555.98
+P2403,Verónica Castro,79,NA,Surco,Odontología,08/07/2024,519.05
+P2404,Patricia Ramírez,18,M,Surco,Emergencia,02/02/2024,816.5
+P2405,Verónica Castillo,58,F,Lince,Cardiología,04/08/2024,759.12
+P2406,Andrés Vargas,26,F,Surco,Ginecología,21/11/2024,408.45
+P2407,Juan Navarro,65,F,NA,Emergencia,26/10/2024,250.81
+P2408,Patricia Sánchez,43,M,Lince,Consulta General,18/04/2024,404.71
+P2409,Daniela Rojas,15,F,Lince,Ginecología,10/12/2024,86.86
+P2410,Verónica García,85,M,San Juan de Lurigancho,Consulta General,25/10/2024,802.55
+P2411,Álvaro Navarro,14,F,Miraflores,Consulta General,01/11/2024,384.96
+P2412,Diego Ortiz,32,M,La Molina,Odontología,22/12/2024,140.05
+P2413,Valeria Ortiz,32,F,NA,Ginecología,28/11/2024,153.88
+P2414,Roberto Flores,50,M,La Molina,Odontología,29/01/2024,945.69
+P2415,Héctor Vargas,86,F,La Molina,Cardiología,20/05/2024,623.83
+P2416,Elena Gómez,61,F,La Molina,Pediatría,12/02/2024,507.31
+P2417,Raúl Vargas,36,F,San Juan de Lurigancho,Odontología,30/09/2024,537.23
+P2418,Alberto López,77,M,Lince,Odontología,05/04/2024,259.87
+P2419,Miguel Acosta,25,F,San Isidro,Ginecología,28/06/2024,508.12
+P2420,Raúl Sánchez,NA,M,La Molina,Consulta General,25/06/2024,71.56
+P2421,Ana Sánchez,24,F,Miraflores,Ginecología,27/04/2024,910.76
+P2422,Álvaro Gómez,51,F,Miraflores,Cardiología,20/01/2024,847.8
+P2423,Patricia Rodríguez,85,M,San Juan de Lurigancho,Ginecología,03/07/2024,629.9
+P2424,Isabel Sánchez,41,F,San Juan de Lurigancho,Pediatría,02/11/2024,500.85
+P2425,Silvia Ramírez,68,M,Miraflores,Odontología,04/11/2024,156.35
+P2426,María Gómez,28,M,San Isidro,Odontología,30/08/2024,286.25
+P2427,Isabel Castillo,39,M,NA,Consulta General,03/11/2024,665.82
+P2428,Luis Silva,37,F,La Molina,Pediatría,23/04/2024,638.56
+P2429,Verónica Ramos,20,M,Surco,Ginecología,30/04/2024,670.06
+P2430,NA,33,M,NA,Emergencia,14/08/2024,741.12
+P2431,Carlos Ramos,44,F,Miraflores,Odontología,12/06/2024,916.18
+P2432,Fernando Jiménez,58,F,Miraflores,Cardiología,21/04/2024,NA
+P2433,Miguel Mendoza,42,M,La Molina,Consulta General,05/07/2024,852.45
+P2434,Álvaro Alfaro,79,M,La Molina,Pediatría,05/12/2024,143.16
+P2435,Sofía Martínez,57,M,Surco,Emergencia,14/06/2024,135.45
+P2436,Silvia Mendoza,54,M,NA,Odontología,23/11/2024,505.38
+P2437,NA,86,F,Callao,NA,29/10/2024,868.15
+P2438,Roberto Cabrera,42,M,Callao,NA,26/11/2024,418.44
+P2439,Verónica Pérez,41,M,Miraflores,Pediatría,05/11/2024,816.56
+P2440,Valeria Navarro,NA,M,Surco,Consulta General,03/11/2024,775.16
+P2441,Silvia Hernández,23,M,Lince,Odontología,24/11/2024,442.27
+P2442,Alberto Ramos,14,M,Lince,Ginecología,04/02/2024,804.6
+P2443,Valeria Mendoza,53,M,San Isidro,Emergencia,02/09/2024,776.42
+P2444,Lorena Romero,34,F,Surco,Cardiología,29/04/2024,994.54
+P2445,Marta Castro,28,M,San Isidro,Odontología,30/08/2024,977.01
+P2446,Miguel Rojas,25,M,La Molina,Consulta General,12/06/2024,150.74
+P2447,NA,82,M,Surco,Odontología,07/06/2024,944.56
+P2448,Sofía Cruz,65,F,San Isidro,NA,04/03/2024,85.41
+P2449,Javier Cabrera,22,F,San Isidro,Pediatría,16/02/2024,332.68
+P2450,Juan Cabrera,22,F,Callao,NA,19/05/2024,796.7
+P2451,Miguel Ramírez,NA,F,San Isidro,NA,24/11/2024,870.11
+P2452,Diego Sánchez,70,F,San Isidro,Emergencia,15/12/2024,345.1
+P2453,Daniela Romero,11,F,Lince,Odontología,13/01/2024,977.84
+P2454,Lorena Jiménez,87,M,Surco,Consulta General,14/11/2024,711.2
+P2455,Gabriela López,87,M,La Molina,Ginecología,26/04/2024,327.14
+P2456,Valeria Acosta,72,F,NA,Consulta General,17/11/2024,182.08
+P2457,Miguel Mendoza,70,NA,San Juan de Lurigancho,Cardiología,26/08/2024,130.71
+P2458,Natalia Ramírez,86,F,Miraflores,Pediatría,20/06/2024,962.9
+P2459,Carmen Robles,12,F,San Isidro,Pediatría,11/03/2024,76.31
+P2460,Andrés Gómez,NA,F,Surco,Pediatría,27/09/2024,238.08
+P2461,María Guerrero,66,F,La Molina,Pediatría,05/09/2024,125.65
+P2462,Gabriela Guerrero,79,F,San Isidro,Pediatría,05/08/2024,221.51
+P2463,Patricia Campos,15,M,San Isidro,Odontología,05/05/2024,193.59
+P2464,Carmen Silva,58,M,Callao,Pediatría,17/01/2024,361.61
+P2465,Lorena Romero,20,M,San Isidro,Odontología,09/01/2024,234.99
+P2466,Ricardo Soto,11,M,La Molina,Emergencia,10/02/2024,873.39
+P2467,Roberto Campos,40,F,Callao,Consulta General,06/08/2024,743.31
+P2468,Jorge Romero,14,M,San Juan de Lurigancho,Odontología,30/06/2024,308.87
+P2469,Diego López,30,M,La Molina,Pediatría,28/06/2024,749.95
+P2470,Ricardo Delgado,61,F,Surco,Consulta General,24/07/2024,65.36
+P2471,Patricia Martínez,47,F,Lince,Cardiología,04/07/2024,55.4
+P2472,Daniela Cruz,86,F,Lince,Ginecología,11/12/2024,366.53
+P2473,Lucía Gómez,81,F,La Molina,NA,08/10/2024,114.64
+P2474,Roberto Acosta,NA,M,Surco,Odontología,06/06/2024,316.65
+P2475,Patricia Pérez,24,NA,Surco,Cardiología,26/07/2024,846.15
+P2476,Ricardo Cruz,77,M,San Juan de Lurigancho,Pediatría,05/01/2024,334.93
+P2477,Miguel Acosta,25,F,Surco,Pediatría,09/07/2024,97.95
+P2478,Luis Navarro,24,M,La Molina,Cardiología,03/05/2024,NA
+P2479,Héctor Navarro,59,F,La Molina,Odontología,04/03/2024,537.88
+P2480,Claudia Robles,46,F,San Juan de Lurigancho,Cardiología,02/08/2024,790.64
+P2481,Diego Pérez,75,M,San Isidro,Consulta General,08/12/2024,526.68
+P2482,Marta Martínez,82,M,La Molina,Consulta General,24/01/2024,239.92
+P2483,Juan Romero,28,M,Surco,Pediatría,17/06/2024,650.68
+P2484,Gabriela Campos,28,M,San Juan de Lurigancho,Cardiología,27/10/2024,168.36
+P2485,Marta Alfaro,83,M,Miraflores,Emergencia,18/09/2024,911.69
+P2486,Carmen Ramos,88,F,Surco,Consulta General,12/08/2024,653.07
+P2487,Elena Romero,46,F,Miraflores,Emergencia,24/06/2024,NA
+P2488,Lorena Soto,13,F,La Molina,Odontología,22/03/2024,428.37
+P2489,Verónica Suárez,71,M,Surco,Emergencia,04/04/2024,746.42
+P2490,Verónica Silva,74,F,Surco,Odontología,26/12/2024,51.19
+P2491,Andrés Romero,49,F,Surco,Odontología,12/07/2024,559.74
+P2492,Raúl Díaz,86,M,San Juan de Lurigancho,Odontología,24/12/2024,756.4
+P2493,Javier Ramos,38,M,San Isidro,Ginecología,27/01/2024,976.96
+P2494,Daniela Castro,59,M,San Juan de Lurigancho,Emergencia,23/07/2024,190.49
+P2495,Patricia Campos,30,NA,Surco,Cardiología,29/12/2024,866.0
+P2496,Isabel Silva,85,NA,Lince,Odontología,20/05/2024,551.27
+P2497,Claudia Martínez,89,M,Callao,Odontología,20/01/2024,438.95
+P2498,Santiago Guerrero,30,F,La Molina,NA,24/04/2024,538.57
+P2499,Gabriela Alfaro,57,M,Miraflores,Odontología,26/01/2024,925.65
+P2500,Silvia Mendoza,18,M,Surco,NA,16/05/2024,580.64
+P2501,Carlos Suárez,68,M,Callao,Emergencia,21/01/2024,80.08
+P2502,Pedro Vargas,26,F,Callao,Cardiología,26/10/2024,978.05
+P2503,Miguel Gómez,11,F,San Isidro,Pediatría,21/07/2024,656.85
+P2504,Carlos Acosta,79,M,San Isidro,Odontología,07/05/2024,379.73
+P2505,Silvia Vega,48,M,Miraflores,Odontología,09/09/2024,549.87
+P2506,Lorena Guerrero,14,NA,San Juan de Lurigancho,Consulta General,25/02/2024,795.16
+P2507,Carmen Campos,32,M,San Juan de Lurigancho,Emergencia,06/02/2024,907.62
+P2508,Santiago Torres,56,M,San Juan de Lurigancho,Odontología,30/08/2024,738.96
+P2509,Lorena Campos,58,M,La Molina,Pediatría,02/05/2024,NA
+P2510,Marta Robles,40,F,San Isidro,Cardiología,01/03/2024,407.97
+P2511,Javier Martínez,NA,NA,Surco,Ginecología,12/01/2024,802.9
+P2512,Ricardo Rodríguez,85,F,Surco,Odontología,02/11/2024,88.2
+P2513,Claudia Ramos,51,F,San Isidro,Pediatría,05/01/2024,360.87
+P2514,Héctor Sánchez,12,F,Miraflores,Consulta General,20/04/2024,988.18
+P2515,Pedro Rojas,74,M,NA,Odontología,23/03/2024,225.72
+P2516,Santiago Sánchez,70,M,San Juan de Lurigancho,NA,30/04/2024,891.41
+P2517,Claudia Campos,30,F,Lince,Cardiología,15/03/2024,202.56
+P2518,Patricia Ramírez,84,M,San Juan de Lurigancho,Odontología,24/02/2024,403.29
+P2519,María Torres,9,NA,San Juan de Lurigancho,Pediatría,03/12/2024,NA
+P2520,Roberto Silva,55,F,Lince,Consulta General,29/03/2024,NA
+P2521,Silvia Jiménez,54,M,Miraflores,Cardiología,18/03/2024,117.68
+P2522,Elena Alfaro,60,F,La Molina,Consulta General,01/04/2024,703.48
+P2523,Valeria Delgado,11,F,Miraflores,Emergencia,NA,126.69
+P2524,Claudia Pérez,44,M,La Molina,Cardiología,09/10/2024,464.29
+P2525,Sofía Flores,34,M,Lince,Ginecología,19/03/2024,61.76
+P2526,Juan Martínez,90,M,Lince,Pediatría,01/07/2024,464.13
+P2527,Pedro Flores,79,F,La Molina,Emergencia,20/07/2024,570.49
+P2528,María Castillo,36,M,Surco,Cardiología,14/03/2024,453.65
+P2529,Alberto Díaz,52,F,NA,Odontología,NA,275.13
+P2530,Lorena Gómez,48,F,Surco,Consulta General,09/04/2024,904.23
+P2531,Daniela Acosta,50,F,Callao,Ginecología,26/10/2024,419.1
+P2532,Ricardo Gómez,22,M,San Isidro,Odontología,31/05/2024,632.21
+P2533,Silvia Acosta,83,F,Miraflores,NA,15/05/2024,237.12
+P2534,Carlos García,87,F,San Juan de Lurigancho,Ginecología,07/08/2024,79.05
+P2535,Luis Rojas,63,F,Lince,Consulta General,02/04/2024,NA
+P2536,Ana Morales,23,F,Miraflores,Pediatría,04/08/2024,640.75
+P2537,Alberto Rodríguez,55,NA,San Isidro,Consulta General,28/02/2024,670.26
+P2538,Lorena Alfaro,33,F,La Molina,Odontología,10/11/2024,248.12
+P2539,Patricia Jiménez,88,F,NA,Consulta General,18/10/2024,NA
+P2540,Raúl Ramírez,71,M,San Isidro,Consulta General,28/03/2024,607.89
+P2541,Roberto Vega,44,M,NA,Ginecología,28/08/2024,175.43
+P2542,Diego Vega,NA,M,Callao,Odontología,25/02/2024,106.35
+P2543,Miguel Castillo,83,M,Lince,Emergencia,27/05/2024,959.55
+P2544,Natalia Cruz,85,F,San Isidro,Odontología,25/03/2024,98.7
+P2545,Claudia Rojas,9,F,Lince,Emergencia,10/09/2024,660.94
+P2546,Claudia Castillo,84,M,Miraflores,Ginecología,28/09/2024,614.15
+P2547,Roberto Campos,60,F,La Molina,Odontología,13/08/2024,604.82
+P2548,Santiago Rodríguez,NA,M,Surco,Odontología,04/02/2024,970.77
+P2549,María Romero,NA,M,San Juan de Lurigancho,Pediatría,19/04/2024,336.7
+P2550,Miguel Suárez,60,M,Miraflores,Consulta General,29/11/2024,739.23
+P2551,Héctor López,53,M,San Juan de Lurigancho,NA,31/08/2024,189.71
+P2552,Juan Cruz,57,F,San Juan de Lurigancho,Odontología,03/12/2024,586.77
+P2553,Jorge Castro,NA,F,Miraflores,Consulta General,15/09/2024,941.15
+P2554,Patricia Ortiz,35,F,La Molina,Consulta General,11/08/2024,233.97
+P2555,Gabriela Sánchez,37,M,San Isidro,Emergencia,23/06/2024,478.52
+P2556,Gabriela Campos,17,M,La Molina,Ginecología,20/08/2024,579.95
+P2557,Elena Sánchez,74,F,Lince,Cardiología,25/02/2024,636.19
+P2558,Roberto Torres,52,F,Callao,Pediatría,13/09/2024,904.92
+P2559,Silvia Castro,80,F,La Molina,Odontología,03/01/2024,206.1
+P2560,Fernando Delgado,83,M,La Molina,Odontología,08/06/2024,850.63
+P2561,Carmen Castro,19,F,Surco,Odontología,29/02/2024,108.99
+P2562,Gabriela Romero,66,F,Miraflores,Emergencia,02/09/2024,551.71
+P2563,Fernando Cruz,22,NA,San Isidro,Odontología,01/05/2024,336.85
+P2564,Roberto Campos,62,M,Miraflores,Emergencia,05/04/2024,718.07
+P2565,Miguel Cabrera,73,M,La Molina,Cardiología,10/03/2024,930.87
+P2566,Natalia Guerrero,70,F,NA,Pediatría,08/09/2024,856.19
+P2567,Héctor Ramírez,45,F,San Juan de Lurigancho,Odontología,18/11/2024,780.94
+P2568,Verónica Martínez,24,NA,Miraflores,Cardiología,06/03/2024,385.65
+P2569,Santiago Navarro,25,NA,Callao,Consulta General,13/08/2024,375.91
+P2570,Javier García,74,M,La Molina,Cardiología,28/05/2024,576.23
+P2571,Diego Acosta,74,M,Callao,Consulta General,18/06/2024,554.56
+P2572,Ana Delgado,22,M,Callao,Cardiología,05/12/2024,978.47
+P2573,Daniela Campos,73,F,NA,Ginecología,26/05/2024,781.24
+P2574,Marta Alfaro,27,M,Miraflores,Ginecología,20/06/2024,933.41
+P2575,Raúl Silva,71,M,La Molina,Consulta General,12/10/2024,598.1
+P2576,Lorena Jiménez,62,M,Miraflores,Pediatría,23/09/2024,572.38
+P2577,Lorena Suárez,23,M,La Molina,Consulta General,29/08/2024,853.45
+P2578,Alberto García,63,M,Lince,Emergencia,10/10/2024,530.18
+P2579,Santiago García,14,F,Miraflores,Emergencia,07/01/2024,229.98
+P2580,Pedro Castro,68,F,San Isidro,Ginecología,NA,737.7
+P2581,Santiago García,14,F,La Molina,Cardiología,04/08/2024,779.07
+P2582,Claudia Navarro,24,F,San Isidro,Consulta General,07/04/2024,792.73
+P2583,Miguel Delgado,74,M,Miraflores,Consulta General,29/07/2024,186.14
+P2584,Natalia Guerrero,11,M,Lince,Emergencia,26/06/2024,291.03
+P2585,Ana García,88,F,Callao,Odontología,30/03/2024,464.0
+P2586,Héctor Navarro,42,M,San Juan de Lurigancho,Consulta General,29/06/2024,NA
+P2587,Jorge Romero,23,F,Lince,Emergencia,10/02/2024,824.98
+P2588,Sofía Hernández,37,F,Miraflores,Ginecología,16/03/2024,252.67
+P2589,Patricia Romero,11,F,Callao,Consulta General,21/12/2024,681.65
+P2590,Silvia Torres,13,F,Callao,Pediatría,15/12/2024,614.79
+P2591,Andrés Ramírez,40,F,San Juan de Lurigancho,Cardiología,09/09/2024,891.7
+P2592,Gabriela Acosta,69,M,Miraflores,Cardiología,12/04/2024,345.77
+P2593,Miguel Sánchez,26,F,Surco,Odontología,02/01/2024,275.25
+P2594,Isabel Gómez,80,F,San Juan de Lurigancho,Ginecología,10/12/2024,392.64
+P2595,Gabriela Castillo,46,M,La Molina,Ginecología,30/11/2024,399.75
+P2596,Andrés Acosta,86,F,San Juan de Lurigancho,Emergencia,24/03/2024,277.32
+P2597,Héctor Díaz,74,F,NA,Odontología,30/11/2024,378.16
+P2598,Natalia Soto,77,M,Callao,Ginecología,07/02/2024,180.25
+P2599,Fernando Cabrera,72,M,La Molina,NA,17/11/2024,508.21
+P2600,Carlos Castillo,74,M,La Molina,Cardiología,17/11/2024,741.2
+P2601,Roberto Suárez,32,F,La Molina,Ginecología,05/04/2024,601.62
+P2602,Valeria Alfaro,16,F,San Juan de Lurigancho,Odontología,17/01/2024,211.11
+P2603,Sofía Martínez,8,NA,Callao,Ginecología,29/02/2024,531.13
+P2604,Verónica Suárez,27,M,La Molina,Emergencia,30/12/2024,307.14
+P2605,Fernando Vargas,46,F,San Isidro,Emergencia,14/07/2024,375.77
+P2606,Roberto Díaz,25,F,Surco,Ginecología,19/05/2024,844.26
+P2607,Silvia Hernández,65,M,San Isidro,Emergencia,18/08/2024,284.36
+P2608,Miguel Alfaro,25,F,La Molina,Ginecología,03/07/2024,995.45
+P2609,Carlos Hernández,18,NA,NA,Pediatría,26/11/2024,452.81
+P2610,Lorena Suárez,49,NA,San Juan de Lurigancho,Ginecología,09/11/2024,275.22
+P2611,Juan Díaz,38,F,Miraflores,Emergencia,05/12/2024,616.21
+P2612,Claudia Jiménez,26,M,Surco,Pediatría,13/02/2024,178.85
+P2613,Javier Martínez,15,F,San Isidro,Cardiología,05/04/2024,NA
+P2614,Luis Guerrero,55,F,La Molina,Emergencia,08/06/2024,216.86
+P2615,Lorena Delgado,71,M,San Juan de Lurigancho,Pediatría,17/08/2024,461.18
+P2616,Verónica Romero,15,M,Lince,Odontología,23/03/2024,625.08
+P2617,Diego Morales,49,M,Surco,Emergencia,26/08/2024,350.19
+P2618,Lorena Martínez,81,F,Surco,Consulta General,20/11/2024,536.49
+P2619,Jorge Silva,70,F,La Molina,Ginecología,10/02/2024,118.64
+P2620,Javier Cabrera,38,M,Callao,Emergencia,25/05/2024,975.73
+P2621,Gabriela Morales,45,F,NA,Cardiología,20/12/2024,554.37
+P2622,Andrés Delgado,38,M,San Isidro,Emergencia,30/05/2024,182.37
+P2623,Fernando Rojas,61,F,La Molina,Pediatría,07/09/2024,943.68
+P2624,Lucía Ortiz,21,M,Lince,Ginecología,30/08/2024,173.04
+P2625,Valeria Robles,41,F,Surco,Emergencia,02/10/2024,469.44
+P2626,Silvia Delgado,72,F,Miraflores,NA,16/01/2024,207.55
+P2627,Gabriela Delgado,86,F,Lince,Cardiología,12/09/2024,262.72
+P2628,Valeria Silva,89,M,NA,Ginecología,27/06/2024,920.13
+P2629,Silvia Castro,65,F,Callao,Odontología,27/10/2024,201.26
+P2630,Fernando Robles,47,M,Surco,NA,19/03/2024,518.2
+P2631,NA,48,F,San Juan de Lurigancho,Pediatría,12/04/2024,438.6
+P2632,Fernando Robles,35,F,San Juan de Lurigancho,Ginecología,13/10/2024,920.94
+P2633,Marta Romero,69,NA,San Juan de Lurigancho,Pediatría,02/04/2024,557.45
+P2634,Lucía Castillo,81,F,Callao,Odontología,16/07/2024,537.9
+P2635,Marta Ramírez,11,M,La Molina,Cardiología,29/02/2024,997.82
+P2636,Ricardo Delgado,25,M,San Juan de Lurigancho,Pediatría,26/07/2024,944.46
+P2637,Claudia Soto,14,F,Miraflores,Cardiología,26/02/2024,331.57
+P2638,Pedro Robles,31,M,NA,Cardiología,03/09/2024,293.66
+P2639,Santiago García,58,F,La Molina,Odontología,26/10/2024,289.21
+P2640,Daniela Pérez,22,F,Miraflores,Ginecología,11/06/2024,NA
+P2641,Verónica Robles,10,M,NA,Cardiología,04/02/2024,642.65
+P2642,Claudia Díaz,45,M,La Molina,Emergencia,31/05/2024,732.12
+P2643,Valeria Ortiz,24,F,Lince,Ginecología,22/07/2024,781.01
+P2644,Verónica Rodríguez,53,M,Surco,Pediatría,07/02/2024,398.79
+P2645,Lucía Rodríguez,60,M,Miraflores,Odontología,15/06/2024,391.42
+P2646,Andrés Silva,73,F,San Isidro,Consulta General,12/01/2024,462.86
+P2647,Lucía Romero,22,M,San Isidro,Consulta General,03/12/2024,785.03
+P2648,Gabriela Romero,49,M,Lince,Emergencia,12/11/2024,211.82
+P2649,Daniela Ortiz,43,F,Lince,Cardiología,12/12/2024,133.65
+P2650,Santiago Guerrero,8,M,Miraflores,Ginecología,09/11/2024,NA
+P2651,Alberto Castro,35,F,Surco,Consulta General,03/04/2024,NA
+P2652,Carmen Ramos,32,M,San Juan de Lurigancho,Consulta General,23/04/2024,58.55
+P2653,Gabriela Guerrero,35,F,Callao,Ginecología,07/11/2024,702.76
+P2654,Carlos Díaz,36,M,Callao,Emergencia,14/04/2024,631.22
+P2655,Javier Cabrera,72,F,San Isidro,Consulta General,08/08/2024,615.78
+P2656,Carlos Gómez,13,F,Miraflores,Cardiología,25/02/2024,953.55
+P2657,Álvaro Ortiz,70,F,Callao,Emergencia,04/07/2024,452.24
+P2658,Silvia Gómez,NA,M,Callao,Ginecología,24/09/2024,507.07
+P2659,Javier Flores,53,F,La Molina,NA,16/01/2024,642.58
+P2660,Sofía Ramírez,18,M,San Isidro,Pediatría,09/08/2024,839.69
+P2661,Luis Flores,33,M,San Isidro,Odontología,26/02/2024,802.09
+P2662,Elena Castillo,74,F,San Isidro,Cardiología,23/11/2024,389.44
+P2663,Raúl Rojas,11,M,Callao,Cardiología,01/05/2024,214.4
+P2664,Jorge Gómez,72,F,San Isidro,Emergencia,17/09/2024,134.53
+P2665,Verónica Delgado,55,M,Lince,Emergencia,08/07/2024,550.28
+P2666,Lorena Vargas,42,NA,San Isidro,Ginecología,23/12/2024,900.6
+P2667,María Campos,71,M,San Juan de Lurigancho,Consulta General,27/08/2024,316.26
+P2668,Carmen Díaz,52,F,NA,Cardiología,28/11/2024,280.27
+P2669,Alberto Vega,50,M,Lince,Ginecología,29/09/2024,823.97
+P2670,Roberto Rojas,68,F,San Isidro,Cardiología,06/07/2024,674.13
+P2671,Marta Castillo,74,F,Miraflores,Emergencia,13/01/2024,NA
+P2672,NA,16,M,Surco,Ginecología,02/02/2024,449.06
+P2673,NA,29,F,La Molina,Emergencia,27/04/2024,108.95
+P2674,Marta Alfaro,8,M,Surco,Cardiología,17/08/2024,99.21
+P2675,Daniela Gómez,77,F,Miraflores,Odontología,21/09/2024,241.3
+P2676,Patricia Ramírez,45,F,La Molina,Odontología,12/12/2024,122.76
+P2677,Héctor Ramos,18,M,San Juan de Lurigancho,Cardiología,29/12/2024,490.13
+P2678,Fernando Romero,20,F,Surco,Cardiología,05/05/2024,424.64
+P2679,Carmen Cruz,67,F,NA,Emergencia,21/10/2024,120.73
+P2680,Silvia Rodríguez,62,F,San Isidro,Emergencia,21/02/2024,264.95
+P2681,Luis Suárez,66,M,Miraflores,Pediatría,19/09/2024,717.28
+P2682,Elena Jiménez,57,F,Surco,Consulta General,22/09/2024,842.24
+P2683,Sofía Flores,90,M,San Isidro,Cardiología,24/01/2024,663.16
+P2684,Luis Castro,63,M,Miraflores,Ginecología,07/04/2024,NA
+P2685,Daniela Martínez,66,F,Miraflores,Ginecología,13/03/2024,252.03
+P2686,Claudia Gómez,NA,F,San Juan de Lurigancho,Consulta General,31/01/2024,219.42
+P2687,Diego Ortiz,43,M,Lince,Odontología,02/04/2024,695.92
+P2688,Elena Navarro,80,M,Miraflores,Consulta General,16/05/2024,355.33
+P2689,Miguel Hernández,20,M,Lince,Ginecología,28/07/2024,NA
+P2690,Luis Silva,39,M,San Isidro,Cardiología,06/11/2024,405.37
+P2691,Marta Acosta,45,M,Lince,Pediatría,03/02/2024,988.36
+P2692,Fernando Rojas,37,M,La Molina,Emergencia,25/12/2024,739.73
+P2693,Alberto Alfaro,NA,F,Callao,Odontología,23/06/2024,645.43
+P2694,Javier López,28,M,Callao,Ginecología,11/03/2024,180.62
+P2695,Alberto Torres,26,M,Surco,Consulta General,25/09/2024,81.7
+P2696,Elena Cabrera,43,F,San Juan de Lurigancho,NA,29/05/2024,770.59
+P2697,Diego Jiménez,86,F,La Molina,Ginecología,29/07/2024,594.15
+P2698,Luis Rojas,76,M,Callao,Ginecología,26/04/2024,932.32
+P2699,Valeria López,64,F,La Molina,Emergencia,24/08/2024,556.07
+P2700,Ana López,58,M,La Molina,Ginecología,06/06/2024,807.09
+P2701,Luis Rodríguez,NA,M,Miraflores,Pediatría,14/10/2024,614.54
+P2702,Javier Cabrera,22,M,Lince,Consulta General,23/05/2024,894.92
+P2703,Marta Rodríguez,8,M,San Juan de Lurigancho,Ginecología,10/07/2024,67.23
+P2704,Gabriela Rojas,38,F,Surco,Consulta General,04/07/2024,962.92
+P2705,Patricia Hernández,32,NA,Callao,Odontología,03/10/2024,436.47
+P2706,Marta Jiménez,65,F,Lince,Ginecología,08/02/2024,728.44
+P2707,NA,66,M,La Molina,Cardiología,28/03/2024,560.18
+P2708,María Díaz,30,M,La Molina,Emergencia,30/06/2024,473.28
+P2709,NA,39,F,Callao,Cardiología,12/06/2024,990.91
+P2710,Gabriela Gómez,34,F,San Juan de Lurigancho,Pediatría,02/09/2024,186.17
+P2711,Verónica Soto,71,F,San Isidro,Odontología,01/05/2024,NA
+P2712,Claudia Torres,66,F,La Molina,Ginecología,19/01/2024,108.47
+P2713,Javier Cabrera,73,M,San Isidro,Pediatría,13/08/2024,691.94
+P2714,Elena Cruz,58,M,Lince,Consulta General,11/07/2024,800.61
+P2715,Lorena Guerrero,42,F,Miraflores,Consulta General,15/03/2024,729.34
+P2716,Raúl Vargas,47,F,San Isidro,Cardiología,24/02/2024,546.06
+P2717,Daniela Silva,74,F,Surco,Odontología,12/12/2024,825.73
+P2718,Patricia Vega,49,M,San Isidro,Ginecología,14/09/2024,70.48
+P2719,Lucía Rojas,80,F,La Molina,Emergencia,16/03/2024,124.69
+P2720,Luis Vargas,73,M,Callao,Consulta General,17/12/2024,881.07
+P2721,NA,83,NA,San Isidro,Pediatría,19/09/2024,612.85
+P2722,Héctor Robles,58,F,Callao,Cardiología,03/09/2024,611.89
+P2723,Jorge Vega,NA,M,Lince,Pediatría,30/04/2024,771.73
+P2724,Marta Alfaro,NA,F,San Juan de Lurigancho,Odontología,24/10/2024,770.05
+P2725,Luis Ortiz,52,F,San Isidro,Emergencia,15/04/2024,377.44
+P2726,Miguel Torres,74,M,Surco,Cardiología,13/11/2024,781.53
+P2727,Daniela Ortiz,46,M,Miraflores,Cardiología,03/02/2024,326.2
+P2728,Carlos Rojas,48,F,San Juan de Lurigancho,Odontología,24/05/2024,930.28
+P2729,Pedro Castillo,81,M,San Juan de Lurigancho,Odontología,07/12/2024,317.55
+P2730,Natalia Vega,46,F,Surco,Consulta General,26/01/2024,555.82
+P2731,Carlos López,26,M,Callao,Ginecología,01/01/2025,126.7
+P2732,Marta Torres,54,M,Lince,NA,08/10/2024,658.93
+P2733,NA,21,F,La Molina,Emergencia,17/02/2024,674.96
+P2734,Isabel Delgado,78,M,San Isidro,NA,26/05/2024,561.44
+P2735,Gabriela Cabrera,85,M,Miraflores,Odontología,30/06/2024,329.63
+P2736,Álvaro Acosta,83,M,San Isidro,Emergencia,15/01/2024,340.51
+P2737,Patricia Silva,28,M,San Isidro,Cardiología,23/12/2024,252.83
+P2738,Silvia Guerrero,53,M,Surco,Ginecología,23/03/2024,856.95
+P2739,Roberto Díaz,36,M,Miraflores,Emergencia,31/08/2024,141.17
+P2740,Ana Vega,58,M,La Molina,Cardiología,09/01/2024,966.9
+P2741,Roberto Acosta,65,M,Miraflores,Pediatría,18/01/2024,251.28
+P2742,Silvia Cabrera,80,M,San Isidro,Pediatría,21/06/2024,758.56
+P2743,NA,76,M,Callao,Odontología,12/10/2024,182.3
+P2744,Isabel Cruz,27,F,Miraflores,Ginecología,27/06/2024,951.46
+P2745,Alberto Ortiz,75,M,Callao,Cardiología,21/01/2024,569.77
+P2746,Lorena Alfaro,66,M,San Juan de Lurigancho,Ginecología,23/12/2024,964.14
+P2747,Ana Pérez,54,F,Lince,Consulta General,11/07/2024,65.97
+P2748,Javier Díaz,22,F,San Isidro,Cardiología,24/09/2024,560.31
+P2749,Ricardo Díaz,45,M,San Juan de Lurigancho,Pediatría,04/03/2024,650.97
+P2750,Patricia Martínez,85,M,Miraflores,Consulta General,29/12/2024,885.51
+P2751,Carlos Delgado,52,M,Miraflores,Ginecología,02/03/2024,518.07
+P2752,Luis Acosta,23,M,Callao,Consulta General,09/04/2024,390.79
+P2753,Ana Suárez,42,F,Callao,Consulta General,06/11/2024,724.48
+P2754,Álvaro Pérez,32,M,Callao,Ginecología,16/09/2024,861.38
+P2755,Claudia Ramos,16,F,Lince,Ginecología,01/09/2024,297.82
+P2756,Natalia Castro,68,M,NA,Odontología,04/05/2024,989.92
+P2757,Sofía López,61,F,Surco,Cardiología,19/08/2024,173.78
+P2758,Valeria Silva,46,F,La Molina,NA,17/04/2024,748.71
+P2759,Lorena Alfaro,65,F,Callao,Pediatría,23/03/2024,757.65
+P2760,NA,11,M,Miraflores,Pediatría,27/05/2024,243.96
+P2761,Luis Rodríguez,27,F,San Isidro,Consulta General,16/01/2024,479.91
+P2762,Lorena Romero,33,M,San Juan de Lurigancho,Emergencia,09/04/2024,793.63
+P2763,Ana Robles,57,M,Miraflores,Emergencia,09/04/2024,NA
+P2764,Luis Alfaro,37,M,San Isidro,Odontología,10/06/2024,830.01
+P2765,Valeria Vega,25,F,San Juan de Lurigancho,Emergencia,19/01/2024,906.4
+P2766,Roberto Soto,48,M,San Juan de Lurigancho,Pediatría,11/03/2024,935.18
+P2767,Héctor Martínez,33,F,San Juan de Lurigancho,Ginecología,01/08/2024,313.14
+P2768,Alberto Martínez,11,M,San Juan de Lurigancho,Consulta General,19/06/2024,389.12
+P2769,Isabel Vega,71,F,San Juan de Lurigancho,Emergencia,14/05/2024,656.32
+P2770,Gabriela Jiménez,11,F,San Juan de Lurigancho,NA,13/03/2024,517.19
+P2771,Álvaro Díaz,14,F,Callao,Ginecología,04/05/2024,295.9
+P2772,Jorge Ortiz,72,NA,Lince,Cardiología,03/06/2024,259.44
+P2773,Luis Guerrero,27,F,San Juan de Lurigancho,Odontología,24/09/2024,101.32
+P2774,Roberto Castillo,20,M,NA,Consulta General,02/11/2024,NA
+P2775,Patricia Delgado,34,F,La Molina,Pediatría,30/09/2024,971.3
+P2776,Pedro Soto,84,NA,La Molina,Emergencia,09/06/2024,NA
+P2777,Ricardo Martínez,63,F,La Molina,Pediatría,03/12/2024,283.66
+P2778,Álvaro Silva,28,M,San Juan de Lurigancho,Cardiología,05/06/2024,931.68
+P2779,Patricia Romero,26,F,Callao,Cardiología,14/09/2024,624.99
+P2780,Diego Torres,21,M,San Juan de Lurigancho,NA,04/02/2024,491.47
+P2781,Verónica Torres,20,F,San Isidro,Pediatría,01/05/2024,184.8
+P2782,Diego Ortiz,77,F,Miraflores,Odontología,04/06/2024,741.96
+P2783,Lucía Suárez,81,F,NA,Ginecología,02/07/2024,806.19
+P2784,Gabriela Campos,44,F,Miraflores,Consulta General,05/04/2024,783.65
+P2785,Lorena Delgado,39,M,Surco,Odontología,10/08/2024,236.35
+P2786,Andrés Gómez,79,F,San Isidro,Emergencia,17/09/2024,422.15
+P2787,Lorena Robles,88,F,Lince,NA,07/04/2024,668.14
+P2788,Jorge Ramos,20,F,Surco,Emergencia,29/11/2024,320.04
+P2789,Valeria Vargas,88,F,NA,Emergencia,27/02/2024,169.37
+P2790,Diego Acosta,8,M,San Juan de Lurigancho,Emergencia,19/08/2024,NA
+P2791,María Cabrera,19,F,Lince,Cardiología,27/01/2024,877.79
+P2792,María Jiménez,13,F,Callao,Consulta General,01/06/2024,541.25
+P2793,Miguel Acosta,86,NA,San Juan de Lurigancho,Odontología,26/06/2024,755.76
+P2794,Silvia Guerrero,67,F,Callao,Emergencia,14/05/2024,315.47
+P2795,Elena Silva,73,F,Lince,Odontología,13/03/2024,511.11
+P2796,Valeria Vargas,78,F,Miraflores,Consulta General,31/05/2024,644.45
+P2797,Claudia Ortiz,41,M,Surco,Ginecología,11/07/2024,307.27
+P2798,Héctor Navarro,82,M,La Molina,Pediatría,09/08/2024,859.3
+P2799,Carmen Martínez,44,F,La Molina,Odontología,17/02/2024,338.5
+P2800,Carmen Navarro,28,M,Lince,Emergencia,06/01/2024,337.65
+P2801,Daniela Vargas,36,F,La Molina,Ginecología,18/12/2024,401.3
+P2802,Lorena Pérez,90,F,Surco,Emergencia,18/09/2024,858.95
+P2803,Roberto Campos,22,F,Callao,Cardiología,16/05/2024,807.62
+P2804,María Ortiz,NA,M,Callao,Cardiología,09/06/2024,592.62
+P2805,Diego López,71,F,La Molina,NA,23/05/2024,977.89
+P2806,Raúl Jiménez,35,M,La Molina,Odontología,04/04/2024,836.34
+P2807,Fernando Navarro,68,F,San Isidro,Pediatría,03/03/2024,96.2
+P2808,Fernando Torres,8,F,Callao,Pediatría,11/08/2024,NA
+P2809,Héctor Navarro,NA,F,Miraflores,Pediatría,04/04/2024,179.43
+P2810,Elena Castro,46,F,San Juan de Lurigancho,Cardiología,26/07/2024,449.44
+P2811,Isabel Silva,47,M,NA,Ginecología,07/01/2024,NA
+P2812,Juan Flores,74,M,San Isidro,Pediatría,22/05/2024,830.69
+P2813,Fernando Ortiz,22,M,San Isidro,Cardiología,12/07/2024,662.21
+P2814,Carlos Gómez,34,F,San Juan de Lurigancho,Ginecología,11/09/2024,58.11
+P2815,Jorge Flores,21,F,San Isidro,Cardiología,02/08/2024,289.05
+P2816,Lorena Soto,25,F,San Juan de Lurigancho,Odontología,22/10/2024,156.4
+P2817,Héctor Ramos,41,F,Lince,Ginecología,NA,716.87
+P2818,Santiago Martínez,49,M,Surco,Pediatría,13/11/2024,559.74
+P2819,Ricardo Torres,17,F,San Isidro,Odontología,28/05/2024,821.5
+P2820,Luis Ramírez,61,F,NA,NA,14/05/2024,161.59
+P2821,Álvaro Morales,50,M,Surco,Emergencia,22/05/2024,362.51
+P2822,Sofía Cruz,57,F,Miraflores,Ginecología,10/05/2024,251.19
+P2823,Miguel Jiménez,34,M,Callao,Odontología,13/04/2024,454.69
+P2824,Héctor Ortiz,41,F,San Juan de Lurigancho,Odontología,23/05/2024,NA
+P2825,Elena Silva,50,F,Lince,Cardiología,19/06/2024,NA
+P2826,Carlos Gómez,47,F,La Molina,Cardiología,18/09/2024,NA
+P2827,Silvia Morales,45,M,Lince,Consulta General,24/05/2024,225.49
+P2828,Juan Pérez,90,F,Surco,Consulta General,24/06/2024,313.85
+P2829,Alberto Robles,23,NA,San Isidro,Ginecología,16/07/2024,302.99
+P2830,Miguel Campos,54,M,San Isidro,Ginecología,03/04/2024,391.5
+P2831,María Ramírez,9,F,NA,Odontología,05/07/2024,648.14
+P2832,Natalia Vega,13,M,La Molina,Ginecología,21/02/2024,452.96
+P2833,Carlos García,13,F,San Juan de Lurigancho,Odontología,27/01/2024,495.16
+P2834,Lucía Vargas,78,M,San Isidro,Emergencia,05/01/2024,775.95
+P2835,Diego Hernández,20,F,NA,Ginecología,19/10/2024,891.15
+P2836,Roberto Vargas,76,M,Lince,Emergencia,12/03/2024,909.72
+P2837,Verónica Torres,82,F,San Isidro,Ginecología,28/06/2024,169.34
+P2838,Juan López,38,F,Lince,Cardiología,31/01/2024,NA
+P2839,Pedro Suárez,20,M,Callao,Emergencia,01/02/2024,937.25
+P2840,Sofía Vega,78,M,San Isidro,Emergencia,02/10/2024,655.92
+P2841,Lucía Hernández,64,M,Miraflores,Consulta General,30/11/2024,389.83
+P2842,Isabel Flores,82,M,La Molina,Consulta General,24/12/2024,405.94
+P2843,Juan Jiménez,51,F,La Molina,Odontología,17/04/2024,442.35
+P2844,Luis Romero,23,M,Lince,Odontología,NA,815.71
+P2845,Lorena Campos,65,F,Callao,Consulta General,17/06/2024,NA
+P2846,Lucía Castro,44,F,Surco,Pediatría,01/08/2024,437.07
+P2847,Miguel Guerrero,53,F,Surco,Pediatría,31/05/2024,500.59
+P2848,Verónica Silva,68,F,Miraflores,Consulta General,10/08/2024,279.93
+P2849,Roberto Morales,72,F,Miraflores,Odontología,20/12/2024,246.13
+P2850,Sofía Cruz,22,M,San Juan de Lurigancho,Emergencia,08/12/2024,427.03
+P2851,Lorena Ramos,64,M,San Isidro,Ginecología,01/06/2024,506.96
+P2852,Pedro Robles,86,M,San Juan de Lurigancho,Pediatría,13/08/2024,262.66
+P2853,Daniela Robles,NA,F,Callao,Odontología,21/11/2024,497.25
+P2854,Raúl Gómez,59,M,Surco,Ginecología,28/07/2024,337.56
+P2855,Jorge Soto,81,M,Surco,Cardiología,16/11/2024,155.11
+P2856,Andrés Díaz,62,M,La Molina,Consulta General,21/02/2024,766.71
+P2857,Álvaro Delgado,33,M,Lince,Odontología,20/10/2024,541.1
+P2858,Carmen Suárez,24,M,NA,Odontología,05/07/2024,206.96
+P2859,NA,43,M,Miraflores,Consulta General,01/07/2024,623.8
+P2860,Carmen Soto,19,NA,San Isidro,Ginecología,06/09/2024,276.08
+P2861,Andrés Robles,77,F,Lince,Pediatría,28/09/2024,NA
+P2862,Lucía Ramos,41,F,Lince,Consulta General,15/05/2024,712.18
+P2863,Roberto Guerrero,78,M,San Juan de Lurigancho,Odontología,18/07/2024,561.29
+P2864,Javier Sánchez,NA,F,NA,Cardiología,19/08/2024,894.2
+P2865,Carlos Vega,77,F,Miraflores,Odontología,28/12/2024,621.1
+P2866,Natalia Navarro,51,M,San Isidro,Odontología,10/06/2024,703.25
+P2867,Ricardo Alfaro,55,M,Surco,Odontología,08/07/2024,517.42
+P2868,Ana Alfaro,NA,M,Surco,Pediatría,04/02/2024,140.95
+P2869,Patricia Castillo,30,M,NA,Cardiología,02/02/2024,139.3
+P2870,Héctor Cruz,52,M,Miraflores,Pediatría,30/11/2024,620.6
+P2871,Alberto Díaz,84,M,San Juan de Lurigancho,Odontología,23/01/2024,598.6
+P2872,Álvaro Flores,84,F,NA,Pediatría,12/09/2024,802.76
+P2873,Santiago Flores,43,M,NA,Odontología,21/11/2024,989.39
+P2874,Fernando Hernández,9,M,Lince,Pediatría,20/03/2024,382.97
+P2875,Luis Romero,22,F,Miraflores,Cardiología,16/11/2024,972.59
+P2876,Claudia Rojas,54,F,San Juan de Lurigancho,Pediatría,07/10/2024,605.12
+P2877,Verónica Campos,43,F,NA,Consulta General,18/05/2024,62.51
+P2878,Marta Flores,29,F,Callao,Odontología,01/01/2025,557.18
+P2879,Carmen Ramírez,NA,M,San Juan de Lurigancho,Cardiología,11/03/2024,160.32
+P2880,Daniela Sánchez,17,F,La Molina,Cardiología,20/01/2024,905.38
+P2881,Lucía Soto,41,F,Surco,Ginecología,14/09/2024,985.42
+P2882,Héctor Navarro,NA,F,San Isidro,Consulta General,30/08/2024,110.83
+P2883,Valeria Acosta,14,F,Lince,Cardiología,NA,257.97
+P2884,Marta Ortiz,22,F,Callao,Pediatría,27/03/2024,934.76
+P2885,Roberto Navarro,68,M,Lince,Pediatría,08/08/2024,459.04
+P2886,Pedro Alfaro,57,F,Lince,Consulta General,28/02/2024,643.07
+P2887,Claudia Soto,65,M,Miraflores,Cardiología,27/03/2024,349.82
+P2888,Jorge Rojas,72,M,NA,Cardiología,12/04/2024,629.41
+P2889,Pedro Suárez,56,F,Callao,Emergencia,06/08/2024,502.36
+P2890,Isabel Sánchez,71,NA,San Juan de Lurigancho,Pediatría,24/08/2024,560.97
+P2891,NA,81,F,Miraflores,Pediatría,26/01/2024,837.4
+P2892,Diego Navarro,68,M,Miraflores,Emergencia,07/09/2024,575.31
+P2893,Silvia Ortiz,65,M,San Juan de Lurigancho,Pediatría,04/03/2024,905.45
+P2894,Marta Ortiz,86,M,Lince,NA,16/04/2024,856.57
+P2895,Valeria Alfaro,31,F,San Isidro,Consulta General,23/09/2024,NA
+P2896,Alberto Cruz,55,F,Miraflores,NA,31/03/2024,289.08
+P2897,Claudia Ramírez,30,F,Surco,Odontología,02/02/2024,759.05
+P2898,Roberto Rojas,58,M,Lince,Cardiología,06/02/2024,107.45
+P2899,Fernando Cruz,51,M,Lince,Cardiología,01/11/2024,427.9
+P2900,NA,43,F,Callao,Odontología,NA,81.24
+P2901,Carlos Ramos,40,M,Surco,Cardiología,01/11/2024,668.7
+P2902,Juan Navarro,28,F,La Molina,Ginecología,02/10/2024,717.52
+P2903,Pedro Vargas,59,M,Surco,Cardiología,07/12/2024,363.91
+P2904,Diego Sánchez,27,M,Callao,Pediatría,29/01/2024,866.44
+P2905,Natalia García,35,F,Miraflores,Ginecología,15/10/2024,447.5
+P2906,NA,20,NA,San Isidro,Odontología,28/08/2024,406.68
+P2907,Elena Rodríguez,21,F,San Isidro,Cardiología,15/07/2024,291.94
+P2908,Elena Gómez,58,F,Surco,Ginecología,25/02/2024,348.01
+P2909,Héctor Castillo,90,M,Miraflores,Consulta General,23/07/2024,531.46
+P2910,Lorena Soto,39,M,Miraflores,Odontología,26/07/2024,878.67
+P2911,Carlos Delgado,50,M,Lince,Odontología,02/08/2024,70.56
+P2912,Ana Suárez,61,M,Callao,Ginecología,05/02/2024,162.67
+P2913,Isabel Sánchez,10,F,San Isidro,Ginecología,04/04/2024,386.46
+P2914,Silvia García,60,F,Lince,Pediatría,21/11/2024,722.64
+P2915,Claudia Pérez,45,F,Surco,Cardiología,NA,589.55
+P2916,Lorena Silva,90,M,La Molina,Odontología,20/07/2024,638.47
+P2917,Lorena Jiménez,47,M,San Isidro,Ginecología,28/09/2024,174.7
+P2918,Roberto Suárez,69,M,Miraflores,Pediatría,05/02/2024,944.31
+P2919,Ricardo Ortiz,69,M,Miraflores,Pediatría,20/06/2024,830.33
+P2920,Valeria Castro,8,F,Surco,Cardiología,19/02/2024,88.28
+P2921,Verónica Flores,21,F,La Molina,Emergencia,24/09/2024,885.12
+P2922,Patricia Gómez,11,M,Surco,Consulta General,09/04/2024,864.36
+P2923,Gabriela López,56,M,Surco,Pediatría,16/04/2024,299.7
+P2924,NA,33,F,Lince,Odontología,20/05/2024,165.48
+P2925,Fernando Vargas,26,M,San Isidro,Consulta General,17/01/2024,902.95
+P2926,Fernando Robles,43,M,Lince,Pediatría,19/07/2024,123.03
+P2927,Ana Díaz,82,F,Miraflores,Emergencia,09/11/2024,720.72
+P2928,Claudia Vega,66,F,Miraflores,Cardiología,01/06/2024,548.43
+P2929,Elena Díaz,57,F,Lince,Cardiología,27/11/2024,86.61
+P2930,Jorge Sánchez,31,M,Surco,NA,18/06/2024,NA
+P2931,Elena Rojas,49,F,NA,Consulta General,20/02/2024,485.97
+P2932,Héctor López,76,M,San Juan de Lurigancho,Ginecología,22/06/2024,265.85
+P2933,Gabriela Morales,76,F,San Isidro,Emergencia,22/05/2024,508.48
+P2934,Natalia Romero,53,F,Callao,Odontología,26/01/2024,788.62
+P2935,Ana Suárez,77,M,Callao,Ginecología,06/06/2024,NA
+P2936,Natalia Ortiz,32,M,San Juan de Lurigancho,Odontología,14/01/2024,659.61
+P2937,Ana Suárez,36,F,San Isidro,NA,19/02/2024,701.8
+P2938,Claudia Gómez,18,F,Surco,NA,20/04/2024,439.6
+P2939,Ana Robles,52,F,La Molina,Odontología,31/10/2024,671.91
+P2940,Elena Rodríguez,20,F,Callao,Odontología,19/06/2024,771.75
+P2941,Andrés Vargas,41,F,La Molina,Cardiología,30/06/2024,197.46
+P2942,María Suárez,31,F,San Juan de Lurigancho,Cardiología,09/06/2024,768.94
+P2943,Elena Torres,39,M,San Isidro,Consulta General,29/06/2024,666.28
+P2944,Héctor Torres,NA,F,Lince,Pediatría,22/04/2024,330.06
+P2945,Javier Vega,67,F,Lince,Cardiología,01/01/2024,193.82
+P2946,Álvaro Hernández,33,F,Lince,Cardiología,12/01/2024,235.32
+P2947,Silvia Castro,10,NA,San Juan de Lurigancho,Consulta General,05/10/2024,472.7
+P2948,Fernando Alfaro,12,M,Miraflores,Consulta General,13/07/2024,563.23
+P2949,Sofía Alfaro,59,M,Callao,Emergencia,NA,681.85
+P2950,Fernando Gómez,34,M,San Juan de Lurigancho,Consulta General,06/05/2024,390.6
+P2951,Carlos Martínez,26,M,San Juan de Lurigancho,Cardiología,24/04/2024,145.19
+P2952,Pedro Martínez,87,M,San Juan de Lurigancho,Emergencia,28/12/2024,462.13
+P2953,Gabriela Vega,24,M,NA,Ginecología,28/03/2024,955.67
+P2954,Gabriela Morales,68,M,La Molina,Pediatría,05/02/2024,NA
+P2955,Claudia Romero,26,M,Callao,Ginecología,02/10/2024,837.5
+P2956,Héctor Torres,8,F,La Molina,Cardiología,19/09/2024,851.55
+P2957,Valeria Rodríguez,87,M,San Juan de Lurigancho,Ginecología,20/04/2024,NA
+P2958,Alberto Rodríguez,45,M,Surco,Emergencia,17/07/2024,NA
+P2959,Jorge García,71,M,Lince,Emergencia,06/09/2024,NA
+P2960,Daniela Morales,20,F,Callao,Odontología,06/08/2024,669.67
+P2961,Héctor Romero,50,F,San Isidro,Ginecología,31/12/2024,219.25
+P2962,Lorena Castillo,52,M,Callao,Ginecología,31/08/2024,677.0
+P2963,Alberto Rojas,14,M,NA,Ginecología,29/01/2024,329.29
+P2964,Jorge Díaz,44,F,San Isidro,Emergencia,03/05/2024,912.26
+P2965,NA,78,M,San Juan de Lurigancho,Cardiología,04/06/2024,840.1
+P2966,Raúl Castillo,17,F,San Juan de Lurigancho,Cardiología,13/01/2024,901.24
+P2967,Lucía Hernández,47,M,La Molina,Cardiología,16/01/2024,453.32
+P2968,Natalia Hernández,19,F,Miraflores,Emergencia,19/07/2024,283.86
+P2969,NA,55,F,Lince,NA,03/04/2024,82.54
+P2970,Sofía García,64,NA,Surco,Odontología,24/11/2024,518.1
+P2971,Patricia Navarro,26,F,Lince,Emergencia,01/05/2024,549.53
+P2972,Héctor Mendoza,46,F,San Juan de Lurigancho,Ginecología,19/12/2024,528.21
+P2973,Marta Morales,69,NA,Miraflores,Cardiología,03/05/2024,458.81
+P2974,Luis Vargas,20,F,Miraflores,Odontología,04/01/2024,856.89
+P2975,Luis Campos,27,M,San Isidro,Consulta General,19/09/2024,137.0
+P2976,Santiago Flores,64,M,San Isidro,Ginecología,16/02/2024,527.09
+P2977,Elena Suárez,44,F,La Molina,Odontología,15/09/2024,168.25
+P2978,Sofía Sánchez,10,F,Surco,Odontología,04/01/2024,826.4
+P2979,Javier Torres,67,M,San Isidro,Odontología,20/12/2024,600.7
+P2980,Isabel Soto,58,M,Callao,Ginecología,02/08/2024,537.12
+P2981,Isabel Jiménez,23,M,Surco,Emergencia,01/04/2024,151.42
+P2982,Elena Navarro,25,M,Miraflores,Odontología,26/02/2024,292.45
+P2983,Andrés Torres,34,F,Surco,Odontología,28/11/2024,598.89
+P2984,Daniela Mendoza,78,M,La Molina,NA,16/05/2024,174.48
+P2985,Patricia Rodríguez,14,M,Lince,Pediatría,04/12/2024,407.68
+P2986,Alberto Torres,19,F,Surco,Cardiología,05/09/2024,NA
+P2987,Roberto Vega,16,F,San Isidro,Cardiología,06/12/2024,NA
+P2988,Juan Sánchez,26,NA,Surco,Ginecología,28/04/2024,NA
+P2989,Marta Campos,58,F,La Molina,Cardiología,17/05/2024,646.12
+P2990,Javier Delgado,24,M,Lince,Ginecología,06/12/2024,968.76
+P2991,Natalia Romero,NA,M,Callao,Consulta General,19/08/2024,298.62
+P2992,Ana Mendoza,29,M,Miraflores,NA,27/07/2024,239.65
+P2993,Daniela Delgado,58,M,Callao,Cardiología,07/05/2024,186.62
+P2994,Gabriela Romero,60,F,San Isidro,Pediatría,05/09/2024,552.71
+P2995,Diego Alfaro,40,M,San Juan de Lurigancho,Consulta General,24/08/2024,235.95
+P2996,Lorena Martínez,75,M,Surco,Odontología,11/10/2024,319.85
+P2997,Pedro Gómez,80,F,Surco,Consulta General,27/01/2024,518.84
+P2998,Sofía Castillo,34,M,San Juan de Lurigancho,Odontología,27/09/2024,844.76
+P2999,Juan Cruz,75,M,San Juan de Lurigancho,Odontología,31/05/2024,978.54
+P3000,NA,73,F,Miraflores,Emergencia,07/05/2024,88.12
